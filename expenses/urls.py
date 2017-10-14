@@ -1,21 +1,20 @@
 from django.conf.urls import url
 from django.conf.urls import include
+
 from rest_framework.urlpatterns import format_suffix_patterns
+from rest_framework import renderers
+from rest_framework.routers import DefaultRouter
+
 from expenses import views
 
-# Allow passing the content type at the end of the Request url and name all endpoints but the root
-urlpatterns = format_suffix_patterns([
-    url(r'^$', views.api_root),
-    url(r'^expenses/$', views.ExpenseList.as_view(), name='expense-list'),
-    url(r'^expenses/(?P<pk>[0-9]+)/$', views.ExpenseDetail.as_view(), name='expense-detail'),
-    url(r'^expenses/(?P<pk>[0-9]+)/highlight/$', views.ExpenseHighlight.as_view(), name='expense-highlight'),
-    url(r'^users/$', views.UserList.as_view(), name='user-list'),
-    url(r'^users/(?P<pk>[0-9]+)/$', views.UserDetail.as_view(), name='user-detail'),
-])
+# Create a router and register our viewsets with it.
+router = DefaultRouter()
+router.register(r'expenses', views.ExpenseViewSet)
+router.register(r'users', views.UserViewSet)
 
-# Add the default login and logout endpoints from the DjangoREST framework to the app
-# The r'^api-auth/' part of pattern can actually be whatever URL you want to use. 
-# The only restriction is that the included urls must use the 'rest_framework' namespace.
-urlpatterns += [
-    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+# The API URLs are now determined automatically by the router.
+# Additionally, we include the login URLs for the browsable API.
+urlpatterns = [
+    url(r'^', include(router.urls)),
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
 ]
