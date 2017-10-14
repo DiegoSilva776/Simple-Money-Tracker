@@ -2,8 +2,14 @@
 from __future__ import unicode_literals
 
 from django.shortcuts import render
+
+from rest_framework import renderers
 from rest_framework import generics
 from rest_framework import permissions
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from rest_framework.reverse import reverse
+
 from expenses.permissions import IsOwnerOrReadOnly
 
 from django.contrib.auth.models import User
@@ -12,6 +18,25 @@ from expenses.models import Expense
 from expenses.serializers import ExpenseSerializer
 
 
+'''
+    ROOT
+'''
+'''
+Two things should be noticed here. First, we're using REST framework's reverse function in order 
+to return fully-qualified URLs; second, URL patterns are identified by convenience names that we will 
+declare later on in our snippets/urls.py.
+'''
+@api_view(['GET'])
+def api_root(request, format=None):
+    return Response({
+        'users': reverse('user-list', request=request, format=format),
+        'expenses': reverse('expense-list', request=request, format=format)
+    })
+
+
+'''
+    EXPENSES
+'''
 '''
    Set the view of the class ExpenseList as the ListCreateAPIView, 
    * which use the mixins provided by the DjangoREST framework,
@@ -43,6 +68,20 @@ class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
                         IsOwnerOrReadOnly,)
 
 
+class ExpenseHighlight(generics.GenericAPIView):
+    queryset = Expense.objects.all()
+
+    # Set the class that is going to provide the HTML representation of the Expense object
+    renderer_classes = (renderers.StaticHTMLRenderer,)
+
+    def get(self, request, *args, **kwargs):
+        expense = self.get_object()
+        return Response(expense.highlighted)
+
+
+'''
+    USERS
+'''
 class UserList(generics.ListCreateAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer

@@ -3,19 +3,20 @@ from rest_framework import serializers
 from expenses.models import Expense
 
 
-class ExpenseSerializer(serializers.ModelSerializer):
+class ExpenseSerializer(serializers.HyperlinkedModelSerializer):
     # We could have also used CharField(read_only=True)
     owner = serializers.ReadOnlyField(source='owner.username')
+    highlight = serializers.HyperlinkedIdentityField(view_name='expense-highlight', format='html')
 
     class Meta:
         model = Expense
-        fields = ('id', 'title', 'code', 'value', 'owner')
+        fields = ('url', 'id', 'highlight', 'owner',
+                  'title', 'code', 'value')
 
 
-class UserSerializer(serializers.ModelSerializer):
-    expenses = serializers.PrimaryKeyRelatedField(many=True, queryset=Expense.objects.all())
+class UserSerializer(serializers.HyperlinkedModelSerializer):
+    expenses = serializers.HyperlinkedRelatedField(many=True, view_name='expense-detail', read_only=True)
 
     class Meta:
         model = User
-        fields = ('id', 'username', 'expenses')
-
+        fields = ('url', 'id', 'username', 'expenses')
