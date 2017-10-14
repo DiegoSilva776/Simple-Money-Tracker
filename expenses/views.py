@@ -6,7 +6,9 @@ from django.shortcuts import render
 from rest_framework import renderers
 from rest_framework import generics
 from rest_framework import permissions
+from rest_framework import viewsets
 from rest_framework.decorators import api_view
+from rest_framework.decorators import detail_route
 from rest_framework.response import Response
 from rest_framework.reverse import reverse
 
@@ -37,56 +39,31 @@ def api_root(request, format=None):
 '''
     EXPENSES
 '''
-'''
-   Set the view of the class ExpenseList as the ListCreateAPIView, 
-   * which use the mixins provided by the DjangoREST framework,
-   * which uses the APIView class that encapsulates the behaviour of the Request and Response objects,
-   * which make it easier to handle the format of the Response to the user, for example by identifying 
-   the content type and sending the correct representation of the data. 
-   For instance: lets say HTML to display in a browser, or JSON for an Ajax request
-'''
-class ExpenseList(generics.ListCreateAPIView):
-    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+class ExpenseViewSet(viewsets.ModelViewSet):
+    """
+    This viewset automatically provides `list`, `create`, `retrieve`, `update` and `destroy` actions.
+    Additionally we also provide an extra `highlight` action.
+    """
     queryset = Expense.objects.all()
     serializer_class = ExpenseSerializer
-
-    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
-    permission_classes = (permissions.IsAuthenticatedOrReadOnly,)
-
-    # Overwrite the create method of the generic APIView class, in order to set the owner attribute as the
-    # User object that was passed within the Request object
-    def perform_create(self, serializer):
-        serializer.save(owner=self.request.user)
-
-
-class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
-    queryset = Expense.objects.all()
-    serializer_class = ExpenseSerializer
-
-    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
     permission_classes = (permissions.IsAuthenticatedOrReadOnly,
-                        IsOwnerOrReadOnly,)
+                          IsOwnerOrReadOnly,)
 
-
-class ExpenseHighlight(generics.GenericAPIView):
-    queryset = Expense.objects.all()
-
-    # Set the class that is going to provide the HTML representation of the Expense object
-    renderer_classes = (renderers.StaticHTMLRenderer,)
-
-    def get(self, request, *args, **kwargs):
+    @detail_route(renderer_classes=[renderers.StaticHTMLRenderer])
+    def highlight(self, request, *args, **kwargs):
         expense = self.get_object()
         return Response(expense.highlighted)
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
 
 
 '''
     USERS
 '''
-class UserList(generics.ListCreateAPIView):
-    queryset = User.objects.all()
-    serializer_class = UserSerializer
-
-
-class UserDetail(generics.RetrieveUpdateDestroyAPIView):
+class UserViewSet(viewsets.ReadOnlyModelViewSet):
+    """
+    This viewset automatically provides `list` and `detail` actions.
+    """
     queryset = User.objects.all()
     serializer_class = UserSerializer
