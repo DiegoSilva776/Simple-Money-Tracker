@@ -3,53 +3,60 @@ from __future__ import unicode_literals
 from django.shortcuts import render
 
 # Create your views here.
-from django.http import HttpResponse, JsonResponse
-from django.views.decorators.csrf import csrf_exempt
-from rest_framework.renderers import JSONRenderer
-from rest_framework.parsers import JSONParser
 from expenses.models import Expense
 from expenses.serializers import ExpenseSerializer
+from django.http import Http404
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
 
-@csrf_exempt
-def expenses_list(request):
-    """
-    List all expenses, or create a new expense.
-    """
-    if request.method == 'GET':
+'''
+   Class based response
+'''
+class ExpenseList(APIView):
+    '''
+    List all expenses, or create a new expense
+    '''
+    def get(self, request, format=None):
         expenses = Expense.objects.all()
         serializer = ExpenseSerializer(expenses, many=True)
-        return JsonResponse(serializer.data, safe=False)
+        return Response(serializer.data)
 
-    elif request.method == 'POST':
-        data = JSONParser().parse(request)
-        serializer = ExpenseSerializer(data=data)
-        if serializer.is_valid():
+    def post(self, request, format=None):
+        serializer = ExpenseSerializer(data=request.data)
+
+        if (serializer.is_valid()):
             serializer.save()
-            return JsonResponse(serializer.data, status=201)
-        return JsonResponse(serializer.errors, status=400)
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
 
-@csrf_exempt
-def expense_detail(request, pk):
-    """
-    Retrieve, update or delete an expense.
-    """
-    try:
-        expense = Expense.objects.get(pk=pk)
-    except Expense.DoesNotExist:
-        return HttpResponse(status=404)
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
 
-    if request.method == 'GET':
+class ExpenseDetail(APIView):
+    '''
+    Retrieve, update or delete an expense instance
+    '''
+    def get_object(self, pk):
+        try:
+            return Expense.objects.get(pk=pk)
+        except Expense.DoesNotExist:
+            raise Http404
+
+    def get(self, request, pk, format=None):
+        expense = self.get_object(pk)
         serializer = ExpenseSerializer(expense)
-        return JsonResponse(serializer.data)
+        return Response(serializer.data)
 
-    elif request.method == 'PUT':
-        data = JSONParser().parse(request)
-        serializer = ExpenseSerializer(expense, data=data)
-        if serializer.is_valid():
+    def put(self, request, pk, format=None):
+        expense = self.get_object(pk)
+        serializer = ExpenseSerializer(expense, data=request.data)
+
+        if (serializer.is_valid()):
             serializer.save()
-            return JsonResponse(serializer.data)
-        return JsonResponse(serializer.errors, status=400)
+            return Response(serializer.data)
 
-    elif request.method == 'DELETE':
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def delete(self, request, pk, format=None):
+        expense = self.get_object(pk)
         expense.delete()
-        return HttpResponse(status=204)
+        return Response(status=status.HTTP_204_NO_CONTENT)
