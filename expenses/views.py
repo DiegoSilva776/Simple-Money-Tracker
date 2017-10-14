@@ -1,55 +1,69 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
+
 from django.shortcuts import render
 
-# Create your views here.
-from django.http import HttpResponse, JsonResponse
-from django.views.decorators.csrf import csrf_exempt
-from rest_framework.renderers import JSONRenderer
-from rest_framework.parsers import JSONParser
+from rest_framework import renderers
+from rest_framework import generics
+from rest_framework import permissions
+from rest_framework import viewsets
+from rest_framework.decorators import api_view
+from rest_framework.decorators import detail_route
+from rest_framework.response import Response
+from rest_framework.reverse import reverse
+
+from expenses.permissions import IsOwnerOrReadOnly
+
+from django.contrib.auth.models import User
+from expenses.serializers import UserSerializer
 from expenses.models import Expense
 from expenses.serializers import ExpenseSerializer
 
-@csrf_exempt
-def expenses_list(request):
+
+'''
+    ROOT
+'''
+'''
+Two things should be noticed here. First, we're using REST framework's reverse function in order 
+to return fully-qualified URLs; second, URL patterns are identified by convenience names that we will 
+declare later on in our snippets/urls.py.
+'''
+@api_view(['GET'])
+def api_root(request, format=None):
+    return Response({
+        'users': reverse('user-list', request=request, format=format),
+        'expenses': reverse('expense-list', request=request, format=format)
+    })
+
+
+'''
+    EXPENSES
+'''
+class ExpenseViewSet(viewsets.ModelViewSet):
     """
-    List all expenses, or create a new expense.
+    This viewset automatically provides `list`, `create`, `retrieve`, `update` and `destroy` actions.
+    Additionally we also provide an extra `highlight` action.
     """
-    if request.method == 'GET':
-        expenses = Expense.objects.all()
-        serializer = ExpenseSerializer(expenses, many=True)
-        return JsonResponse(serializer.data, safe=False)
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+    permission_classes = (permissions.IsAuthenticatedOrReadOnly,
+                          IsOwnerOrReadOnly,)
 
-    elif request.method == 'POST':
-        data = JSONParser().parse(request)
-        serializer = ExpenseSerializer(data=data)
-        if serializer.is_valid():
-            serializer.save()
-            return JsonResponse(serializer.data, status=201)
-        return JsonResponse(serializer.errors, status=400)
+    @detail_route(renderer_classes=[renderers.StaticHTMLRenderer])
+    def highlight(self, request, *args, **kwargs):
+        expense = self.get_object()
+        return Response(expense.highlighted)
 
-@csrf_exempt
-def expense_detail(request, pk):
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
+
+'''
+    USERS
+'''
+class UserViewSet(viewsets.ReadOnlyModelViewSet):
     """
-    Retrieve, update or delete an expense.
+    This viewset automatically provides `list` and `detail` actions.
     """
-    try:
-        expense = Expense.objects.get(pk=pk)
-    except Expense.DoesNotExist:
-        return HttpResponse(status=404)
-
-    if request.method == 'GET':
-        serializer = ExpenseSerializer(expense)
-        return JsonResponse(serializer.data)
-
-    elif request.method == 'PUT':
-        data = JSONParser().parse(request)
-        serializer = ExpenseSerializer(expense, data=data)
-        if serializer.is_valid():
-            serializer.save()
-            return JsonResponse(serializer.data)
-        return JsonResponse(serializer.errors, status=400)
-
-    elif request.method == 'DELETE':
-        expense.delete()
-        return HttpResponse(status=204)
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
