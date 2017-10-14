@@ -1,8 +1,7 @@
 from rest_framework import serializers
-from expenses.models import Expense, LANGUAGE_CHOICES, STYLE_CHOICES
-
+from expenses.models import Expense
 
 class ExpenseSerializer(serializers.ModelSerializer):
     class Meta:
         model = Expense
-        fields = ('id', 'title', 'code')
+        fields = ('id', 'title', 'code', 'value')
