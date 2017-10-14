@@ -5,58 +5,40 @@ from django.shortcuts import render
 # Create your views here.
 from expenses.models import Expense
 from expenses.serializers import ExpenseSerializer
-from django.http import Http404
-from rest_framework.views import APIView
-from rest_framework.response import Response
-from rest_framework import status
+from rest_framework import mixins
+from rest_framework import generics
 
-'''
-   Class based response
-'''
-class ExpenseList(APIView):
-    '''
-    List all expenses, or create a new expense
-    '''
-    def get(self, request, format=None):
-        expenses = Expense.objects.all()
-        serializer = ExpenseSerializer(expenses, many=True)
-        return Response(serializer.data)
+class ExpenseList(mixins.ListModelMixin,
+                  mixins.CreateModelMixin,
+                  generics.GenericAPIView):
+    # Set the space in which the mixin class is going to search for results
+    queryset = Expense.objects.all()
 
-    def post(self, request, format=None):
-        serializer = ExpenseSerializer(data=request.data)
+    # Set the serializer class for the mixin class
+    serializer_class = ExpenseSerializer
 
-        if (serializer.is_valid()):
-            serializer.save()
-            return Response(serializer.data, status=status.HTTP_201_CREATED)
+    def get(self, request, *args, **kwargs):
+        return self.list(request, *args, **kwargs)
 
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+    def post(self, request, *args, **kwargs):
+        return self.create(request, *args, **kwargs)
 
-class ExpenseDetail(APIView):
-    '''
-    Retrieve, update or delete an expense instance
-    '''
-    def get_object(self, pk):
-        try:
-            return Expense.objects.get(pk=pk)
-        except Expense.DoesNotExist:
-            raise Http404
+class ExpenseDetail(mixins.RetrieveModelMixin,
+                    mixins.UpdateModelMixin,
+                    mixins.DestroyModelMixin,
+                    generics.GenericAPIView):
+    # Set the space in which the mixin class is going to search for results
+    queryset = Expense.objects.all()
 
-    def get(self, request, pk, format=None):
-        expense = self.get_object(pk)
-        serializer = ExpenseSerializer(expense)
-        return Response(serializer.data)
+    # Set the serializer class for the mixin class
+    serializer_class = ExpenseSerializer
 
-    def put(self, request, pk, format=None):
-        expense = self.get_object(pk)
-        serializer = ExpenseSerializer(expense, data=request.data)
+    def get(self, request, *args, **kwargs):
+        return self.retrieve(request, *args, **kwargs)
 
-        if (serializer.is_valid()):
-            serializer.save()
-            return Response(serializer.data)
+    def put(self, request, *args, **kwargs):
+        return self.update(request, *args, **kwargs)
 
-        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+    def delete(self, request, *args, **kwargs):
+        return self.delete(request, *args, **kwargs)
 
-    def delete(self, request, pk, format=None):
-        expense = self.get_object(pk)
-        expense.delete()
-        return Response(status=status.HTTP_204_NO_CONTENT)
