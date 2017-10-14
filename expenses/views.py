@@ -5,40 +5,24 @@ from django.shortcuts import render
 # Create your views here.
 from expenses.models import Expense
 from expenses.serializers import ExpenseSerializer
-from rest_framework import mixins
 from rest_framework import generics
 
-class ExpenseList(mixins.ListModelMixin,
-                  mixins.CreateModelMixin,
-                  generics.GenericAPIView):
-    # Set the space in which the mixin class is going to search for results
+'''
+   Set the view of the class ExpenseList as the ListCreateAPIView, 
+   * which use the mixins provided by the DjangoREST framework,
+   * which uses the APIView class that encapsulates the behaviour of the Request and Response objects,
+   * which make it easier to handle the format of the Response to the user, for example by identifying 
+   the content type and sending the correct representation of the data. 
+   For instance: lets say HTML to display in a browser, or JSON for an Ajax request
+'''
+class ExpenseList(generics.ListCreateAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
     queryset = Expense.objects.all()
-
-    # Set the serializer class for the mixin class
     serializer_class = ExpenseSerializer
 
-    def get(self, request, *args, **kwargs):
-        return self.list(request, *args, **kwargs)
 
-    def post(self, request, *args, **kwargs):
-        return self.create(request, *args, **kwargs)
-
-class ExpenseDetail(mixins.RetrieveModelMixin,
-                    mixins.UpdateModelMixin,
-                    mixins.DestroyModelMixin,
-                    generics.GenericAPIView):
-    # Set the space in which the mixin class is going to search for results
+class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
     queryset = Expense.objects.all()
-
-    # Set the serializer class for the mixin class
     serializer_class = ExpenseSerializer
-
-    def get(self, request, *args, **kwargs):
-        return self.retrieve(request, *args, **kwargs)
-
-    def put(self, request, *args, **kwargs):
-        return self.update(request, *args, **kwargs)
-
-    def delete(self, request, *args, **kwargs):
-        return self.delete(request, *args, **kwargs)
 
