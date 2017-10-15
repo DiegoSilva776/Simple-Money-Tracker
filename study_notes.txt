@@ -1,0 +1,1039 @@
+Creating a DjangoREST API
+
+
+
+Create a model, configure it, create the views and handle multiple response types
+
+1 - Create a virtual environment to isolate the python package configuration within the environment
+sudo pip install virtualenv
+virtualenv env
+
+Obs: To quit the virutalenv type 'deactivate' at any time
+
+2 - Install the package requirements
+pip install django
+pip install djangorestframework
+pip install pygments
+
+3 - Create a new Django project
+django-admin startproject project_name
+cd project_name
+
+4 - Create a new App within the new django project, this app is going to receive the API
+python manage.py startapp app_name
+
+5 - Add the created app to the list of installed apps in the settings.py file of the project, at project_name/settings.py
+INSTALLED_APPS = (
+    ...
+    'rest_framework',
+    'app_name.apps.AppNameConfig',
+)
+
+6 - Create a model to store the Entity related to the new app, at the app_name/models.py
+from django.db import models
+
+# Create your models here.
+class Expense(models.Model):
+    created = models.DateTimeField(auto_now_add=True)
+    title = models.CharField(max_length=100, blank=True, default='')
+    code = models.TextField()
+    
+    class Meta:
+        ordering = ('created',)
+
+7 - Create a migration and sync the database
+python manage.py makemigrations snippets
+python manage.py migrate
+
+
+8 - Create a serializer class to parse the class created by the AppName into a json format, at app_name/serializers.py
+from rest_framework import serializers
+from expenses.models import Expense, LANGUAGE_CHOICES, STYLE_CHOICES
+
+
+class ExpenseSerializer(serializers.Serializer):
+    id = serializers.IntegerField(read_only=True)
+    title = serializers.CharField(required=False, allow_blank=True, max_length=100)
+    code = serializers.CharField(style={'base_template': 'textarea.html'})
+    
+    def create(self, validated_data):
+        """
+        Create and return a new `Expense` instance, given the validated data.
+        """
+        return Expenses.objects.create(**validated_data)
+
+    def update(self, instance, validated_data):
+        """
+        Update and return an existing `Expense` instance, given the validated data.
+        """
+        instance.title = validated_data.get('title', instance.title)
+        instance.code = validated_data.get('code', instance.code)
+        instance.save()
+        return instance
+
+
+9 - Test the serialization class in the shell
+
+// Enter into the shell enviroment
+DsMac:money_monitor diego$ python manage.py shell
+
+// Welcome msg
+Python 2.7.10 (default, Feb  7 2017, 00:08:15) 
+[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+
+// Import the dependencies
+>>> from expenses.models import Expense
+>>> from expenses.serializers import ExpenseSerializer
+>>> from rest_framework.renderers import JSONRenderer
+>>> from rest_framework.parsers import JSONParser
+
+// Create objects of your new app
+>>> expense = Expense(code='roupas', title='C&A roupas cristina')
+>>> expense.save()
+>>> expense = Expense(code='comida', title='frutas e verduras da semana')
+>>> expense.save()
+
+// Create a serializer of your new app and parse a Python object into it
+>>> serializer = ExpenseSerializer(expense)
+>>> serializer.data
+{'code': u'comida', 'id': 4, 'title': u'frutas e verduras da semana'}
+
+// Serializer the Python object into a JSON string
+>>> content = JSONRenderer().render(serializer.data)
+>>> content
+'{"id":4,"title":"frutas e verduras da semana","code":"comida"}'
+
+// Deserialize a JSON string and parse into a Python object
+// Import the dependencies
+>>> from django.utils.six import BytesIO
+
+// Create a data stream with the JSON string
+>>> stream = BytesIO(content)
+
+// Parse the JSON string into a Python object
+>>> data = JSONParser().parse(stream)
+
+// Initialize the Serializer object with the python object
+>>> serializer = ExpenseSerializer(data=data)
+
+// Verify if the Python object in the serializer is valid and save it into the database
+>>> serializer.is_valid()
+True
+>>> serializer.validated_data
+OrderedDict([(u'title', u'frutas e verduras da semana'), (u'code', u'comida')])
+>>> serializer.save()
+
+// Parse a list of objects simultaneously with the serializer by add the 'many' to True
+<Expense: Expense object>
+>>> serializer = ExpenseSerializer(Expense.objects.all(), many=True)
+>>> serializer.data
+[OrderedDict([('id', 1), ('title', u''), ('code', u'R$10.00')]), OrderedDict([('id', 2), ('title', u'Roupas'), ('code', u'R$110.00')]), OrderedDict([('id', 3), ('title', u'C&A roupas cristina'), ('code', u'roupas')]), OrderedDict([('id', 4), ('title', u'frutas e verduras da semana'), ('code', u'comida')]), OrderedDict([('id', 5), ('title', u'frutas e verduras da semana'), ('code', u'comida')])]
+>>> 
+
+
+10 - Using ModelSerializers instead of Object serializers, model classes avoid a lot of code replication, at app_name/serializers.py
+class ExpenseSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Snippet
+        fields = ('id', 'title', 'code')
+
+
+11 - Verify the representation of your Serializer class into the shell
+DsMac:money_monitor diego$ python manage.py shell
+Python 2.7.10 (default, Feb  7 2017, 00:08:15) 
+[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.34)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+(InteractiveConsole)
+>>> from expenses.serializers import ExpenseSerializer
+>>> serializer = ExpenseSerializer()
+>>> print(repr(serializer))
+ExpenseSerializer():
+    id = IntegerField(label='ID', read_only=True)
+    title = CharField(allow_blank=True, max_length=100, required=False)
+    code = CharField(style={'base_template': 'textarea.html'})
+>>> 
+
+
+12 - Write Django views using the Serializer, at app_name/views.py
+# Create your views here.
+from django.http import HttpResponse, JsonResponse
+from django.views.decorators.csrf import csrf_exempt
+from rest_framework.renderers import JSONRenderer
+from rest_framework.parsers import JSONParser
+from snippets.models import Expense
+from snippets.serializers import ExpenseSerializer
+
+@csrf_exempt
+def expenses_list(request):
+    """
+    List all expenses, or create a new expense.
+    """
+    if request.method == 'GET':
+        expenses = Expense.objects.all()
+        serializer = ExpenseSerializer(expenses, many=True)
+        return JsonResponse(serializer.data, safe=False)
+
+    elif request.method == 'POST':
+        data = JSONParser().parse(request)
+        serializer = ExpenseSerializer(data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JsonResponse(serializer.data, status=201)
+        return JsonResponse(serializer.errors, status=400)
+
+@csrf_exempt
+def expense_detail(request, pk):
+    """
+    Retrieve, update or delete an expense.
+    """
+    try:
+        expense = Expense.objects.get(pk=pk)
+    except Expense.DoesNotExist:
+        return HttpResponse(status=404)
+
+    if request.method == 'GET':
+        serializer = ExpenseSerializer(expense)
+        return JsonResponse(serializer.data)
+
+    elif request.method == 'PUT':
+        data = JSONParser().parse(request)
+        serializer = ExpenseSerializer(expense, data=data)
+        if serializer.is_valid():
+            serializer.save()
+            return JsonResponse(serializer.data)
+        return JsonResponse(serializer.errors, status=400)
+
+    elif request.method == 'DELETE':
+        expense.delete()
+        return HttpResponse(status=204)
+
+13 - Wire the new views up to the app url conf, at app_name/urls.py
+from django.conf.urls import url
+from expenses import views
+
+urlpatterns = [
+    url(r'^expenses/$', views.expenses_list),
+    url(r'^expenses/(?P<pk>[0-9]+)/$', views.expense_detail),
+]
+
+
+14 - Wire the url conf of the app the project url conf, at project_name/urls.py
+from django.conf.urls import url, include
+
+urlpatterns = [
+    url(r'^', include('expenses.urls')),
+]
+
+
+15 - Test the web api with httpie
+http://127.0.0.1:8000/expenses/
+
+16 - Use Request, Response, Status Codes and wrap your API views. Why:
+Request objects provide flexible parsing
+request.POST  # Only handles form data.  Only works for 'POST' method.
+request.data  # Handles arbitrary data.  Works for 'POST', 'PUT' and 'PATCH' methods.
+
+Response objects
+It determites automatically the content type that must be return to the client
+return Response(data)  # Renders to content type as requested by the client.
+
+Status Codes
+constants such as HTTP_400_BAD_REQUEST, are better to ready than simply 400
+
+REST framework provides two wrappers you can use to write API views.
+The @api_view decorator for working with function based views.
+The APIView class for working with class-based views.
+These wrappers provide a few bits of functionality such as making sure you receive Request instances in your view, and adding context to Response objects so that content negotiation can be performed.
+
+// In the views.py of your app do:
+
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+from django.shortcuts import render
+
+# Create your views here.
+from rest_framework import status
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+
+
+@api_view(['GET','POST'])
+def expenses_list(request, format=None):
+    """
+    List all expenses, or create a new expense.
+    """
+    if request.method == 'GET':
+        expenses = Expense.objects.all()
+        serializer = ExpenseSerializer(expenses, many=True)
+        return Response(serializer.data)
+
+    elif request.method == 'POST':
+        serializer = ExpenseSerializer(data=request.data)
+
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+@api_view(['GET','PUT','DELETE'])
+def expense_detail(request, pk, format=None):
+    """
+    Retrieve, update or delete an expense.
+    """
+    try:
+        expense = Expense.objects.get(pk=pk)
+    except Expense.DoesNotExist:
+        return HttpResponse(status=status.HTTP_404_NOT_FOUND)
+
+    if request.method == 'GET':
+        serializer = ExpenseSerializer(expense)
+        return Response(serializer.data)
+
+    elif request.method == 'PUT':
+        serializer = ExpenseSerializer(data=request.data)
+
+        if serializer.is_valid():
+            serializer.save()
+            return Response(serializer.data)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    elif request.method == 'DELETE':
+        expense.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+17 - Test the API
+http http://127.0.0.1:8000/expenses/ Accept:application/json
+
+18 - POST an object via command line
+http --json POST http://127.0.0.1:8000/expenses/ code="Hortifruti" value=40
+
+19 - Now that you have a browsable API, because the Response object chooses the content type and return a formatted HTML response for your
+Request, you can customize the look of the automatically generated HTML response, following the tips of the link below.
+http://www.django-rest-framework.org/topics/browsable-api/
+
+20 - Rewrite your views based on Classes instead of functions, it makes your code cleaner and by using classes you're going to be able to understand
+the Mixin classes, that encapsulate the CRUD behavior of most of the views for you.
+
+# Create your views here.
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+from django.http import Http404
+from rest_framework.views import APIView
+from rest_framework.response import Response
+from rest_framework import status
+
+'''
+   Class based response
+'''
+class ExpenseList(APIView):
+    '''
+    List all expenses, or create a new expense
+    '''
+    def get(self, request, format=None):
+        expenses = Expense.objects.all()
+        serializer = ExpenseSerializer(expenses, many=True)
+        return Response(serializer.data)
+
+    def post(self, request, format=None):
+        serializer = ExpenseSerializer(data=request.data)
+
+        if (serializer.is_valid()):
+            serializer.save()
+            return Response(serializer.data, status=status.HTTP_201_CREATED)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+class ExpenseDetail(APIView):
+    '''
+    Retrieve, update or delete an expense instance
+    '''
+    def get_object(self, pk):
+        try:
+            return Expense.objects.get(pk=pk)
+        except Expense.DoesNotExist:
+            raise Http404
+
+    def get(self, request, pk, format=None):
+        expense = self.get_object(pk)
+        serializer = ExpenseSerializer(expense)
+        return Response(serializer.data)
+
+    def put(self, request, pk, format=None):
+        expense = self.get_object(pk)
+        serializer = ExpenseSerializer(expense, data=request.data)
+
+        if (serializer.is_valid()):
+            serializer.save()
+            return Response(serializer.data)
+
+        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
+
+    def delete(self, request, pk, format=None):
+        expense = self.get_object(pk)
+        expense.delete()
+        return Response(status=status.HTTP_204_NO_CONTENT)
+
+
+21 - Use Mixins
+# Create your views here.
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+from rest_framework import mixins
+from rest_framework import generics
+
+class ExpenseList(mixins.ListModelMixin,
+                  mixins.CreateModelMixin,
+                  generics.GenericAPIView):
+    # Set the space in which the mixin class is going to search for results
+    queryset = Expense.objects.all()
+
+    # Set the serializer class for the mixin class
+    serializer_class = ExpenseSerializer
+
+    def get(self, request, *args, **kwargs):
+        return self.list(request, *args, **kwargs)
+
+    def post(self, request, *args, **kwargs):
+        return self.create(request, *args, **kwargs)
+
+class ExpenseDetail(mixins.RetrieveModelMixin,
+                    mixins.UpdateModelMixin,
+                    mixins.DestroyModelMixin,
+                    generics.GenericAPIView):
+    # Set the space in which the mixin class is going to search for results
+    queryset = Expense.objects.all()
+
+    # Set the serializer class for the mixin class
+    serializer_class = ExpenseSerializer
+
+    def get(self, request, *args, **kwargs):
+        return self.retrieve(request, *args, **kwargs)
+
+    def put(self, request, *args, **kwargs):
+        return self.update(request, *args, **kwargs)
+
+    def delete(self, request, *args, **kwargs):
+        return self.delete(request, *args, **kwargs)
+
+
+22 - Use the pre-built View classes provided by the DjangoREST framework, which make use of the mixins we just used
+# Create your views here.
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+from rest_framework import generics
+
+'''
+   Set the view of the class ExpenseList as the ListCreateAPIView, 
+   * which use the mixins provided by the DjangoREST framework,
+   * which uses the APIView class that encapsulates the behaviour of the Request and Response objects,
+   * which make it easier to handle the format of the Response to the user, for example by identifying 
+   the content type and sending the correct representation of the data. 
+   For instance: lets say HTML to display in a browser, or JSON for an Ajax request
+'''
+class ExpenseList(generics.ListCreateAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+
+class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+
+
+
+Add authentication
+1 - Create a relationship from a class to the User class, at app_name/models.py
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+from django.db import models
+from decimal import Decimal
+
+class Expense(models.Model):
+    created = models.DateTimeField(auto_now_add=True)
+    title = models.CharField(max_length=100, blank=True, default='')
+    code = models.TextField()
+    value = models.DecimalField(0, max_digits=20, decimal_places=2)
+
+    # Relationships
+    owner = models.ForeignKey('auth.User', related_name='expenses', on_delete=models.CASCADE)
+    
+    class Meta:
+        ordering = ('created',)
+
+    def save(self, *args, **kwargs):
+        """
+        Always make the first letter of the title uppercase
+        """
+        self.title = self.title.upper()
+
+        super(Expense, self).save(*args, **kwargs)
+
+2 - Make the migration, below instead of making the migration, we are deleting the db lol
+DsMac:money_monitor diego$ rm -f tmp.db db.sqlite3
+DsMac:money_monitor diego$ rm -r expenses/migrations
+DsMac:money_monitor diego$ python manage.py makemigrations expenses
+Migrations for 'expenses':
+  expenses/migrations/0001_initial.py
+    - Create model Expense
+DsMac:money_monitor diego$ python manage.py migrate
+Operations to perform:
+  Apply all migrations: admin, auth, contenttypes, expenses, sessions
+Running migrations:
+  Applying contenttypes.0001_initial... OK
+  Applying auth.0001_initial... OK
+  Applying admin.0001_initial... OK
+  Applying admin.0002_logentry_remove_auto_add... OK
+  Applying contenttypes.0002_remove_content_type_name... OK
+  Applying auth.0002_alter_permission_name_max_length... OK
+  Applying auth.0003_alter_user_email_max_length... OK
+  Applying auth.0004_alter_user_username_opts... OK
+  Applying auth.0005_alter_user_last_login_null... OK
+  Applying auth.0006_require_contenttypes_0002... OK
+  Applying auth.0007_alter_validators_add_error_messages... OK
+  Applying auth.0008_alter_user_username_max_length... OK
+  Applying expenses.0001_initial... OK
+  Applying sessions.0001_initial... OK
+DsMac:money_monitor diego$ 
+
+
+3 - Create test users
+python manage.py createsuperuser
+
+4 - Add endpoints for the User model
+4.1 - Create a user serializer, at app_name/serializers.py
+
+from django.contrib.auth.models import User
+from rest_framework import serializers
+from expenses.models import Expense
+
+
+class ExpenseSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Expense
+        fields = ('id', 'title', 'code', 'value')
+
+
+class UserSerializer(serializers.ModelSerializer):
+    expenses = serializers.PrimaryKeyRelatedField(many=True, queryset=Expense.objects.all())
+
+    class Meta:
+        model = User
+        fields = ('id', 'username', 'expenses')
+
+4.2 - Create Views for the user class
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+from django.shortcuts import render
+from rest_framework import generics
+from django.contrib.auth.models import User
+from expenses.serializers import UserSerializer
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+
+
+'''
+   Set the view of the class ExpenseList as the ListCreateAPIView, 
+   * which use the mixins provided by the DjangoREST framework,
+   * which uses the APIView class that encapsulates the behaviour of the Request and Response objects,
+   * which make it easier to handle the format of the Response to the user, for example by identifying 
+   the content type and sending the correct representation of the data. 
+   For instance: lets say HTML to display in a browser, or JSON for an Ajax request
+'''
+class ExpenseList(generics.ListCreateAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+
+class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+
+class UserList(generics.ListCreateAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+class UserDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+4.3 - Update the urls configuration, at app_name/urls
+from django.conf.urls import url
+from rest_framework.urlpatterns import format_suffix_patterns
+from expenses import views
+
+urlpatterns = [
+    url(r'^expenses/$', views.ExpenseList.as_view()),
+    url(r'^expenses/(?P<pk>[0-9]+)/$', views.ExpenseDetail.as_view()),
+    url(r'^users/$', views.UserList.as_view()),
+    url(r'^users/(?P<pk>[0-9]+)/$', views.UserDetail.as_view()),
+]
+
+urlpatterns = format_suffix_patterns(urlpatterns)
+
+
+4.4 - Overwrite the create method of the class that was associated with the User class, in order to pass the user instance that came
+within the request to the 'owner' attribute of the associated class, at app_name/views.py
+
+class ExpenseList(generics.ListCreateAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+    # Overwrite the create method of the generic APIView class, in order to set the owner attribute as the
+    # User object that was passed within the Request object
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
+
+Update the serializer class, at app_name/serializers.py
+
+class ExpenseSerializer(serializers.ModelSerializer):
+    # We could have also used CharField(read_only=True)
+    owner = serializers.ReadOnlyField(source='owner.username')
+
+    class Meta:
+        model = Expense
+        fields = ('id', 'title', 'code', 'value', 'owner')
+
+
+5 - Make sure that only authenticated users are able to create, update, delete objects of the associated class, at app_name/views.py
+
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
+from django.shortcuts import render
+from rest_framework import generics
+from rest_framework import permissions
+
+from django.contrib.auth.models import User
+from expenses.serializers import UserSerializer
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+
+
+'''
+   Set the view of the class ExpenseList as the ListCreateAPIView, 
+   * which use the mixins provided by the DjangoREST framework,
+   * which uses the APIView class that encapsulates the behaviour of the Request and Response objects,
+   * which make it easier to handle the format of the Response to the user, for example by identifying 
+   the content type and sending the correct representation of the data. 
+   For instance: lets say HTML to display in a browser, or JSON for an Ajax request
+'''
+class ExpenseList(generics.ListCreateAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
+    permission_class = (permissions.IsAuthenticatedOrReadOnly,)
+
+    # Overwrite the create method of the generic APIView class, in order to set the owner attribute as the
+    # User object that was passed within the Request object
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
+
+class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
+    permission_class = (permissions.IsAuthenticatedOrReadOnly,)
+
+
+class UserList(generics.ListCreateAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+class UserDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+6 - Add login and logout endpoints to the browseable api, at app_name/urls.py
+from django.conf.urls import url
+from django.conf.urls import include
+from rest_framework.urlpatterns import format_suffix_patterns
+from expenses import views
+
+urlpatterns = [
+    url(r'^expenses/$', views.ExpenseList.as_view()),
+    url(r'^expenses/(?P<pk>[0-9]+)/$', views.ExpenseDetail.as_view()),
+    url(r'^users/$', views.UserList.as_view()),
+    url(r'^users/(?P<pk>[0-9]+)/$', views.UserDetail.as_view()),
+]
+
+# Allow to pass the content type at the end of the Request url
+urlpatterns = format_suffix_patterns(urlpatterns)
+
+# Add the default login and logout endpoints from the DjangoREST framework to the app
+# The r'^api-auth/' part of pattern can actually be whatever URL you want to use. 
+# The only restriction is that the included urls must use the 'rest_framework' namespace.
+urlpatterns += [
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+]
+
+7 - Create a permissions file to define custom access rules to the classes of your app, at app_name/permissions.py
+from rest_framework import permissions
+
+
+class IsOwnerOrReadOnly(permissions.BasePermission):
+    '''
+    Custom permission to only allow owners of an object to edit it.
+    '''
+
+    def has_object_permission(self, request, view, obj):
+        # Read permissions are allowed to any request, so we'll always allow GET, HEAD or OPTIONS requests
+        if request.method == in permissions.SAFE_METHODS:
+            return True
+
+        # Write permissions are only allowed to the owner of the snippet
+        return obj.owner == request.user
+
+
+8 - Add the custom permissions to the Detail views of the classes of your app, att app_name/views.py
+
+class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
+    permission_class = (permissions.IsAuthenticatedOrReadOnly,
+                        IsOwnerOrReadOnly)
+
+
+9 - Authenticate your requests by passing the username and password on every request. :(
+http -a tom:password123 POST http://127.0.0.1:8000/snippets/ code="print 789"
+
+DsMac:money_monitor diego$ http -a user1:Pass1234 POST http://127.0.0.1:8000/expenses/ code="comida" title="pães franceses e leite" value=8.60
+HTTP/1.0 201 Created
+Allow: GET, POST, HEAD, OPTIONS
+Content-Length: 89
+Content-Type: application/json
+Date: Sat, 14 Oct 2017 07:16:54 GMT
+Server: WSGIServer/0.1 Python/2.7.10
+Vary: Accept, Cookie
+X-Frame-Options: SAMEORIGIN
+
+{
+    "code": "comida", 
+    "id": 4, 
+    "owner": "user1", 
+    "title": "Pães franceses e leite", 
+    "value": "8.60"
+}
+
+DsMac:money_monitor diego$ 
+
+
+
+Relationships & Hyperlinked APIs
+At the moment relationships within our API are represented by using primary keys. In this part of the tutorial we'll improve the cohesion and discoverability of our API, by instead using hyperlinking for relationships.
+
+1 - Update the views of the app classes, at app_name/views.py
+# -*- coding: utf-8 -*-
+from __future__ import unicode_literals
+
+from django.shortcuts import render
+
+from rest_framework import renderers
+from rest_framework import generics
+from rest_framework import permissions
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from rest_framework.reverse import reverse
+
+from expenses.permissions import IsOwnerOrReadOnly
+
+from django.contrib.auth.models import User
+from expenses.serializers import UserSerializer
+from expenses.models import Expense
+from expenses.serializers import ExpenseSerializer
+
+
+'''
+    ROOT
+'''
+'''
+Two things should be noticed here. First, we're using REST framework's reverse function in order 
+to return fully-qualified URLs; second, URL patterns are identified by convenience names that we will 
+declare later on in our snippets/urls.py.
+'''
+@api_view(['GET'])
+def api_root(request, format=None):
+    return Response({
+        'users': reverse('user-list', request=request, format=format),
+        'expenses': reverse('expense-list', request=request, format=format)
+    })
+
+
+'''
+    EXPENSES
+'''
+'''
+   Set the view of the class ExpenseList as the ListCreateAPIView, 
+   * which use the mixins provided by the DjangoREST framework,
+   * which uses the APIView class that encapsulates the behaviour of the Request and Response objects,
+   * which make it easier to handle the format of the Response to the user, for example by identifying 
+   the content type and sending the correct representation of the data. 
+   For instance: lets say HTML to display in a browser, or JSON for an Ajax request
+'''
+class ExpenseList(generics.ListCreateAPIView):
+    # Set the search universe for the generic ListCreateAPIView class and the serializer class
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
+    permission_classes = (permissions.IsAuthenticatedOrReadOnly,)
+
+    # Overwrite the create method of the generic APIView class, in order to set the owner attribute as the
+    # User object that was passed within the Request object
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
+
+class ExpenseDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+
+    # Add a property that determines the minimun Authentication requirements to access objects of the Expense class
+    permission_classes = (permissions.IsAuthenticatedOrReadOnly,
+                        IsOwnerOrReadOnly,)
+
+
+class ExpenseHightlight(generics.GenericAPIView):
+    queryset = Expense.objects.all()
+
+    # Set the class that is going to provide the HTML representation of the Expense object
+    renderer_classes = (renderers.StaticHTMLRenderer,)
+
+    def get(self, request, *args, **kwargs):
+        expense = self.get_object()
+        return Response(expense.highlighted)
+
+
+'''
+    USERS
+'''
+class UserList(generics.ListCreateAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+class UserDetail(generics.RetrieveUpdateDestroyAPIView):
+    queryset = User.objects.all()
+    serializer_class = UserSerializer
+
+
+2 - Update the urls, at app_name/urls.py
+from django.conf.urls import url
+from django.conf.urls import include
+from rest_framework.urlpatterns import format_suffix_patterns
+from expenses import views
+
+urlpatterns = [
+    url(r'^$', views.api_root),
+    url(r'^expenses/$', views.ExpenseList.as_view()),
+    url(r'^expenses/(?P<pk>[0-9]+)/$', views.ExpenseDetail.as_view()),
+    url(r'^expenses/(?P<pk>[0-9]+)/highlight/$', views.ExpenseHighlight.as_view()),
+    url(r'^users/$', views.UserList.as_view()),
+    url(r'^users/(?P<pk>[0-9]+)/$', views.UserDetail.as_view()),
+]
+
+# Allow to pass the content type at the end of the Request url
+urlpatterns = format_suffix_patterns(urlpatterns)
+
+# Add the default login and logout endpoints from the DjangoREST framework to the app
+# The r'^api-auth/' part of pattern can actually be whatever URL you want to use. 
+# The only restriction is that the included urls must use the 'rest_framework' namespace.
+urlpatterns += [
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+]
+
+
+3 - To represent a relationship with Hyperlinks do
+3.1 - Modify the serializers to extend HyperlinkedModelSerializer
+It does not include the id field by default.
+It includes a url field, using HyperlinkedIdentityField.
+Relationships use HyperlinkedRelatedField, instead of PrimaryKeyRelatedField.
+
+from django.contrib.auth.models import User
+from rest_framework import serializers
+from expenses.models import Expense
+
+
+class ExpenseSerializer(serializers.HyperlinkedModelSerializer):
+    # We could have also used CharField(read_only=True)
+    owner = serializers.ReadOnlyField(source='owner.username')
+    highlight = serializers.HyperlinkedIdentityField(view_name='expense-highlight', format='html')
+
+    class Meta:
+        model = Expense
+        fields = ('url', 'id', 'highlight', 'owner',
+                  'title', 'code', 'value')
+
+
+class UserSerializer(serializers.HyperlinkedModelSerializer):
+    expenses = serializers.HyperlinkedRelatedField(many=True, view_name='expense-detail', read_only=True)
+
+    class Meta:
+        model = User
+        fields = ('url', 'id', 'username', 'expenses')
+
+
+3.2 - Make sure the url patterns are named, at app_name/urls.py
+
+from django.conf.urls import url
+from django.conf.urls import include
+from rest_framework.urlpatterns import format_suffix_patterns
+from expenses import views
+
+# Allow passing the content type at the end of the Request url and name all endpoints but the root
+urlpatterns = format_suffix_patterns([
+    url(r'^$', views.api_root),
+    url(r'^expenses/$', views.ExpenseList.as_view(), name='expense-list'),
+    url(r'^expenses/(?P<pk>[0-9]+)/$', views.ExpenseDetail.as_view(), name='expense-detail'),
+    url(r'^expenses/(?P<pk>[0-9]+)/highlight/$', views.ExpenseHighlight.as_view(), name='expense-highlight'),
+    url(r'^users/$', views.UserList.as_view(), name='user-list'),
+    url(r'^users/(?P<pk>[0-9]+)/$', views.UserDetail.as_view(), name='user-detail'),
+])
+
+# Add the default login and logout endpoints from the DjangoREST framework to the app
+# The r'^api-auth/' part of pattern can actually be whatever URL you want to use. 
+# The only restriction is that the included urls must use the 'rest_framework' namespace.
+urlpatterns += [
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+]
+
+
+4 - Add pagination, att project_name/settings.py
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 10
+}
+
+
+
+
+Refactoring the urls with Viewsets and Routers
+REST framework includes an abstraction for dealing with ViewSets, that allows the developer to concentrate on modeling the state and interactions of the API, and leave the URL construction to be handled automatically, based on common conventions.
+
+ViewSet classes are almost the same thing as View classes, except that they provide operations such as read, or update, and not method handlers such as get or put.
+
+A ViewSet class is only bound to a set of method handlers at the last moment, when it is instantiated into a set of views, typically by using a Router class which handles the complexities of defining the URL conf for you.
+
+
+1 - Replace the views by the viewsets, at app_name/views.py
+class ExpenseViewSet(viewsets.ModelViewSet):
+    """
+    This viewset automatically provides `list`, `create`, `retrieve`, `update` and `destroy` actions.
+    Additionally we also provide an extra `highlight` action.
+    """
+    queryset = Expense.objects.all()
+    serializer_class = ExpenseSerializer
+    permission_classes = (permissions.IsAuthenticatedOrReadOnly,
+                          IsOwnerOrReadOnly,)
+
+    @detail_route(renderer_classes=[renderers.StaticHTMLRenderer])
+    def highlight(self, request, *args, **kwargs):
+        expense = self.get_object()
+        return Response(expense.highlighted)
+
+    def perform_create(self, serializer):
+        serializer.save(owner=self.request.user)
+
+2 - Update the urls, at app_name/urls.py
+from django.conf.urls import url
+from django.conf.urls import include
+
+from rest_framework.urlpatterns import format_suffix_patterns
+from rest_framework import renderers
+
+from expenses.views import ExpenseViewSet, UserViewSet, api_root
+
+
+# Explicitly create the ViewSets
+expense_list = ExpenseViewSet.as_view({
+    'get': 'list',
+    'post': 'create'
+})
+expense_detail = ExpenseViewSet.as_view({
+    'get': 'retrieve',
+    'put': 'update',
+    'patch': 'partial_update',
+    'delete': 'destroy'
+})
+expense_highlight = ExpenseViewSet.as_view({
+    'get': 'highlight'
+}, renderer_classes=[renderers.StaticHTMLRenderer])
+
+user_list = UserViewSet.as_view({
+    'get': 'list'
+})
+user_detail = UserViewSet.as_view({
+    'get': 'retrieve'
+})
+
+
+# Allow passing the content type at the end of the Request url and name all endpoints but the root
+urlpatterns = format_suffix_patterns([
+    url(r'^$', api_root),
+    url(r'^expenses/$', expense_list, name='expense-list'),
+    url(r'^expenses/(?P<pk>[0-9]+)/$', expense_detail, name='expense-detail'),
+    url(r'^expenses/(?P<pk>[0-9]+)/highlight/$', expense_highlight, name='expense-highlight'),
+    url(r'^users/$', user_list, name='user-list'),
+    url(r'^users/(?P<pk>[0-9]+)/$', user_detail, name='user-detail'),
+])
+
+# Add the default login and logout endpoints from the DjangoREST framework to the app
+# The r'^api-auth/' part of pattern can actually be whatever URL you want to use. 
+# The only restriction is that the included urls must use the 'rest_framework' namespace.
+urlpatterns += [
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
+]
+
+
+Notice that we've also used the @detail_route decorator to create a custom action, named highlight. This decorator can be used to add any custom endpoints that don't fit into the standard create/update/delete style.
+
+Custom actions which use the @detail_route decorator will respond to GET requests by default. We can use the methods argument if we wanted an action that responded to POST requests.
+
+The URLs for custom actions by default depend on the method name itself. If you want to change the way url should be constructed, you can include url_path as a decorator keyword argument.
+
+
+3 - Using a Router, at app_name/urls.py
+Because we're using ViewSet classes rather than View classes, we actually don't need to design the URL conf ourselves. The conventions for wiring up resources into views and urls can be handled automatically, using a Router class. All we need to do is register the appropriate view sets with a router, and let it do the rest.
+
+from django.conf.urls import url, include
+from expenses import views
+from rest_framework.routers import DefaultRouter
+
+# Create a router and register our viewsets with it.
+router = DefaultRouter()
+router.register(r'expenses', views.ExpenseViewSet)
+router.register(r'users', views.UserViewSet)
+
+# The API URLs are now determined automatically by the router.
+# Additionally, we include the login URLs for the browsable API.
+urlpatterns = [
+    url(r'^', include(router.urls)),
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
+]
+
+
+
+//./End Creating a DjangoREST API
