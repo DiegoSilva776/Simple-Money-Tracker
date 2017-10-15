@@ -1,0 +1,2914 @@
+>>>---
+ÁGUA - Fontes de dados para o treinamento
+---<<<
+>>>---
+1 - Sobre conta de água de modo geral
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S1679-39512004000300002
+2 - Marcas/Produtos associados à conta de água
+https://pt.wikipedia.org/wiki/Categoria:Empresas_de_saneamento_do_Brasil
+---<<<
+>>>---
+1 - Sobre conta de água de modo geral
+---<<<
+<body cz-shortcut-listen="true"><a name="top"></a><div class="container"><div class="top"><div id="issues"></div><table xmlns="" cellspacing="0" cellpadding="7" width="100%" border="0"><tbody><tr>
+<td valign="top" width="26%"><p align="center">
+<a href="http://www.scielo.br/scielo.php?lng=en"><img src="/img/en/fbpelogp.gif" border="0" alt="SciELO - Scientific Electronic Library Online"></a><br>
+</p></td>
+<td valign="top" width="74%"><table><tbody><tr>
+<td nowrap="">
+<img src="/img/en/grp1c.gif">&nbsp;<img src="/img/en/artsrc.gif"><br><a href="http://www.scielo.br/scielo.php?script=sci_issuetoc&amp;pid=1679-395120040003&amp;lng=en&amp;nrm=iso"><img src="/img/en/toc.gif" border="0" alt="vol.2&nbsp;issue3"></a><a href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1679-39512004000300001&amp;lng=en&amp;nrm=iso"><img src="/img/en/prev.gif" border="0" alt="Editorial"></a><a href="http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1679-39512004000300003&amp;lng=en&amp;nrm=iso"><img src="/img/en/next.gif" border="0" alt="A política regulatória do uso da água: estudo de caso para o Estado do Paraná"></a>&nbsp;<a href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edcebape&amp;index=AU&amp;format=iso.pft&amp;lang=i&amp;limit=1679-3951"><img src="/img/en/author.gif" border="0" alt="author index"></a><a href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edcebape&amp;index=KW&amp;format=iso.pft&amp;lang=i&amp;limit=1679-3951"><img src="/img/en/subject.gif" border="0" alt="subject index"></a><a href="http://www.scielo.br/cgi-bin/wxis.exe/iah/?IsisScript=iah/iah.xis&amp;base=article%5Edcebape&amp;format=iso.pft&amp;lang=i&amp;limit=1679-3951"><img src="/img/en/search.gif" border="0" alt="articles search "></a>
+</td>
+<td nowrap="" valign="bottom">
+<a href="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1679-3951&amp;lng=en&amp;nrm=iso"><img src="/img/en/home.gif" border="0" alt="Home Page"></a><a href="http://www.scielo.br/scielo.php?script=sci_alphabetic&amp;lng=en&amp;nrm=iso"><img src="/img/en/alpha.gif" border="0" alt="alphabetic serial listing"></a>
+&nbsp;
+</td>
+</tr></tbody></table></td>
+</tr></tbody></table>
+<br xmlns=""></div><div class="content"><form xmlns="" name="addToShelf" method="post" action="http://www.scielo.org/applications/scielo-org/services/addArticleToShelf.php" target="mensagem">
+<input type="hidden" name="PID" value="S1679-39512004000300002"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S1679-39512004000300002%26lng=en%26nrm=iso%26tlng=pt">
+</form>
+<form xmlns="" name="citedAlert" method="post" action="http://www.scielo.org/applications/scielo-org/services/citedAlert.php" target="mensagem">
+<input type="hidden" name="PID" value="S1679-39512004000300002"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S1679-39512004000300002%26lng=en%26nrm=iso%26tlng=pt">
+</form>
+<form xmlns="" name="accessAlert" method="post" action="http://www.scielo.org/applications/scielo-org/services/accessAlert.php" target="mensagem">
+<input type="hidden" name="PID" value="S1679-39512004000300002"><input type="hidden" name="url" value="http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S1679-39512004000300002%26lng=en%26nrm=iso%26tlng=pt">
+</form>
+<div xmlns="" id="group">
+<div id="toolBox">
+<h2 id="toolsSection">Services on Demand</h2>
+<div class="toolBoxSection" style="background: url(&quot;../../img/collapsed2.png&quot;) right center no-repeat;"><h2 class="toolBoxSectionh2">Journal</h2></div>
+<div class="box" style="display: block;">
+<ul>
+<li>
+<img src="/img/en/iconStatistics.gif"><a href="http://analytics.scielo.org/?journal=1679-3951&amp;collection=scl" target="_blank">SciELO Analytics</a>
+</li>
+<li id="google_metrics_link_li" style="">
+<img src="/img/en/iconStatistics.gif"><a id="google_metrics_link" target="_blank" href="http://scholar.google.com/citations?view_op=list_hcore&amp;venue=iLSYvIQGfocJ.2017&amp;hl=en">Google Scholar H5M5 (<span id="google_metrics_year">2017</span>)</a>
+</li>
+</ul>
+<script type="text/javascript">
+$(document).ready(function() {
+var url = "/google_metrics/get_h5_m5.php?issn=1679-3951&callback=?";
+$.getJSON(url, function(data) {
+$("#google_metrics_year").html(data['year']);
+$('#google_metrics_link').attr('href', data['url']);
+$("#google_metrics_link_li").show();
+});
+});
+</script>
+</div>
+<div class="toolBoxSection" style="background: url(&quot;../../img/collapsed2.png&quot;) right center no-repeat;"><h2 class="toolBoxSectionh2">Article</h2></div>
+<div class="box" style="display: block;"><ul>
+<li><a href="/pdf/cebape/v2n3/v2n3a02.pdf"><img src="/img/en/iconPDFDocument.gif">Portuguese (pdf)
+</a></li>
+<li><a href="/readcube/epdf.php?doi=10.1590/S1679-39512004000300002&amp;pid=S1679-39512004000300002&amp;pdf_path=cebape/v2n3/v2n3a02.pdf&amp;lang=pt" title="Article in epdf format"><img src="/img/readcube.png" width="18px">Portuguese (epdf)
+</a></li>
+<li><a href="http://www.scielo.br/scieloOrg/php/articleXML.php?pid=S1679-39512004000300002&amp;lang=en" rel="nofollow" target="xml"><img src="/img/en/iconXMLDocument.gif">Article in xml format</a></li>
+<li><a href="javascript:%20void(0);" onclick="window.open('http://www.scielo.br/scieloOrg/php/reference.php?pid=S1679-39512004000300002&amp;caller=www.scielo.br&amp;lang=en','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes');
+callUpdateArticleLog('referencias_do_artigo');" rel="nofollow"><img src="/img/en/iconReferences.gif">Article references</a></li>
+<li>
+<a href="javascript:void(0);" onmouseout="status='';" class="nomodel" style="text-decoration: none;" onclick="OpenArticleInfoWindow ( 780, 450, &quot;http://www.scielo.br/scielo.php?script=sci_isoref&amp;pid=S1679-39512004000300002&amp;lng=en&amp;tlng=pt&quot;); " rel="nofollow" onmouseover=" status='How to cite this article'; return true; "><img border="0" align="middle" src="/img/en/fulltxt.gif"></a>
+<a href="javascript:void(0);" onmouseout="status='';" class="nomodel" style="text-decoration: none;" onclick="OpenArticleInfoWindow ( 780, 450, &quot;http://www.scielo.br/scielo.php?script=sci_isoref&amp;pid=S1679-39512004000300002&amp;lng=en&amp;tlng=pt&quot;);" rel="nofollow" onmouseover=" status='How to cite this article'; return true; ">How to cite this article</a>
+</li>
+<li>
+<img src="/img/en/iconStatistics.gif"><a href="http://analytics.scielo.org/?document=S1679-39512004000300002&amp;collection=scl" target="_blank">SciELO Analytics</a>
+</li>
+<script language="javascript" src="article.js"></script><li>
+<script language="javascript">
+CreateWindowHeader ( "Curriculum ScienTI",
+"/img/en/lattescv.gif",
+"en");
+InsertAuthor("BARBIERI, JOSE CARLOS",
+"http://lattes.cnpq.br/0041377800166678"); InsertAuthor("GOMES, JESUS DE LISBOA",
+"http://lattes.cnpq.br/3528255078888728");
+CreateWindowFooter();
+</script><a href="javascript:void(0);" onmouseout="status='';" rel="nofollow" onclick=" OpenLattesWindow(); " onmouseover=" status='Authors List'; return true; "><img border="0" align="middle" src="/img/en/lattescv-button.gif">Curriculum ScienTI</a>
+</li>
+<li><a href="javascript:%20void(0);" onclick="window.open('http://www.scielo.br/scieloOrg/php/translate.php?pid=S1679-39512004000300002&amp;caller=www.scielo.br&amp;lang=en&amp;tlang=pt&amp;script=sci_arttext','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes');
+callUpdateArticleLog('referencias_do_artigo');" rel="nofollow"><img src="/img/en/iconTranslation.gif">Automatic translation</a></li>
+</ul></div>
+<div class="toolBoxSection" style="background: url(&quot;../../img/expandd2.png&quot;) right center no-repeat;"><h2 class="toolBoxSectionh2">Indicators</h2></div>
+<div class="box" style="display: none;"><ul>
+<li>
+<img src="/img/en/iconCitedOff.gif" alt="Have no cited articles">Cited by SciELO </li>
+<li>
+<img src="/img/en/iconStatistics.gif"><a href="http://analytics.scielo.org/w/accesses?document=S1679-39512004000300002&amp;collection=scl" target="_blank">Access statistics</a>
+</li>
+<div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="4" data-doi="10.1590/S1679-39512004000300002" data-uuid="b92293b8-a9db-9c84-0a0b-182a54563ee9"><a target="_self" href="https://www.altmetric.com/details.php?domain=www.scielo.br&amp;citation_id=2627140" style="display:inline-block;">
+<img alt="Article has an altmetric score of 3" src="https://d1uo4w7k31k5mn.cloudfront.net/v4/3.png" width="85px" height="15px" style="border:0; margin:0; max-width: none;">
+</a></div>
+</div>
+</ul></div>
+<div class="toolBoxSection" style="background: url(&quot;../../img/expandd2.png&quot;) right center no-repeat;"><h2 class="toolBoxSectionh2">Related links</h2></div>
+<div class="box" style="display: none;"><ul>
+<li><a href="javascript:void(0);" onclick="window.open('http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=link%3Ahttp%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS1679-39512004000300002&amp;lang=en','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes,,menubar=1,location=1,toolbar=1,status=1,scrollbars=1,directories=1');" rel="nofollow"><img src="/img/en/iconCitedGoogleOn.gif" alt="Indexed by Google">Cited by Google </a></li>
+<li>
+<img src="/img/en/iconRelatedOff.gif" alt="Have no similar articles">Similars in
+SciELO </li>
+<li><a href="javascript:void(0);" onclick="window.open('http://scholar.google.com/scholar?hl=en&amp;lr=&amp;q=related%3Ahttp%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS1679-39512004000300002&amp;lang=en','','width=640,height=480,resizable=yes,scrollbars=1,menubar=yes,,menubar=1,location=1,toolbar=1,status=1,scrollbars=1,directories=1');" rel="nofollow"><img src="/img/en/iconRelatedGoogleOn.gif" alt="Indexed by Google">Similars in Google </a></li>
+</ul></div>
+<div class="toolBoxSection" style="background: url(&quot;../../img/collapsed2.png&quot;) right center no-repeat;"><h2 class="toolBoxSectionh2">Share</h2></div>
+<div class="box" style="display: block;"><ul>
+<li>
+<div class="addthis_toolbox addthis_default_style">
+<a class="addthis_button_delicious"></a><a class="addthis_button_google at300b" target="_blank" title="Google Bookmark" href="#"><span class="at-icon-wrapper" style="background-color: rgb(66, 133, 244); line-height: 16px; height: 16px; width: 16px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-google-1" title="Google Bookmark" alt="Google Bookmark" class="at-icon at-icon-google" style="width: 16px; height: 16px;"><title id="at-svg-google-1">Google Bookmark</title><g><path d="M16.213 13.998H26.72c.157.693.28 1.342.28 2.255C27 22.533 22.7 27 16.224 27 10.03 27 5 22.072 5 16S10.03 5 16.224 5c3.03 0 5.568 1.09 7.51 2.87l-3.188 3.037c-.808-.748-2.223-1.628-4.322-1.628-3.715 0-6.745 3.024-6.745 6.73 0 3.708 3.03 6.733 6.744 6.733 4.3 0 5.882-2.915 6.174-4.642h-6.185V14z" fill-rule="evenodd"></path></g></svg></span></a><a class="addthis_button_twitter at300b" title="Twitter" href="#"><span class="at-icon-wrapper" style="background-color: rgb(29, 161, 242); line-height: 16px; height: 16px; width: 16px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-twitter-2" title="Twitter" alt="Twitter" class="at-icon at-icon-twitter" style="width: 16px; height: 16px;"><title id="at-svg-twitter-2">Twitter</title><g><path d="M27.996 10.116c-.81.36-1.68.602-2.592.71a4.526 4.526 0 0 0 1.984-2.496 9.037 9.037 0 0 1-2.866 1.095 4.513 4.513 0 0 0-7.69 4.116 12.81 12.81 0 0 1-9.3-4.715 4.49 4.49 0 0 0-.612 2.27 4.51 4.51 0 0 0 2.008 3.755 4.495 4.495 0 0 1-2.044-.564v.057a4.515 4.515 0 0 0 3.62 4.425 4.52 4.52 0 0 1-2.04.077 4.517 4.517 0 0 0 4.217 3.134 9.055 9.055 0 0 1-5.604 1.93A9.18 9.18 0 0 1 6 23.85a12.773 12.773 0 0 0 6.918 2.027c8.3 0 12.84-6.876 12.84-12.84 0-.195-.005-.39-.014-.583a9.172 9.172 0 0 0 2.252-2.336" fill-rule="evenodd"></path></g></svg></span></a><a class="addthis_button_digg at300b" target="_blank" title="Digg" href="#"><span class="at-icon-wrapper" style="background-color: rgb(34, 30, 30); line-height: 16px; height: 16px; width: 16px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-digg-3" title="Digg" alt="Digg" class="at-icon at-icon-digg" style="width: 16px; height: 16px;"><title id="at-svg-digg-3">Digg</title><g><path d="M8.523 10h2.19v10.558H5v-7.486h3.523V10zm0 8.796v-3.963h-1.32v3.963h1.32zm5.273-5.724v7.486h-2.2v-7.486h2.2zm0-3.072v2.19h-2.2V10h2.2zm.88 3.072h5.726V23.19h-5.725v-1.75H18.2v-.882h-3.523v-7.486zm3.524 5.724v-3.963h-1.32v3.963h1.32zm3.082-5.724h5.714V23.19h-5.714v-1.75h3.513v-.882h-3.513v-7.486zm3.513 5.724v-3.963h-1.322v3.963h1.322z" fill-rule="evenodd"></path></g></svg></span></a><a class="addthis_button_citeulike at300b" target="_blank" title="CiteULike" href="#"><span class="at-icon-wrapper" style="background-color: rgb(8, 136, 200); line-height: 16px; height: 16px; width: 16px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-citeulike-4" title="CiteULike" alt="CiteULike" class="at-icon at-icon-citeulike" style="width: 16px; height: 16px;"><title id="at-svg-citeulike-4">CiteULike</title><g><path d="M26.41 8.25H4.82a1.25 1.25 0 0 1 0-2.5h21.59a1.25 1.25 0 0 1 0 2.5zM26.41 14.25H4.82a1.25 1.25 0 0 1 0-2.5h21.59a1.25 1.25 0 0 1 0 2.5zM26.41 20.25H4.82a1.25 1.25 0 0 1 0-2.5h21.59a1.25 1.25 0 0 1 0 2.5zM26.41 26.25H4.82a1.25 1.25 0 0 1 0-2.5h21.59a1.25 1.25 0 0 1 0 2.5z"></path></g></svg></span></a><a class="addthis_button_connotea"></a><a href="http://www.mendeley.com/import/?url=http://www.scielo.br/scielo.php?script=sci_arttext%26pid=S1679-39512004000300002%26lng=en%26nrm=iso%26tlng=pt" title="Mendeley"><img src="http://www.mendeley.com/graphics/mendeley.png"></a><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c347ee4422c56df" class="addthis_button_expanded at300m" target="_blank" title="More"><span class="at-icon-wrapper" style="background-color: rgb(255, 101, 80); line-height: 16px; height: 16px; width: 16px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-addthis-5" title="Expanded" alt="Expanded" class="at-icon at-icon-addthis" style="width: 16px; height: 16px;"><title id="at-svg-addthis-5">Addthis</title><g><path d="M18 14V8h-4v6H8v4h6v6h4v-6h6v-4h-6z" fill-rule="evenodd"></path></g></svg></span>More</a>
+<div class="atclear"></div></div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c347ee4422c56df"></script>
+</li>
+<li><div class="addthis_toolbox addthis_default_style"><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c347ee4422c56df" class="addthis_button_expanded at300m" target="_blank" title="More"><span class="at-icon-wrapper" style="background-color: rgb(255, 101, 80); line-height: 16px; height: 16px; width: 16px;"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32" version="1.1" role="img" aria-labelledby="at-svg-addthis-6" title="Expanded" alt="Expanded" class="at-icon at-icon-addthis" style="width: 16px; height: 16px;"><title id="at-svg-addthis-6">Addthis</title><g><path d="M18 14V8h-4v6H8v4h6v6h4v-6h6v-4h-6z" fill-rule="evenodd"></path></g></svg></span>More</a><div class="atclear"></div></div></li>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c347ee4422c56df"></script>
+</ul></div>
+<hr>
+<ul><li><a id="permalink" href="javascript:void(0);"><img src="/img/common/iconPermalink.gif">Permalink</a></li></ul>
+</div>
+<div id="permalink_box" style="margin-left:20px;background-color:#F2F2F2;border: 1px solid #CCC;display:none;position:absolute;z-index:1;padding:2px 10px 10px 10px;">
+<div style="text-align:right;"><img src="/img/common/icon-close.png" onclick="$('#permalink_box').toggle();"></div>
+<input type="text" name="short-url" id="short-url">
+</div>
+</div>
+<h2 xmlns=""><a href="http://www.scielo.br/scielo.php?script=sci_serial&amp;pid=1679-3951&amp;lng=en&amp;nrm=iso">Cadernos EBAPE.BR</a></h2>
+<h2 xmlns="" id="printISSN">
+<font color="#0000A0"><!--ONLINen--><em>On-line&nbsp;version</em>&nbsp;ISSN </font>1679-3951</h2>
+<h3 xmlns="">Cad. EBAPE.BR&nbsp;vol.2&nbsp;no.3&nbsp;Rio de Janeiro&nbsp;Dec.&nbsp;2004</h3>
+<h4 xmlns="" id="doi"> http://dx.doi.org/10.1590/S1679-39512004000300002&nbsp; </h4>
+<div xmlns="" class="index,pt">
+<div xmlns="" class="footer">Praia de Botafogo, 190 - sala 538<br>22250-900 Rio de Janeiro/RJ Brasil<br>Tel.: (21) 3799-5482<br>Fax: (21) 2551-5945<br><img src="/img/en/e-mailt.gif" border="0"><br><a class="email" href="mailto:cadernosebape@fgv.br">cadernosebape@fgv.br</a><script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-604844-1']);
+_gaq.push(['_trackPageview']);
+_gaq.push(['_setSampleRate', '70']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</div></div><div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;"><iframe id="_atssh992" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;" src="http://s7.addthis.com/static/sh.c7f897d92405181bbe1705e3.html#rand=0.2775098792193935&amp;iit=1508103976477&amp;tmr=load%3D1508103976168%26core%3D1508103976263%26main%3D1508103976470%26ifr%3D1508103976482&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=www.scielo.br&amp;dr=https%3A%2F%2Fwww.google.com.br%2F&amp;du=http%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS1679-39512004000300002&amp;href=http%3A%2F%2Fwww.scielo.br%2Fscielo.php&amp;dt=Gerenciamento%20de%20recursos%20h%C3%ADdricos%20no%20Brasil%20e%20no%20Estado%20de%20S%C3%A3o%20Paulo%3A%20um%20novo%20modelo%20de%20pol%C3%ADtica%20p%C3%BAblica&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=33&amp;prod=undefined&amp;lng=en&amp;ogt=&amp;pc=men&amp;pub=xa-4c347ee4422c56df&amp;ssl=0&amp;sid=59e3d72815fd3874&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=&amp;csi=undefined&amp;rev=v8.1.0a-wp&amp;ct=1&amp;xld=1&amp;xd=1"></iframe></div><style id="service-icons-0"></style>
+<!--transformed by PHP 10:10:01 15-10-2017-->
+<!--CACHE MSG: CACHE NAO FOI UTILIZADO -->
+<!-- REQUEST URI: /scielo.php?script=sci_arttext&pid=S1679-39512004000300002-->
+<!--SERVER:192.168.1.50--><script type="text/javascript" src="https://api.altmetric.com/v1/doi/10.1590/s1679-39512004000300002?callback=_altmetric.embed_callback&amp;domain=www.scielo.br&amp;key=3c130976ca2b8f2e88f8377633751ba1&amp;cache_until=18-15"></script><iframe src="https://injections.readcube.com/html/track_epdf.35fe5ec5.html?action=Link&amp;publisher=scielo&amp;status=OK" style="position: absolute; visibility: hidden; width: 0px; height: 0px;"></iframe></body>
+>>>---
+2 - Marcas/Produtos associados à conta de água
+---<<<
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-14 ns-subject page-Categoria_Empresas_de_saneamento_do_Brasil rootpage-Categoria_Empresas_de_saneamento_do_Brasil vector-experimental-print-styles vector-nav-directionality skin-vector action-view" cz-shortcut-listen="true"> <div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+<a id="top"></a>
+<div id="siteNotice" class="mw-body-content"><div id="centralNotice" class="cn-fundraising">
+<style>
+/* Hide when editing */
+.action-edit .frb,
+.ve-activated .frb {
+display: none !important;
+}
+#centralNotice.collapsed .frb {
+display: none;
+}
+/* z-index override for #siteNotice now having .mw-body-content class [https://phabricator.wikimedia.org/T155863] */
+#siteNotice {
+z-index: auto;
+}
+/* z-index override for German Wikipedia */
+.mw-body {
+z-index: auto;
+}
+/* Box-sizing */
+.frb,
+.frb *,
+.frb *:before,
+.frb *:after {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+/* Inline banner styles
+---------------------------- */
+#frb-inline {
+display: table;
+position: relative;
+text-align: justify;
+background: white;
+color: black;
+font-size: 14px;
+margin-bottom: 28px;
+border: 5px solid #990000;
+-webkit-transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+-o-transition: all .2s ease-in-out;
+-ms-transition: all .2s ease-in-out;
+transition: all .2s ease-in-out;
+}
+.frb-inline-main {
+padding: 13px;
+}
+.frb-inline-message {
+font-size: 16px;
+font-weight: bold;
+line-height: 1.4; /*22.4px @16px*/
+padding: 0 0 8px;
+display: block;
+}
+.frb-inline-message img {
+height: 16px;
+margin-top: -3px;
+}
+/* --- Form legends --- */
+#frb-inline legend {
+width: 100%;
+margin: 0;
+text-align: center;
+color: #7c7c7c;
+font-weight: 500;
+padding: 6px 0 2px 0;
+}
+.frb-methods legend {
+display: none;
+}
+#frb-inline ul {
+margin: 0;
+}
+.frb-frequency ul {
+margin-top: 10px !important;
+}
+#frb-inline fieldset {
+width: 100%;
+margin: 0 auto;
+padding: 0;
+border: none;
+}
+/* --- Common Button Styles --- */
+.frb-btn,
+#frb-amt-other-label {
+display: block;
+min-height: 34px;
+margin: 0 auto;
+padding: 9px 8px 7px 8px;
+background-color: #f8f9fa;
+color: #222;
+border: 1px solid #9aa0a7;
+border-radius: 2px;
+outline: 0;
+text-align: center;
+line-height: 1; /*16px @16px*/
+cursor: pointer;
+font-family: inherit;
+font-weight: 500;
+transition: background 100ms, color 100ms, border-color 100ms, box-shadow 100ms;
+}
+.frb-btn:hover,
+#frb-amt-other-label:hover {
+background-color: #fff;
+color: #444;
+border-color: #a2a9b1;
+}
+.frb-btn:active,
+#frb-amt-other-label:active {
+background-color: #d9d9d9;
+color: #000;
+border-color: #7d8389;
+}
+/*Adjust padding for buttons with logo, e.g. payment methods*/
+.frb-btn-logo {
+padding: 2px 8px;
+}
+.frb-logo-paypal-usd {
+margin-bottom: -6px;
+}
+.frb-form input[type="radio"]:checked + .frb-btn,
+.frb-form input[type="radio"]:checked + #frb-amt-other-label,
+.frb-form .frb-btn.checked {
+background-color: #2a4b8d;
+color: #fff;
+border-color: #7d8389;
+}
+.frb-btn:focus,
+.frb-btn-submit:focus,
+#frb-amt-other-label:focus,
+#frb-amt-other-input:focus,
+.email_input:focus {
+outline: 0;
+border-color: #36c;
+box-shadow: inset 0 0 0 1px #36c;
+}
+.frb-form input[type=radio]:focus + .frb-btn,
+.frb-form input[type=radio]:focus + #frb-amt-other-label,
+.frb-form input[type=radio]:checked + .frb-btn:focus,
+.frb-form input[type=radio]:checked + #frb-amt-other-label:focus,
+.frb-form input[type=radio]:checked + #frb-amt-other-label #frb-amt-other-input:focus,
+.frb-btn-submit:focus {
+box-shadow: inset 0 0 0 1px #36c, inset 0 0 0 2px #fff;
+}
+.frb-form input[type="radio"]:checked + .frb-btn,
+.frb-form input[type="radio"]:checked + #frb-amt-other-label,
+.frb-form .frb-btn.checked {
+background-color: #2a4b8d;
+color: #fff;
+border-color: #7d8389;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input {
+background-color: transparent;
+color: #fff;
+}
+/*Blue buttons*/
+.frb-methods .frb-btn,
+#frb-nag .frb-btn {
+color: #3366cc;
+}
+.frb-methods .frb-btn:active,
+#frb-nag .frb-btn:active {
+color: #2a4b8d;
+}
+/* Submit/Continue buttons (blue background) */
+.frb-btn-submit {
+width: 100%;
+display: block;
+margin-top: 6px;
+padding: 8px 2px;
+color: #fff;
+background-color: #3366cc;
+border-color: #3366cc;
+cursor: pointer;
+border: 0;
+border-radius: 2px;
+font-size: 14px;
+transition: background 100ms, color 100ms, border-color 100ms, box-shadow 100ms;
+}
+.frb-btn-submit:hover {
+background-color: #447ff5;
+border-color: #447ff5;
+}
+.frb-btn-submit:active {
+background-color: #2a4b8d;
+border-color: #2a4b8d;
+box-shadow: none;
+}
+/* Hide radio buttons. Based on http://jqueryui.com/button/#radio */
+.frb-frequency li input[type="radio"],
+.frb-amounts li input[type="radio"] {
+position: absolute;
+overflow: hidden;
+height: 1px;
+width: 1px;
+clip: rect(0 0 0 0);
+border: 0;
+margin: -1px;
+padding: 0;
+}
+/* --- Buttons layout --- */
+.frb-frequency ul,
+.frb-amounts ul,
+.frb-methods ul {
+display: table;
+table-layout: fixed;
+width: 100%;
+}
+.frb-frequency ul li,
+.frb-amounts ul li,
+.frb-methods ul li {
+display: table-cell;
+vertical-align: top;
+padding: 0 7px 0 0;
+}
+/* --- Frequency buttons appearance --- */
+.frb-frequency li {
+display: table-cell;
+padding: 0 7px 0 0;
+vertical-align: top;
+}
+.frb-frequency label {
+display: block;
+width: 100%;
+font-size: 15px;
+}
+/* --- Amount buttons appearance --- */
+@media (min-width: 768px) {
+.frb-amounts li label {
+font-size: 15px;
+}
+}
+/* --- Other amount --- */
+#frb-amt-other-label {
+padding: 0;
+}
+#frb-amt-other-input {
+margin: 0;
+padding: 6px 6px 7px 6px;
+background: transparent;
+border: none;
+width: 100%;
+font-size: 15px;
+text-align: center;
+direction: ltr;
+-moz-appearance:textfield; /* remove number spinner in Firefox */
+}
+/* Remove number spinner Safari and Chrome */
+#frb-amt-other-input::-webkit-inner-spin-button,
+#frb-amt-other-input::-webkit-outer-spin-button {
+-webkit-appearance: none;
+margin: 0;
+}
+/* Placeholder styles */
+#frb-amt-other-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+color: #222;
+}
+#frb-amt-other-input:-moz-placeholder { /* Firefox 18- */
+color: #222;
+opacity: 1 !important;
+}
+#frb-amt-other-input::-moz-placeholder { /* Firefox 19+ */
+color: #222;
+opacity: 1 !important;
+}
+#frb-amt-other-input:-ms-input-placeholder { /* IE 10+ */
+color: #222;
+}
+/* Placeholder checked styles */
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+color: #fff;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input:-moz-placeholder { /* Firefox 18- */
+color: #fff;
+opacity: 1 !important;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input::-moz-placeholder { /* Firefox 19+ */
+color: #fff;
+opacity: 1 !important;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input:-ms-input-placeholder { /* IE 10+ */
+color: #fff;
+}
+/* Placeholder focus styles */
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input:focus::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+color: #CCC;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input:focus:-moz-placeholder { /* Firefox 18- */
+color: #CCC;
+opacity: 1 !important;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input:focus::-moz-placeholder { /* Firefox 19+ */
+color: #CCC;
+opacity: 1 !important;
+}
+.frb-form input[type="radio"]:checked + #frb-amt-other-label #frb-amt-other-input:focus:-ms-input-placeholder { /* IE 10+ */
+color: #CCC;
+}
+/* --- Payment method buttons appearance --- */
+/* hide methods which aren't monthly capable when monthly option is selected */
+.form-monthly .no-monthly {
+display: none !important;
+}
+.frb-methods .frb-btn {
+width: 100%;
+font-size: 16px;
+font-weight: 500;
+}
+.frb-methods .frb-btn img {
+display: block;
+margin: 0 auto;
+max-height: 16px;
+max-width: 100%;
+}
+/* --- When there are 4 payment methods, display 2x2 buttons --- */
+.frb-methods ul li:first-child:nth-last-child(4),
+.frb-methods ul li:first-child:nth-last-child(4) ~ li {
+width: 50%;
+float: left;
+margin-bottom: 6px;
+}
+/* --- Close and RML Options --- */
+.frb-inline-topbar {
+width: 100%;
+padding: 2px 10px 5px;
+text-align: center;
+background-color: #990000;
+color: #FFFFFF;
+display: inline-block;
+z-index: 999;
+}
+.frb-inline-header {
+display: inline-block;
+font-weight: bold;
+font-size: 16px;
+line-height: 1.125; /*18px @16px*/
+padding: 4px 0;
+}
+body.rtl .frb-inline-header {
+float: right;
+}
+.frb-inline-window {
+position: relative;
+float: right;
+text-align: right;
+}
+body.rtl .frb-inline-window {
+float: left;
+text-align: left;
+}
+.frb-inline-rml-wrapper {
+position: relative;
+}
+/* --- Close button --- */
+.frb-inline-close-bottom-wrapper {
+position: absolute;
+width: 100%;
+bottom: -29px;
+text-align: center;
+}
+#frb-inline-close,
+.frb-inline-rml-wrapper {
+padding: 5px 7px;
+}
+.frb-inline-close {
+z-index: 999;
+color: #999999;
+}
+.frb-inline-close,
+.frb-inline-rml-link {
+text-transform: uppercase;
+cursor: pointer;
+line-height: 1.2857142857; /*18px @16px*/
+}
+.frb-inline-rml-link {
+display: inline-block;
+margin-left: 1px;
+}
+/* Close button icon */
+.frb-inline-close-icon {
+margin-bottom: -2px;
+width: 11px;
+}
+.frb-inline-close-icon g {
+stroke: #999999;
+}
+/* RML text color */
+.frb-inline-close-txt,
+.frb-inline-rml-txt {
+font-size: 12px;
+letter-spacing: 0.2px;
+}
+.frb-inline-rml-txt {
+color: #3366cc;
+font-weight: bold;
+}
+/* RML clock icon */
+.frb-inline-rml-icon {
+margin-bottom: -3px;
+width: 13px;
+}
+.frb-inline-rml-icon path {
+fill: #3366cc;
+}
+.frb-inline-rml-icon circle {
+stroke: #3366cc;
+}
+.frb-inline-rml-link:hover .frb-inline-rml-txt {
+color: #000000;
+}
+.frb-inline-rml-link:hover .frb-inline-rml-icon path {
+fill: #000000;
+}
+.frb-inline-rml-link:hover .frb-inline-rml-icon circle {
+stroke: #000000;
+}
+/* Close hover and focus*/
+.frb-inline-close-txt {
+font-size: 12px;
+}
+.frb-inline-close:hover .frb-inline-close-txt,
+.frb-inline-close:focus .frb-inline-close-txt,
+.frb-inline-rml-form-close:hover .frb-inline-rml-form-close-txt,
+.frb-inline-rml-form-close:focus .frb-inline-rml-form-close-txt {
+color: #000000;
+}
+.frb-inline-close:hover .frb-inline-close-icon g,
+.frb-inline-close:focus .frb-inline-close-icon g,
+.frb-inline-rml-form-close:hover .frb-inline-rml-form-close-icon g,
+.frb-inline-rml-form-close:focus .frb-inline-rml-form-close-icon g {
+stroke: #000000;
+}
+/* --- Remind me by email --- */
+.frb-inline-rml-link {
+position: relative;
+text-transform: uppercase;
+display: inline-block;
+cursor: pointer;
+color: #666;
+}
+.frb-inline-rml {
+display: none;
+position: absolute;
+cursor: default;
+padding: 14px 14px 4px 14px;
+top: 34px;
+right: -143px;
+z-index: 10000;
+width: 320px;
+background: #fff;
+color: #000;
+border: 1px solid #aaa;
+border-radius: 2px;
+box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.15);
+text-transform: none;
+}
+body.rtl .frb-inline-rml {
+left: 49px;
+right: auto;
+}
+.frb-inline-rml-form:before, .frb-inline-rml-form:after {
+bottom: 100%;
+border: solid transparent;
+content: " ";
+height: 0;
+width: 0;
+position: absolute;
+left: auto;
+right: 148px;
+pointer-events: none;
+}
+body.rtl .frb-inline-rml-form:before, body.rtl .frb-inline-rml-form:after {
+left: 8px;
+right: auto;
+}
+.frb-inline-rml-form:before {
+border-bottom-color: #888;
+border-width: 11px;
+}
+.frb-inline-rml-form:after {
+border-bottom-color: #fff;
+border-width: 10px;
+margin-right: 1px; /*Triangle pixel glitch fix (margin left and right)*/
+margin-left: 0;
+}
+/*Triangle pixel glitch fix for RTL*/
+body.rtl .frb-inline-rml-form:after {
+margin-right: 0;
+margin-left: 1px;
+}
+.frb-inline-rml-form form {
+display: table;
+width: 100%;
+text-align: center;
+font-weight: 500;
+}
+.frb-inline-rml-form input {
+direction: ltr;
+background: #fff;
+width: 100%;
+display: block;
+padding: 7px;
+margin: 0;
+font-size: inherit;
+font-family: inherit;
+color: #000;
+border: 1px solid #9aa0a7;
+border-radius: 2px;
+}
+.frb-inline-rml-form input.error {
+border-color: #ff0000;
+box-shadow: inset 0 0 0 1px #ff0000;
+}
+.frb-inline-rml-form #errorMessageContainerId {
+color: #cc0000;
+}
+.frb-inline-rml-done {
+text-align: left;
+font-size: 15px;
+}
+body.rtl .frb-inline-rml-done {
+text-align: right;
+}
+.frb-inline-rml-form .smallprint {
+margin-top: 5px;
+font-size: 11px;
+color: #555;
+line-height: 1.4;/*15.4px @11px*/
+}
+.frb-inline-rml-form-close-wrapper {
+padding-top: 4px;
+text-align: center;
+}
+.frb-inline-rml-form-close {
+margin: 6px auto 0 auto;
+color: #999999;
+font-size: 11px;
+cursor: pointer;
+}
+.frb-inline-rml-form-close-txt {
+text-transform: uppercase;
+}
+.frb-inline-rml-form-close-icon {
+width: 9px;
+height: 9px;
+}
+.frb-inline-rml-form-close-icon g {
+stroke: #999999;
+}
+/* --- "Nag" --- */
+div#frb-nag {
+position: fixed;
+z-index: 999;
+top: 120px;
+color: black;
+background-color: white;
+padding: 5px 10px;
+width: 170px;
+font-size: 13px;
+text-align: center;
+font-weight: bold;
+font-style: normal;
+border: 5px solid #990000;
+border-radius: 3px;
+box-shadow: 1px 2px 6px rgba(0,0,0,.3);
+-webkit-transition: margin .5s ease-in-out;
+-moz-transition: margin .5s ease-in-out;
+-o-transition: margin .5s ease-in-out;
+-ms-transition: margin .5s ease-in-out;
+transition: margin .5s ease-in-out;
+}
+body.ltr div#frb-nag {
+left: -1px;
+margin-left: -240px;
+border-left: 0;
+}
+body.rtl div#frb-nag {
+right: -1px;
+margin-right: -240px;
+border-right: 0;
+}
+body.ltr div#frb-nag.reveal {
+margin-left: 0;
+}
+body.rtl div#frb-nag.reveal {
+margin-right: 0;
+}
+@media (min-width: 982px) {
+div#frb-nag {
+width: 190px;
+}
+}
+#frb-nag:hover, #frb-nag a:hover {
+text-decoration: none;
+}
+#frb-nag a {
+display: block;
+text-decoration: none;
+}
+#frb-nag a:hover {
+text-decoration: none;
+}
+#frb-nag img {
+display: block;
+margin: 6px auto;
+height: 30px;
+width: 30px;
+}
+.frb-nag-text {
+font-size: 17px;
+line-height: 1.4; /*23.8px @17px*/
+color: black;
+}
+.frb-nag-donate {
+display: inline-block;
+margin: 5px 0;
+font-size: 12px;
+}
+.frb-nag-close:hover {
+opacity: 1;
+}
+.frb-nag-close {
+display: block;
+position: absolute;
+top: 0;
+right: 5px;
+width: 15px;
+height: 15px;
+background: url('//upload.wikimedia.org/wikipedia/donate/8/84/Close-dark-trilogy.png') no-repeat center center;
+background-size: contain;
+cursor: pointer;
+opacity: 0.8;
+margin: 10px 6px;
+-webkit-transition: all .25s ease-in-out;
+-moz-transition: all .25s ease-in-out;
+transition: all .25s ease-in-out;
+}
+body.rtl .frb-nag-close {
+right: auto;
+left: 5px;
+}
+.frb-nag-close:hover {
+opacity: 1;
+}
+/* --- Nag RML --- */
+.frb-nag-rml-wrapper {
+position: relative;
+}
+.frb-nag-rml-link {
+padding: 5px;
+display: block;
+color: #2d2d2c;
+font-size: 12px;
+text-transform: uppercase;
+position: relative;
+cursor: pointer;
+z-index: 999;
+}
+.frb-nag-rml-link:hover {
+text-decoration: underline;
+}
+.frb-nag-rml {
+position: absolute;
+padding: 13px;
+width: 300px;
+background: #fff;
+border: 1px solid #aaa;
+font-weight: normal;
+border-radius: 2px;
+box-shadow: 0 2px 0 0 rgba(0, 0, 0, 0.15);
+color: #000;
+}
+body.ltr .frb-nag-rml {
+left: 150px;
+-moz-transform: translateX(-50%);
+-ms-transform: translateX(-50%);
+-webkit-transform: translateX(-50%);
+transform: translateX(-50%);
+}
+body.rtl .frb-nag-rml {
+right: 150px;
+-moz-transform: translateX(50%);
+-ms-transform: translateX(50%);
+-webkit-transform: translateX(50%);
+transform: translateX(50%);
+}
+.frb-nag-rml-form:before,
+.frb-nag-rml-form:after {
+content: " ";
+position: absolute;
+left: 25%;
+bottom: 100%;
+width: 0;
+height: 0;
+border: solid transparent;
+}
+body.rtl .frb-nag-rml-form:before,
+body.rtl .frb-nag-rml-form:after {
+left: auto;
+right: 25%;
+}
+.frb-nag-rml-form:before {
+border-bottom-color: #888;
+border-width: 11px;
+margin-left: -1px;
+margin-right: -1px;
+}
+.frb-nag-rml-form:after {
+border-bottom-color: #ffffff;
+border-width: 10px;
+}
+.frb-nag-rml input {
+direction: ltr;
+background: #fff;
+width: 100%;
+display: block;
+font-size: 13px;
+padding: 6px;
+margin: 6px 0 0 0;
+font-size: inherit;
+font-family: inherit;
+color: #000;
+border: 1px solid #9aa0a7;
+border-radius: 2px;
+}
+.frb-nag-rml input.error {
+border-color: #ff0000;
+box-shadow: inset 0 0 0 2px #ff0000;
+}
+.frb-nag-rml #errorMessageContainerId {
+color: #ff0000;
+}
+/* --- Footer / Small Print --- */
+.frb-legal {
+margin-top: 11px;
+font-size: 11px;
+line-height: 1.4; /*15.4px @11px*/
+color: #555;
+}
+.recurring-details {
+display: none;
+}
+</style>
+<div id="frb-nag" class="frb">
+<a href="#frb-inline">
+<img src="//upload.wikimedia.org/wikipedia/donate/9/99/RedInfoI.svg">
+<div class="frb-nag-text">Se todos que estão lendo esta mensagem agora doassem <span style="white-space: nowrap;">R$10</span>, poderíamos manter a Wikipédia em constante crescimento por muitos anos.</div>
+<button class="frb-btn frb-nag-donate">Faça já uma doação</button>
+<span class="frb-nag-close" tabindex="0"></span>
+</a>
+<div class="frb-nag-rml-wrapper">
+<div class="frb-nag-rml-link" tabindex="0">Talvez mais tarde</div>
+<div class="frb-nag-rml" style="display: none;">
+<div class="frb-nag-rml-form">
+<form method="post" action="https://www.pages04.net/wikimedia/remind/Form?sp_source=B1718_0310_ptBR_dsk_p2_sm_txt_twin2">
+<div>Mande-me um lembrete por e-mail</div>
+<input type="hidden" name="formSourceName" value="StandardForm">
+<input type="hidden" name="sp_exp" value="yes">
+<input type="hidden" name="rml_source" value="B1718_0310_ptBR_dsk_p2_sm_txt_twin2">
+<input type="hidden" name="rml_group" value="dsk_sm">
+<input type="hidden" name="rml_country" value="BR">
+<input type="hidden" name="rml_language" value="pt">
+<input type="hidden" name="rml_submitDate" value="10/15/2017">
+<input type="hidden" name="rml_segment" value="21">
+<input type="email" name="Email" label="Correio eletrónico" placeholder="Endereço de e-mail" class="email_input required">
+<div id="errorMessageContainerId" class="formErrorMessages" style="display: none;">
+Por favor, introduza um endereço de correio eletrónico válido (exemplo: nome@domínio.com)
+</div>
+<button class="frb-btn-submit" type="submit">Enviar</button>
+</form>
+<div class="frb-nag-rml-done" style="display: none;">
+Obrigado! Iremos enviar-lhe um lembrete por e-mail
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="frb-inline" class="frb" style="display: none;">
+<div class="frb-inline-topbar">
+<span class="frb-inline-window">
+</span>
+<span class="frb-inline-header">Agora, chegou o momento de pedir.</span>
+</div>
+<div class="frb-inline-main">
+<div class="frb-inline-message">
+<img src="//upload.wikimedia.org/wikipedia/donate/9/99/RedInfoI.svg">
+Caros leitores do Brasil, gostaríamos de pedir que você ajude, hoje, a Wikipédia. Para preservar nossa independência, nunca exibiremos anúncios. A Wikipédia é mantida por doações de, em média, <span style="white-space: nowrap;">R$25</span>. Apenas uma pequena parcela dos nossos leitores faz doações. Se todos que estão lendo esta mensagem agora doassem <span style="white-space: nowrap;">R$10</span>, poderíamos manter a Wikipédia em constante crescimento por muitos anos. Isso mesmo, só precisamos do valor de um lanche. Se a Wikipédia é útil para você, pedimos que você reserve um minuto para ajudá-la a continuar on-line e crescer cada vez mais. Obrigado.
+</div>
+<form id="frb-form" class="frb-form">
+<fieldset class="frb-methods">
+<legend>Selecione um método de pagamento</legend>
+<ul>
+<li class="frb-pm-cc no-monthly">
+<button class="frb-btn" onclick="frb.setMethod({ method:'cc'}); return false;">
+Cartão de crédito
+</button>
+</li>
+<li class="frb-pm-bt no-monthly" style="">
+<button class="frb-btn" onclick="frb.setMethod({ method:'bt' }); return false;">
+Transferência bancária
+</button>
+</li>
+<li class="frb-pm-cash no-monthly" style="">
+<button class="frb-btn" onclick="frb.setMethod({ method:'cash' }); return false;">
+Dinheiro
+</button>
+</li>
+<li class="frb-pm-pp-usd" style="">
+<button class="frb-btn frb-btn-logo" onclick="frb.setMethod({ method:'paypal', skipValidation: true }); return false;">
+<svg class="frb-logo-paypal-usd" role="img" aria-labelledby="frb-logo-paypal-usd-title" width="105" height="24" viewBox="0 0 105 24" xmlns="http://www.w3.org/2000/svg"><title id="frb-logo-paypal-usd-title">PayPal (USD)</title><g fill="none" fill-rule="evenodd"><path d="M75.452 10.3c.44-.68 1.024-1.411 1.752-2.195h1.192l-.471.621a11.815 11.815 0 0 0-1.542 2.684 12.17 12.17 0 0 0-.604 2.007c-.24 1.13-.297 2.17-.172 3.12.074.563.26 1.283.56 2.163h-1.17l-.277-.538c-.185-.325-.353-.81-.504-1.452a7.683 7.683 0 0 1-.05-3.393c.214-1.013.643-2.018 1.286-3.016zm4.042-2.062h1.735l-1.07 5.023c-.118.562-.139.972-.061 1.231.11.458.514.688 1.208.688.692 0 1.189-.23 1.492-.688.188-.259.342-.669.46-1.23l1.07-5.024h1.735l-1.07 5.023c-.185.869-.464 1.545-.837 2.03-.691.886-1.744 1.33-3.16 1.33-1.416 0-2.282-.444-2.6-1.33-.166-.485-.157-1.161.028-2.03l1.07-5.023zm8.232 5.65c-.025.373.017.652.128.837.207.336.647.504 1.32.504.402 0 .739-.044 1.008-.133.514-.17.82-.486.915-.948.06-.27-.015-.478-.222-.626-.203-.144-.547-.272-1.03-.383l-.827-.194c-.81-.192-1.353-.4-1.63-.626-.47-.377-.619-.967-.449-1.769.155-.732.55-1.34 1.187-1.824.635-.484 1.469-.726 2.5-.726.861 0 1.547.228 2.057.685.51.456.687 1.119.532 1.987h-1.641c.078-.491-.06-.84-.416-1.048-.236-.136-.552-.205-.948-.205-.44 0-.81.089-1.111.266-.302.178-.485.425-.552.743-.063.292.02.51.25.654.144.097.474.21.992.339l1.336.338c.584.148 1.007.345 1.27.593.406.384.532.94.377 1.669-.16.746-.577 1.366-1.253 1.86-.677.493-1.536.74-2.578.74-1.065 0-1.85-.243-2.357-.73-.506-.485-.669-1.153-.487-2.003h1.63zm8.893-4.23l-1.13 5.333h1.574c.805 0 1.452-.397 1.94-1.192.266-.436.462-.955.588-1.558.177-.831.183-1.47.016-1.915-.166-.446-.637-.668-1.413-.668h-1.575zm3.393-1.242a2 2 0 0 1 1.17 1.037c.2.406.3.846.302 1.319.002.473-.042.924-.13 1.353-.233 1.086-.647 2.007-1.242 2.76-.806 1.017-1.826 1.525-3.06 1.525h-3.52l1.734-8.172h3.52c.504.008.912.067 1.226.178zm4.768 1.885c.218.998.22 2.003.005 3.016-.236 1.112-.733 2.243-1.49 3.393-.426.643-.801 1.127-1.126 1.452l-.505.538H100.5c.669-.88 1.16-1.6 1.475-2.162.528-.95.913-1.99 1.153-3.121a10.54 10.54 0 0 0 .25-2.007 7.927 7.927 0 0 0-.4-2.684l-.205-.62h1.192c.395.783.667 1.515.815 2.195z" fill="#000"></path><g fill-rule="nonzero"><path d="M8.444 2.085H2.97a.763.763 0 0 0-.752.648L.006 16.891c-.044.279.17.53.451.53H3.07a.762.762 0 0 0 .751-.647l.597-3.819a.762.762 0 0 1 .75-.648h1.733c3.606 0 5.686-1.76 6.23-5.248.245-1.526.01-2.724-.698-3.564-.778-.922-2.158-1.41-3.99-1.41zm.631 5.171c-.3 1.981-1.8 1.981-3.25 1.981h-.826l.579-3.7a.457.457 0 0 1 .45-.388h.379c.988 0 1.92 0 2.402.569.288.339.376.842.266 1.538zM24.803 7.193h-2.62a.458.458 0 0 0-.451.388l-.116.74-.184-.269c-.567-.83-1.832-1.108-3.095-1.108-2.896 0-5.37 2.213-5.851 5.317-.25 1.548.105 3.029.976 4.061.799.95 1.941 1.345 3.301 1.345 2.334 0 3.628-1.513 3.628-1.513l-.117.734c-.044.281.17.533.45.533h2.36a.763.763 0 0 0 .752-.648l1.416-9.05a.457.457 0 0 0-.449-.53zm-3.653 5.145c-.253 1.51-1.441 2.525-2.957 2.525-.76 0-1.37-.246-1.76-.713-.387-.464-.534-1.123-.411-1.858.236-1.497 1.444-2.544 2.937-2.544.744 0 1.35.25 1.748.72.399.475.557 1.139.443 1.87zM38.761 7.193h-2.634a.761.761 0 0 0-.63.336l-3.632 5.398-1.54-5.187a.764.764 0 0 0-.73-.547h-2.587a.46.46 0 0 0-.433.608l2.9 8.588-2.726 3.884a.46.46 0 0 0 .372.727h2.63c.25 0 .483-.123.625-.33l8.76-12.755a.46.46 0 0 0-.375-.722" fill="#283B82"></path><path d="M47.48 2.085h-5.473a.762.762 0 0 0-.75.648l-2.214 14.158c-.044.279.17.53.45.53H42.3c.261 0 .485-.191.525-.453l.628-4.013a.762.762 0 0 1 .751-.648h1.732c3.606 0 5.686-1.76 6.23-5.248.246-1.526.01-2.724-.699-3.564-.777-.922-2.156-1.41-3.987-1.41zm.632 5.171c-.299 1.981-1.799 1.981-3.25 1.981h-.826l.58-3.7a.456.456 0 0 1 .45-.388h.379c.987 0 1.92 0 2.402.569.287.339.375.842.265 1.538zM63.84 7.193h-2.62a.455.455 0 0 0-.45.388l-.116.74-.184-.269c-.567-.83-1.832-1.108-3.094-1.108-2.897 0-5.37 2.213-5.851 5.317-.25 1.548.105 3.029.976 4.061.8.95 1.94 1.345 3.3 1.345 2.334 0 3.628-1.513 3.628-1.513l-.117.734c-.044.281.17.533.452.533h2.36a.762.762 0 0 0 .75-.648l1.417-9.05a.46.46 0 0 0-.452-.53zm-3.654 5.145c-.251 1.51-1.441 2.525-2.957 2.525-.76 0-1.37-.246-1.76-.713-.387-.464-.533-1.123-.41-1.858.237-1.497 1.444-2.544 2.936-2.544.744 0 1.35.25 1.748.72.4.475.56 1.139.443 1.87zM66.929 2.474L64.683 16.89c-.044.279.17.53.45.53h2.258a.761.761 0 0 0 .751-.647l2.215-14.157a.459.459 0 0 0-.45-.532H67.38a.458.458 0 0 0-.45.389" fill="#469BDB"></path></g></g></svg>
+</button>
+</li>
+</ul>
+</fieldset>
+<div class="frb-step2" style="display: none;">
+<fieldset class="frb-frequency" style="display: none;">
+<ul>
+<li>
+<input type="radio" name="frequency" id="frb-frequency-onetime" value="onetime" checked="">
+<label class="frb-btn" for="frb-frequency-onetime">Único</label>
+</li>
+<li>
+<input type="radio" name="frequency" id="frb-frequency-monthly" value="monthly">
+<label class="frb-btn" for="frb-frequency-monthly">Mensal</label>
+</li>
+</ul>
+</fieldset>
+<fieldset class="frb-amounts">
+<legend>Selecione uma quantia</legend>
+<ul>
+<li>
+<input name="amount" type="radio" id="frb-amt-ps1" value="10">
+<label for="frb-amt-ps1" class="frb-btn">R$10</label>
+</li>
+<li>
+<input name="amount" type="radio" id="frb-amt-ps2" value="20">
+<label for="frb-amt-ps2" class="frb-btn">R$20</label>
+</li>
+<li>
+<input name="amount" type="radio" id="frb-amt-ps4" value="50">
+<label for="frb-amt-ps4" class="frb-btn">R$50</label>
+</li>
+<li>
+<input name="amount" type="radio" id="frb-amt-ps6" value="250">
+<label for="frb-amt-ps6" class="frb-btn">R$250</label>
+</li>
+<li class="frb-amt-other">
+<input name="amount" type="radio" id="frb-amt-other" value="Other">
+<label id="frb-amt-other-label">
+<input name="otherAmount" type="number" min="0" id="frb-amt-other-input" placeholder="Outro" autocomplete="off" tabindex="-1">
+</label>
+</li>
+</ul>
+</fieldset>
+<fieldset class="frb-continue">
+<button class="frb-btn-submit" onclick="frb.submitForm( frb.storedOptions ); return false;">
+Continuar
+</button>
+</fieldset>
+<div class="frb-legal">
+<a class="frb-localize-link" href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Problems_donating">Problemas com a sua doação?</a> |
+<a class="frb-localize-link" href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Ways_to_Give">Outras formas de efetuar uma doação</a> |
+<a class="frb-localize-link" href="https://wikimediafoundation.org/wiki/Special:LandingCheck?landing_page=FAQ&amp;basic=true">Perguntas mais frequentes</a> |
+<span class="frb-legal-nonUS">Ao doar, você concorda com a nossa <a class="localize" target="_blank" href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_policy"> política de privacidade para doadores</a> e em compartilhar suas informações com a <a class="localize" target="_blank" href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_Deductibility">Fundação Wikimedia</a> e seus prestadores de serviços nos EUA e em outros lugares.</span>
+<span class="frb-legal-US" style="display: none;">Ao efetuar um donativo, concorda com a <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_policy">política de privacidade de donativos</a>. A Wikimedia Foundation é uma organização <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_Deductibility">sem fins lucrativos e isenta de impostos</a>.</span>
+<span class="frb-legal-NL" style="display: none;">Ao efetuar um donativo, concorda com a <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_policy">política de privacidade de donativos</a> e partilhar a sua informação com a Wikimedia Foundation e os seus prestadores de serviços nos EUA ou em qualquer outra parte. A Wikimedia Foundation é uma organização <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_Deductibility">sem fins lucrativos e isenta de impostos</a>.</span>
+<span class="recurring-details" style="display: none;">Pagamentos recorrentes serão debitados pela Fundação Wikimedia até você nos notificar a parar. Vamos lhe enviar um recibo de e-mail para cada pagamento, que incluirá um link para <a class="localize" target="_blank" href="https://wikimediafoundation.org/wiki/Special:LandingCheck?landing_page=Cancel_or_change_recurring_payments&amp;basic=true"> as instruções de cancelamento fácil.</a></span>
+</div>
+</div>
+</form>
+</div>
+<span class="frb-inline-close-bottom-wrapper">
+<span class="frb-inline-rml-wrapper">
+<span class="frb-inline-rml-link" tabindex="0">
+<span class="frb-inline-rml-txt">Talvez mais tarde</span>
+<svg class="frb-inline-rml-icon" width="15" height="15" viewBox="0 0 15 15" xmlns="http://www.w3.org/2000/svg"><title>icon-clock</title><g transform="translate(1 1)" fill="none" fill-rule="evenodd"><path d="M5.7 6.2h3.357c.355 0 .643.289.643.65 0 .359-.288.65-.643.65H6.343a.645.645 0 0 1-.643-.65V6.2z" fill="#0645AD"></path><circle stroke="#0645AD" stroke-width="1.4" cx="6.5" cy="6.5" r="6.5"></circle><path d="M5.7 2.654A.65.65 0 0 1 6.35 2c.359 0 .65.298.65.654V7H5.7V2.654z" fill="#0645AD"></path></g></svg>
+</span>
+<div class="frb-inline-rml" style="display: none;">
+<div class="frb-inline-rml-form">
+<form method="post" action="https://www.pages04.net/wikimedia/remind/Form?sp_source=B1718_0310_ptBR_dsk_p2_sm_txt_twin2">
+<div>Mande-me um lembrete por e-mail</div>
+<input type="hidden" name="formSourceName" value="StandardForm">
+<input type="hidden" name="sp_exp" value="yes">
+<input type="hidden" name="rml_source" value="B1718_0310_ptBR_dsk_p2_sm_txt_twin2">
+<input type="hidden" name="rml_group" value="dsk_sm">
+<input type="hidden" name="rml_country" value="BR">
+<input type="hidden" name="rml_language" value="pt">
+<input type="hidden" name="rml_submitDate" value="10/15/2017">
+<input type="hidden" name="rml_segment" value="84">
+<input type="email" name="Email" label="Correio eletrónico" placeholder="Endereço de e-mail" class="email_input required">
+<div id="errorMessageContainerId" class="formErrorMessages" style="display: none;">
+Por favor, introduza um endereço de correio eletrónico válido (exemplo: nome@domínio.com)
+</div>
+<button class="frb-btn-submit" type="submit">Enviar</button>
+<div class="smallprint">
+<span class="frb-legal-US" style="display: none;">Ao efetuar um donativo, concorda com a <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_policy">política de privacidade de donativos</a>. A Wikimedia Foundation é uma organização <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_Deductibility">sem fins lucrativos e isenta de impostos</a>.</span>
+<span class="frb-legal-NL" style="display: none;">Ao efetuar um donativo, concorda com a <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_policy">política de privacidade de donativos</a> e partilhar a sua informação com a Wikimedia Foundation e os seus prestadores de serviços nos EUA ou em qualquer outra parte. A Wikimedia Foundation é uma organização <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_Deductibility">sem fins lucrativos e isenta de impostos</a>.</span>
+<span class="frb-legal-nonUS">Ao efetuar um donativo, concorda com a <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Donor_policy">política de privacidade de donativos</a> e a partilha da sua informação com a <a href="https://wikimediafoundation.org/wiki/Special:LandingCheck?basic=true&amp;landing_page=Tax_Deductibility">Wikimedia Foundation</a> e os seus prestadores de serviços nos EUA e em qualquer outra parte.</span>
+</div>
+</form>
+<div class="frb-inline-rml-done" style="display: none;">
+Obrigado! Iremos enviar-lhe um lembrete por e-mail
+</div>
+<div class="frb-inline-rml-form-close-wrapper">
+<span class="frb-inline-rml-form-close" tabindex="0">
+<span class="frb-inline-rml-form-close-txt">Fechar</span>
+<svg class="frb-inline-rml-form-close-icon" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><title>icon-close</title><g stroke="#8A8A8A" stroke-width="1.4" fill="none" fill-rule="evenodd" stroke-linecap="round"><path d="M1 1l9.944 9.944M10.944 1L1 10.944"></path></g></svg>
+</span>
+</div>
+</div>
+</div>
+</span>
+<span class="frb-inline-close" tabindex="0">
+<span class="frb-inline-close-txt">Fechar</span>
+<svg class="frb-inline-close-icon" width="12" height="12" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg"><title>icon-close</title><g stroke="#8A8A8A" stroke-width="1.4" fill="none" fill-rule="evenodd" stroke-linecap="round"><path d="M1 1l9.944 9.944M10.944 1L1 10.944"></path></g></svg>
+</span>
+</span>
+</div>
+<script>
+var frb = frb || {};
+// TODO: Purge currencies that are no longer needed
+frb.amounts = frb.amounts || {};
+// Hard minimum amounts that can be given
+frb.amounts.minimums = {
+/* From https://github.com/wikimedia/wikimedia-fundraising-SmashPig/blob/master/PaymentData/ReferenceData/CurrencyRates.php */
+'ADF' : 6.01,
+'ADP' : 152,
+'AED' : 3.67,
+'AFA' : 68,
+'AFN' : 68,
+'ALL' : 122,
+'AMD' : 468,
+'ANG' : 1.77,
+'AOA' : 165,
+'AON' : 165,
+'ATS' : 13,
+'AUD' : 1.33,
+'AWG' : 1.79,
+'AZM' : 8510,
+'AZN' : 1.7,
+'BAM' : 1.79,
+'BBD' : 2,
+'BDT' : 81,
+'BEF' : 37,
+'BGL' : 1.79,
+'BGN' : 1.79,
+'BHD' : 0.37445,
+'BIF' : 1681,
+'BMD' : 1,
+'BND' : 1.39,
+'BOB' : 6.8,
+'BRL' : 3.17,
+'BSD' : 1,
+'BTN' : 64,
+'BWP' : 10,
+'BYR' : 20020,
+'BZD' : 1.97,
+'CAD' : 1.37,
+'CDF' : 1369,
+'CHF' : 1,
+'CNY' : 6.89,
+'CRC' : 547,
+'CUC' : 1,
+'CUP' : 25,
+'CVE' : 101,
+'CYP' : 0.54,
+'CZK' : 25,
+'DEM' : 1.79,
+'DJF' : 178,
+'DKK' : 6.81,
+'DOP' : 47,
+'DZD' : 109,
+'ECS' : 25589,
+'EEK' : 14,
+'EGP' : 18,
+'ESP' : 152,
+'ETB' : 23,
+'EUR' : 0.92,
+'FIM' : 5.45,
+'FJD' : 2.08,
+'FKP' : 0.78,
+'FRF' : 6.01,
+'GBP' : 0.78,
+'GEL' : 2.43,
+'GHC' : 41911,
+'GHS' : 4.19,
+'GIP' : 0.78,
+'GMD' : 44,
+'GNF' : 9172,
+'GRD' : 312,
+'GTQ' : 7.17,
+'GYD' : 198,
+'HKD' : 7.78,
+'HNL' : 23,
+'HRK' : 6.83,
+'HTG' : 68,
+'HUF' : 286,
+'IDR' : 13316,
+'IEP' : 0.73,
+'ILS' : 3.61,
+'INR' : 64,
+'IQD' : 1149,
+'IRR' : 32438,
+'ISK' : 106,
+'ITL' : 1774,
+'JMD' : 128,
+'JOD' : 0.71,
+'JPY' : 112,
+'KES' : 101,
+'KGS' : 68,
+'KHR' : 3972,
+'KMF' : 451,
+'KPW' : 135,
+'KRW' : 1129,
+'KWD' : 0.30384,
+'KYD' : 0.81632,
+'KZT' : 314,
+'LAK' : 8068,
+'LBP' : 1491,
+'LKR' : 151,
+'LRD' : 91,
+'LSL' : 13,
+'LTL' : 3.16,
+'LUF' : 37,
+'LVL' : 0.65,
+'LYD' : 1.39,
+'MAD' : 9.85,
+'MDL' : 19,
+'MGA' : 3160,
+'MGF' : 9149,
+'MKD' : 56,
+'MMK' : 1339,
+'MNT' : 2410,
+'MOP' : 7.84,
+'MRO' : 356,
+'MTL' : 0.40,
+'MUR' : 33,
+'MVR' : 15,
+'MWK' : 721,
+'MYR' : 4.33,
+'MZM' : 70440,
+'MZN' : 70,
+'NAD' : 13,
+'NGN' : 312,
+'NIO' : 29,
+'NLG' : 2.02,
+'NOK' : 8.59,
+'NPR' : 101,
+'NZD' : 1.44,
+'OMR' : 0.38365,
+'PAB' : 1,
+'PEN' : 3.21,
+'PGK' : 3.13,
+'PHP' : 50,
+'PKR' : 104,
+'PLN' : 3.86,
+'PTE' : 184,
+'PYG' : 5467,
+'QAR' : 3.64,
+'ROL' : 41607,
+'RON' : 4.16,
+'RSD' : 112,
+'RUB' : 57,
+'RWF' : 822,
+'SAR' : 3.75,
+'SBD' : 7.69,
+'SCR' : 13,
+'SDD' : 665,
+'SDG' : 6.65,
+'SDP' : 2272,
+'SEK' : 8.83,
+'SGD' : 1.39,
+'SHP' : 0.78,
+'SIT' : 220,
+'SKK' : 28,
+'SLL' : 7451,
+'SOS' : 545,
+'SRD' : 7.48,
+'SRG' : 7480,
+'STD' : 22420,
+'SVC' : 8.54,
+'SYP' : 215,
+'SZL' : 13,
+'THB' : 34,
+'TJS' : 8.5,
+'TMM' : 17022,
+'TMT' : 3.4,
+'TND' : 2.41,
+'TOP' : 2.31,
+'TRL' : 3540300,
+'TRY' : 3.54,
+'TTD' : 6.65,
+'TWD' : 30,
+'TZS' : 2213,
+'UAH' : 26,
+'UGX' : 3612,
+'USD' : 1,
+'UZS' : 3728,
+'VEB' : 10022,
+'VEF' : 10,
+'VND' : 22484,
+'VUV' : 107,
+'WST' : 2.59,
+'XAF' : 601,
+'XCD' : 2.69,
+'XOF' : 600,
+'XPF' : 109,
+'YER' : 250,
+'YUN' : 112,
+'ZAR' : 13,
+'ZMK' : 5328,
+'ZWD' : 376,
+/* Astropay currencies have higher minimums - 1.50 USD */
+'ARS' : 22.5,
+'CLP' : 993,
+'COP' : 4380,
+'MXN' : 28.5,
+'UYU' : 42
+};
+frb.amounts.options7 = {
+'USD' : [3, 5, 10, 20, 30, 50, 100],
+'EUR' : {
+'default' : [2, 5, 10, 20, 30, 50, 100]
+},
+'GBP' : [2, 5, 10, 20, 30, 50, 100],
+'CAD' : [3, 5, 10, 20, 30, 50, 100],
+'AUD' : [3, 5, 10, 20, 30, 50, 100],
+'NZD' : [3, 5, 10, 20, 30, 50, 100],
+'ANG' : [5, 10, 20, 35, 50, 100, 200],
+'ARS' : [30, 50, 100, 200, 500, 750, 1000],
+'BAM' : [3, 5, 10, 25, 40, 70, 140],
+'BBD' : [5, 10, 20, 40, 60, 100, 200],
+'BDT' : [200, 400, 800, 1500, 2000, 4000, 7500],
+'BGN' : [10, 25, 50, 75, 100, 150, 200],
+'BHD' : [1, 2, 4, 8, 10, 20, 40],
+'BMD' : [3, 5, 10, 20, 30, 50, 100],
+'BOB' : [20, 30, 60, 140, 200, 300, 600],
+'BRL' : [10, 20, 30, 50, 100, 250, 500],
+'BZD' : [5, 10, 20, 40, 60, 100, 200],
+'CLP' : [1500, 2500, 5000, 10000, 15000, 25000, 50000],
+'CNY' : [50, 75, 100, 300, 500, 1000, 1500],
+'COP' : [7000, 10000, 20000, 50000, 100000, 150000, 200000],
+'CRC' : [2500, 5000, 10000, 20000, 50000, 75000, 100000],
+'CZK' : [50, 100, 200, 400, 600, 1000, 2000],
+'DKK' : [20, 100, 150, 200, 300, 500, 1000],
+'DOP' : [200, 500, 1000, 2000, 5000, 7500, 10000],
+'DZD' : [200, 400, 750, 1500, 2000, 4000, 7500],
+'FJD' : [5, 10, 20, 40, 50, 100, 200],
+'GTQ' : [20, 40, 80, 150, 200, 350, 750],
+'HKD' : [20, 50, 100, 150, 200, 500, 1000],
+'HNL' : [50, 100, 200, 400, 600, 1000, 1800],
+'HRK' : [35, 50, 100, 250, 500, 1000, 1500],
+'HUF' : [500, 1000, 2000, 4000, 5000, 7000, 10000],
+'ISK' : [300, 500, 1000, 2000, 3000, 5000, 10000],
+'ILS' : [10, 50, 100, 200, 300, 500, 1000],
+'INR' : [100, 200, 300, 500, 1000, 2000, 3000],
+'JMD' : [300, 500, 1000, 2000, 3000, 5000, 10000],
+'JPY' : [300, 1000, 1500, 2000, 3000, 5000, 10000],
+'KRW' : [5000, 10000, 20000, 30000, 50000, 75000, 100000],
+'KWD' : [2, 5, 10,15, 25, 30, 75],
+'KZT' : [750, 1500, 3000, 7500, 12000, 15000, 35000],
+'MKD' : [100, 200, 400, 800, 1200, 2000, 4000],
+'MVR' : [40, 75, 150, 300, 450, 750, 1500],
+'MXN' : [35, 50, 100, 200, 500, 750, 1000],
+'MYR' : [10, 30, 50, 100, 200, 300, 500],
+'NIO' : [100, 250, 500, 1000, 1500, 2500, 5500],
+'NOK' : [20, 100, 150, 200, 500, 750, 1000],
+'OMR' : [1, 2, 4, 8, 10, 20, 40],
+'PAB' : [3, 5, 10, 20, 30, 50, 100],
+'PEN' : [10, 30, 50, 150, 200, 275, 700],
+'PHP' : [200, 500, 750, 1000, 2000, 3000, 5000],
+'PLN' : [10, 20, 50, 100, 200, 300, 500],
+'PYG' : [10000, 20000, 40000, 80000, 120000, 200000, 400000],
+'QAR' : [20, 50, 75, 185, 250, 350, 1000],
+'RON' : [10, 50, 75, 100, 200, 300, 500],
+'SEK' : [30, 50, 100, 200, 300, 500, 1000],
+'SGD' : [3, 5, 10, 20, 30, 50, 100],
+'THB' : [50, 100, 250, 500, 750, 1000, 2000],
+'TND' : [5, 10, 15, 30, 50, 75, 150],
+'TTD' : [20, 30, 60, 120, 200, 300, 600],
+'TWD' : [150, 300, 500, 1000, 1500, 2000, 5000],
+'UAH' : [50, 75, 150, 300, 500, 750, 1000],
+'UYU' : [70, 100, 200, 400, 1000, 1500, 2000],
+'VEF' : [20, 30, 50, 100, 200, 300, 600],
+'VND' : [60000, 100000, 200000, 400000, 600000, 1000000, 2000000],
+'XCD' : [5, 10, 20, 50, 80, 120, 250],
+'XOF' : [1000, 2000, 5000, 10000, 150000, 200000, 400000],
+'XPF' : [250, 400, 800, 1600, 2500, 4000, 8000],
+'ZAR' : [30, 50, 100, 200, 300, 500, 1000],
+'CHF' : [3, 5, 10, 20, 30, 50, 100]
+};
+// 5 amount options. Used e.g. on mobile
+// Usual formula: take 1st, 3rd, 4th, 6th and 7th from asks7 */
+frb.amounts.options5 = {
+'USD' : [3, 15, 20, 50, 100],
+'CAD' : [3, 15, 20, 50, 100],
+'AUD' : [3, 15, 20, 50, 100],
+'NZD' : [3, 15, 20, 50, 100],
+'GBP' : [2, 10, 20, 50, 100],
+'EUR' : [2, 10, 20, 50, 100],
+'ARS' : [30, 100, 200, 750, 1000],
+'BRL' : [10, 30, 50, 100, 250],
+'CHF' : [3, 15, 20, 50, 100],
+'CLP' : [1500, 5000, 10000, 25000, 50000],
+'CNY' : [50, 100, 300, 500, 1000],
+'COP' : [7000, 20000, 50000, 150000, 200000],
+'DKK' : [20, 100, 200, 500, 1000],
+'HKD' : [20, 100, 150, 500, 1000],
+'HUF' : [500, 2500, 4000, 7000, 10000],
+'ILS' : [10, 50, 200, 600, 1000],
+'INR' : [100, 300, 500, 2000, 3000],
+'JPY' : [300, 1500, 2000, 5000, 10000],
+'MXN' : [35, 100, 200, 750, 1000],
+'MYR' : [10, 50, 100, 300, 500],
+'NOK' : [20, 100, 200, 500, 1000],
+'PEN' : [10, 50, 150, 300, 700],
+'PLN' : [10, 50, 100, 300, 500],
+'RON' : [10, 50, 100, 200, 1000],
+'SEK' : [30, 100, 200, 500, 1000],
+'UAH' : [50, 150, 300, 750, 1000],
+'UYU' : [70, 200, 400, 1500, 2000],
+'ZAR' : [30, 100, 200, 500, 1000]
+};
+/* "Average" donation */
+frb.amounts.averages = {
+'USD' : 15,
+'EUR' : 10,
+'GBP' : 10,
+'CAD' : 15,
+'AUD' : 15,
+'NZD' : 15,
+'ALL' : 1500,
+'AMD' : 5000,
+'ANG' : 25,
+'ARS' : 100,
+'AZN' : 10,
+'BAM' : 20,
+'BBD' : 30,
+'BDT' : 1000,
+'BGN' : 20,
+'BHD' : 6,
+'BMD' : 15,
+'BND' : 20,
+'BOB' : 100,
+'BRL' : 25,
+'BSD' : 15,
+'BZD' : 30,
+'CHF' : 15,
+'CLP' : 8000,
+'CNY' : 100,
+'COP' : 30000,
+'CRC' : 7500,
+'CZK' : 250,
+'DKK' : 100,
+'DOP' : 600,
+'DZD' : 1000,
+'EGP' : 100,
+'ETB' : 250,
+'FJD' : 25,
+'GEL' : 25,
+'GNF' : 100000,
+'GTQ' : 100,
+'HKD' : 100,
+'HNL' : 250,
+'HRK' : 80,
+'HUF' : 2500,
+'ILS' : 50,
+'INR' : 750,
+'ISK' : 1500,
+'JMD' : 1500,
+'JOD' : 10,
+'JPY' : 1500,
+'KES' : 1000,
+'KRW' : 15000,
+'KWD' : 5,
+'KZT' : 2000,
+'LKR' : 2000,
+'MAD' : 120,
+'MKD' : 600,
+'MOP' : 100,
+'MUR' : 500,
+'MVR' : 200,
+'MXN' : 150,
+'MYR' : 50,
+'MZN' : 50,
+'NGN' : 2500,
+'NIO' : 350,
+'NOK' : 100,
+'OMR' : 5,
+'PAB' : 15,
+'PEN' : 40,
+'PHP' : 600,
+'PKR' : 1500,
+'PLN' : 50,
+'PYG' : 60000,
+'QAR' : 50,
+'RON' : 50,
+'RSD' : 1200,
+'SBD' : 100,
+'SEK' : 100,
+'SGD' : 20,
+'THB' : 500,
+'TND' : 25,
+'TTD' : 100,
+'TWD' : 500,
+'UAH' : 150,
+'UYU' : 300,
+'VEF' : 100,
+'VND' : 300000,
+'XCD' : 40,
+'XOF' : 7000,
+'XPF' : 1000,
+'ZAR' : 150,
+};
+// 'If everyone gave X'. Mostly the same as first asks option.
+frb.amounts.ifEveryone = {
+'USD' : 3,
+'EUR' : {
+'default' : 2
+},
+'GBP' : 2,
+'CAD' : 3,
+'AUD' : 3,
+'NZD' : 3,
+'ANG' : 5,
+'ARS' : 30,
+'BAM' : 3,
+'BBD' : 5,
+'BDT' : 200,
+'BGN' : 10,
+'BHD' : 1,
+'BMD' : 3,
+'BOB' : 20,
+'BRL' : 10,
+'BZD' : 5,
+'CHF' : 3,
+'CLP' : 1500,
+'CNY' : 50,
+'COP' : 7000,
+'CRC' : 2500,
+'CZK' : 50,
+'DKK' : 20,
+'DOP' : 200,
+'DZD' : 200,
+'FJD' : 5,
+'GTQ' : 20,
+'HKD' : 20,
+'HNL' : 50,
+'HRK' : 35,
+'HUF' : 500,
+'ILS' : 10,
+'INR' : 100,
+'ISK' : 300,
+'JMD' : 300,
+'JPY' : 300,
+'KRW' : 5000,
+'KWD' : 2,
+'KZT' : 750,
+'MKD' : 100,
+'MVR' : 40,
+'MXN' : 35,
+'MYR' : 10,
+'NIO' : 100,
+'NOK' : 20,
+'OMR' : 1,
+'PAB' : 3,
+'PEN' : 10,
+'PHP' : 200,
+'PLN' : 10,
+'PYG' : 10000,
+'QAR' : 20,
+'RON' : 10,
+'SEK' : 30,
+'SGD' : 3,
+'THB' : 50,
+'TND' : 5,
+'TTD' : 20,
+'TWD' : 150,
+'UAH' : 50,
+'UYU' : 70,
+'VEF' : 20,
+'VND' : 60000,
+'XCD' : 5,
+'XOF' : 1000,
+'XPF' : 250,
+'ZAR' : 30
+};
+// TODO: purge unneeded currencies
+frb.currencyFormats = {
+'USD' : '$\t',
+'EUR' : {
+'en' : '€\t',
+'cy' : '€\t',
+'ga' : '€\t',
+'mt' : '€\t',
+'nl' : '€ \t',
+'lv' : '€ \t',
+'tr' : '€ \t',
+'default' : '\t €'
+},
+'ANG' : 'ƒ\t',
+'ARS' : '$\t',
+'AUD' : '$\t',
+'BAM' : '\t KM',
+'BBD' : 'Bcs$\t',
+'BDT' : '৳\t',
+'BGN' : 'лв\t',
+'BHD' : 'د.ب\t',
+'BMD' : 'BD$\t',
+'BOB' : '$b\t',
+'BRL' : 'R$\t',
+'BZD' : 'BZ$\t',
+'CAD' : {
+'fr' : '$\t',
+'default' : '$\t'
+},
+'CHF' : 'Fr. \t',
+'CLP' : '$\t',
+'CNY' : '\t ¥',
+'COP' : '$\t',
+'CRC' : '\t ₡',
+'CZK' : '\t Kč',
+'DKK' : '\t kr.',
+'DOP' : 'RD$\t',
+'DZD' : 'د.ج\t',
+'EGP' : {
+'en' : 'E£\t',
+'default' : '\t جنيه'
+},
+'FJD' : 'FJ$\t',
+'GBP' : '£\t',
+'GTQ' : 'Q\t',
+'HKD' : 'HK$\t',
+'HNL' : 'L\t',
+'HRK' : '\t kn',
+'HUF' : '\t Ft',
+'ILS' : {
+'he' : '\t&thinsp;₪',
+'yi' : '\t&thinsp;₪',
+'ar' : '\t&thinsp;₪',
+'default' : '₪&thinsp;\t'
+},
+'INR' : '₹ \t',
+'ISK' : '\t kr',
+'JMD' : 'J$ \t',
+'JOD' : 'دينار\t',
+'JPY' : '¥\t',
+'KES' : '\t KSh',
+'KRW' : '₩\t',
+'KWD' : 'د.ك \t',
+'KZT' : '〒 \t', // TODO: don't use the JP postal code symbol once KZT works in unicode
+'LKR' : '\t Rs.',
+'MAD' : 'د.م.\t',
+'MKD' : '\t ден',
+'MOP' : 'MOP$\t',
+'MUR' : '\t Rs',
+'MXN' : '$\t',
+'MVR' : 'Rf. \t',
+'MYR' : 'RM\t',
+'NIO' : 'C$\t',
+'NOK' : '\t kr',
+'NZD' : '$\t',
+'OMR' : 'ر.ع\t',
+'PAB' : '\t B/.',
+'PEN' : 'S/. \t',
+'PHP' : '₱\t',
+'PKR' : 'Rs \t',
+'PLN' : '\t zł',
+'PYG' : '\t ₲',
+'QAR' : 'ر.ق\t',
+'RON' : '\t lei',
+'SCR' : 'SR \t',
+'SEK' : '\t kr',
+'SGD' : 'S$ \t',
+'SVC' : '\t ₡',
+'THB' : {
+'th' : '\t บาท',
+'default' : '\t ฿'
+},
+'TND' : '\t د.ت',
+'TTD' : 'TT$\t',
+'TWD' : 'NT$\t',
+'TZS' : '\t/=',
+'UAH' : '₴\t',
+'UYU' : '$U \t',
+'UZS' : '\t сўм',
+'VEF' : 'Bs.F. \t',
+'VND' : '\t₫',
+'VUV' : 'VT\t',
+'XAF' : 'FCFA\t',
+'XCD' : 'EC$\t',
+'XOF' : 'CFA \t',
+'XPF' : '\t F',
+'ZAR' : 'R \t'
+};
+// Check in user language first, then fall back to English
+frb.countryNames = {
+'en' : {
+'US' : 'the U.S.',
+'CA' : 'Canada',
+'GB' : 'the UK',
+'IE' : 'Ireland',
+'AU' : 'Australia',
+'NZ' : 'New Zealand',
+'AR' : 'Argentina',
+'AT' : 'Austria',
+'BE' : 'Belgium',
+'BR' : 'Brazil',
+'CL' : 'Chile',
+'CO' : 'Colombia',
+'DK' : 'Denmark',
+'ES' : 'Spain',
+'FR' : 'France',
+'HK' : 'Hong Kong',
+'HU' : 'Hungary',
+'IL' : 'Israel',
+'IN' : 'India',
+'IT' : 'Italy',
+'JP' : 'Japan',
+'LU' : 'Luxembourg',
+'LV' : 'Latvia',
+'MX' : 'Mexico',
+'MY' : 'Malaysia',
+'NL' : 'the Netherlands',
+'NO' : 'Norway',
+'PE' : 'Peru',
+'PL' : 'Poland',
+'PT' : 'Portugal',
+'RO' : 'Romania',
+'SE' : 'Sweden',
+'SK' : 'Slovakia',
+'UA' : 'Ukraine',
+'UY' : 'Uruguay',
+'ZA' : 'South Africa'
+},
+'es' : {
+'MX' : 'México',
+'PE' : 'Perú'
+}
+};
+frb.iPadTranslations = {
+'en' : 'iPad'
+};
+/* MediaWiki:FundraisingBanners/CoreJS-2017.js
+* Core code for banner forms
+*/
+var frb = frb || {};
+/**
+* Main function to submit to paymentswiki
+*
+* @param {Object} options
+* - method (required)
+* - submethod (optional)
+* - gateway (optional)
+* - ffname (optional)
+* - skipValidation (optional boolean, for pp-usd. Not yet implemented.)
+*/
+frb.submitForm = function(options) {
+var form = document.getElementById('frb-form');
+var uri = new mw.Uri('https://payments.wikimedia.org/index.php/Special:GatewayFormChooser');
+var params = {};
+/* Form selection data */
+params.payment_method = options.method;
+if ( options.submethod ) {
+params.payment_submethod = options.submethod;
+}
+if ( options.gateway ) {
+params.gateway = options.gateway;
+}
+if ( options.ffname ) {
+params.ffname = options.ffname;
+}
+if ( options.variant ) {
+params.variant = options.variant;
+}
+params.recurring = frb.getRecurring(form);
+params.currency_code = frb.getCurrency(mw.centralNotice.data.country) || 'USD';
+params.uselang = mw.centralNotice.data.uselang || 'en';
+params.country = mw.centralNotice.data.country || 'XX';
+/* Express Checkout overrides for Japan and Big English. Remove once it's default. */
+if ( params.payment_method === 'paypal' &&
+$.inArray(params.country, ['JP', 'US', 'CA', 'GB', 'IE', 'AU', 'NZ']) !== -1
+) {
+params.gateway = 'paypal_ec';
+}
+if (params.uselang === 'pt' && params.country === 'BR') {
+params.uselang = 'pt-br';
+}
+/* Amount */
+params.amount = frb.getAmount(form);
+if (params.amount === false) {
+return false; // Amount problem, bail out of submitting
+}
+/* Tracking info */
+params.utm_medium = 'sitenotice';
+params.utm_campaign = mw.centralNotice.data.campaign || 'test';
+params.utm_source = frb.buildUtmSource(params);
+params.utm_key = mw.centralNotice.bannerData.cookieCount || 0;
+/* Link to Banner History if enabled */
+var mixins = mw.centralNotice.getDataProperty( 'mixins' );
+if ( mixins && mixins.bannerHistoryLogger ) {
+params.bannerhistlog = mw.centralNotice.bannerHistoryLogger.id;
+}
+uri.extend(params);
+if ( mixins && mixins.bannerHistoryLogger ) {
+mw.centralNotice.bannerHistoryLogger.ensureLogSent().always(function() {
+window.location.href = uri.toString();
+});
+} else {
+window.location.href = uri.toString();
+}
+};
+/**
+* Build the utm_source for analytics.
+*
+* Own function so it can be overriden for weird tests
+*
+* @param {Object} params
+* @return {string} utm_source
+*/
+frb.buildUtmSource = function(params) {
+var utm_source;
+var fullDottedPaymentMethod = params.payment_method;
+if ( params.recurring ) {
+fullDottedPaymentMethod = 'r' + fullDottedPaymentMethod;
+}
+if ( params.payment_submethod ) {
+fullDottedPaymentMethod = fullDottedPaymentMethod + '.' + params.payment_submethod;
+}
+utm_source = mw.centralNotice.data.banner;
+utm_source += '.no-LP.' + fullDottedPaymentMethod;
+return utm_source;
+};
+/* Is recurring method selected?
+*
+* Own function so can be overriden for different forms
+*/
+frb.getRecurring = function(form) {
+return form.frequency.value === 'monthly';
+};
+/**
+* Return amount, or false if invalid (e.g. less than minimum)
+*/
+frb.getAmount = function(form) {
+var amount = null;
+if (form.amount) {
+// If there are some amount radio buttons, then look for the checked one
+for (var i = 0; i < form.amount.length; i++) {
+if (form.amount[i].checked) {
+amount = form.amount[i].value;
+}
+}
+}
+// Check the "other" amount box
+if (form.otherAmount.value !== '') {
+var otherAmount = form.otherAmount.value;
+otherAmount = otherAmount.replace(/[,.](\d)$/, ':$10');
+otherAmount = otherAmount.replace(/[,.](\d)(\d)$/, ':$1$2');
+otherAmount = otherAmount.replace(/[$£€¥,.]/g, '');
+otherAmount = otherAmount.replace(/:/, '.');
+form.otherAmount.value = otherAmount;
+amount = otherAmount;
+}
+var currency = frb.getCurrency(mw.centralNotice.data.country);
+var minAmount = Math.ceil( frb.amounts.minimums[currency] ); // NOTE: Round up actual min to nearest whole number
+if ( amount === null || isNaN(amount) || amount <= 0 || amount < minAmount ) {
+alert('Por favor, insira um montante (mínimo de $1)'.replace('$1', minAmount + ' ' + currency));
+return false;
+} else {
+return amount;
+}
+};
+/**
+* Shared code for amount input handling
+*/
+frb.initAmountOptions = function() {
+// Reset "Other" input if user clicks a preset amount
+$('#frb-form [id^=frb-amt-ps]').click(function() {
+$('#frb-amt-other-input').val('');
+});
+// Block typing non-numerics in input field, otherwise Safari allows them and then chokes
+// https://phabricator.wikimedia.org/T118741, https://phabricator.wikimedia.org/T173431
+document.getElementById('frb-amt-other-input').onkeypress = function(e) {
+// Allow special keys in Firefox
+if ((e.code == 'ArrowLeft') || (e.code == 'ArrowRight') ||
+(e.code == 'ArrowUp') || (e.code == 'ArrowDown') ||
+(e.code == 'Delete') || (e.code == 'Backspace')) {
+return;
+}
+var chr = String.fromCharCode(e.which);
+if ("0123456789., ".indexOf(chr) === -1) {
+return false;
+}
+};
+};
+/**
+* Get the currency for a given country
+*
+* NOTE: The following currency mapping is WMF-specific based on payment
+* provider availability, NOT necessarily the official currency of the country
+*
+* @param {string} country code
+* @return {string} currency code
+*/
+frb.getCurrency = function(country) {
+switch(country) {
+// Big 5 at the top for speed
+case 'US': return 'USD';
+case 'CA': return 'CAD';
+case 'GB': return 'GBP';
+case 'AU': return 'AUD';
+case 'NZ': return 'NZD';
+// Euro countries
+case 'AD':
+case 'AL':
+case 'AM':
+case 'AT':
+case 'AW':
+case 'AZ':
+case 'BE':
+case 'BY':
+case 'CI':
+case 'CY':
+case 'DE':
+case 'EE':
+case 'ES':
+case 'FI':
+case 'FR':
+case 'GF':
+case 'GR':
+case 'IE':
+case 'IT':
+case 'LT':
+case 'LU':
+case 'LV':
+case 'LY':
+case 'MC':
+case 'ME':
+case 'MG':
+case 'MT':
+case 'NL':
+case 'PT':
+case 'RE':
+case 'RS':
+case 'SI':
+case 'SK':
+case 'SM':
+case 'SR':
+case 'VA':
+return 'EUR';
+// The rest
+case 'AE': return 'AED';
+case 'AR': return 'ARS';
+case 'BA': return 'BAM';
+case 'BB': return 'BBD';
+case 'BD': return 'BDT';
+case 'BG': return 'BGN';
+case 'BH': return 'BHD';
+case 'BM': return 'BMD';
+case 'BO': return 'BOB';
+case 'BR': return 'BRL';
+case 'BZ': return 'BZD';
+case 'CH': return 'CHF';
+case 'CK': return 'NZD';
+case 'CL': return 'CLP';
+case 'CN': return 'CNY';
+case 'CO': return 'COP';
+case 'CR': return 'CRC';
+case 'CZ': return 'CZK';
+case 'DK': return 'DKK';
+case 'DO': return 'DOP';
+case 'DZ': return 'DZD';
+case 'EG': return 'EGP';
+case 'FJ': return 'FJD';
+case 'FO': return 'DKK';
+case 'GL': return 'DKK';
+case 'GT': return 'GTQ';
+case 'HK': return 'HKD';
+case 'HN': return 'HNL';
+case 'HR': return 'HRK';
+case 'HU': return 'HUF';
+case 'ID': return 'IDR';
+case 'IL': return 'ILS';
+case 'IN': return 'INR';
+case 'IS': return 'ISK';
+case 'JM': return 'JMD';
+case 'JO': return 'JOD';
+case 'JP': return 'JPY';
+case 'KE': return 'KES';
+case 'KI': return 'AUD';
+case 'KR': return 'KRW';
+case 'KZ': return 'KZT';
+case 'LB': return 'LBP';
+case 'LI': return 'CHF';
+case 'LK': return 'LKR';
+case 'MA': return 'MAD';
+case 'MK': return 'MKD';
+case 'MV': return 'MVR';
+case 'MW': return 'GBP';
+case 'MX': return 'MXN';
+case 'MY': return 'MYR';
+case 'NI': return 'NIO';
+case 'NO': return 'NOK';
+case 'NP': return 'INR';
+case 'NR': return 'AUD';
+case 'OM': return 'OMR';
+case 'PA': return 'PAB';
+case 'PE': return 'PEN';
+case 'PG': return 'AUD';
+case 'PH': return 'PHP';
+case 'PK': return 'PKR';
+case 'PL': return 'PLN';
+case 'PY': return 'PYG';
+case 'QA': return 'QAR';
+case 'RO': return 'RON';
+case 'RU': return 'RUB';
+case 'SA': return 'SAR';
+case 'SD': return 'GBP';
+case 'SE': return 'SEK';
+case 'SG': return 'SGD';
+case 'TH': return 'THB';
+case 'TM': return 'RUB';
+case 'TN': return 'TND';
+case 'TR': return 'TRY';
+case 'TT': return 'TTD';
+case 'TW': return 'TWD';
+case 'UA': return 'UAH';
+case 'UY': return 'UYU';
+case 'UZ': return 'RUB';
+case 'VE': return 'VEF';
+case 'VN': return 'VND';
+case 'VU': return 'AUD';
+case 'ZA': return 'ZAR';
+// small multi-country currencies
+case 'CW':
+case 'SX':
+return 'ANG';
+case 'AG':
+case 'DM':
+case 'GD':
+case 'KN':
+case 'LC':
+return 'XCD';
+case 'BJ':
+case 'BF':
+case 'CI':
+case 'GW':
+case 'ML':
+case 'NE':
+case 'SN':
+case 'TG':
+return 'XOF';
+case 'PF':
+case 'NC':
+case 'WF':
+return 'XPF';
+// fall back to USD
+default:
+return 'USD';
+}
+};
+/**
+* Format a currency value
+*
+* @param {string} currency code
+* @param {number} amount
+* @param {string} language code
+* @return {string} formatted string e.g. '$3', '£5', '10 €'
+*/
+frb.formatCurrency = function(currency, amount, language) {
+var locale, formatter, fmAmount;
+if (isNaN(amount) || amount === '') {
+// Not a number, it's probably the 'other' string or box
+// TODO: better way of doing this?
+fmAmount = amount;
+} else {
+// Do some basic number formatting - digit separators etc
+if (window.Intl && typeof window.Intl === 'object') {
+locale = language + '-' + Geo.country;
+formatter = new Intl.NumberFormat(locale);
+} else {
+// Bad browser. Let's just have a thing that throws it back unformatted for now
+formatter = {};
+formatter.format = function(number) {
+return number.toString();
+};
+}
+fmAmount = formatter.format(amount);
+}
+var currencies = frb.currencyFormats;
+if (currencies[currency] === undefined) {
+return currency + '&nbsp;' + fmAmount;
+}
+if (currencies[currency] instanceof Object) { // not a string
+if(currencies[currency][language] !== undefined) {
+return currencies[currency][language].replace('\t', fmAmount);
+}
+return currencies[currency]['default'].replace('\t', fmAmount);
+}
+return currencies[currency].replace('\t', fmAmount);
+};
+/*
+* Select the correct amount or array of amounts from object in "source"
+*
+* @param {Object} source - the amounts data object e.g. frb.amounts.options7, frb.amounts.averages
+* @param {string} currency - ISO code of currency
+* @param {string} country - ISO code of country (optional)
+* @return {array/number} - depending on source
+*/
+frb.pickAmounts = function(source, currency, country) {
+if ( source[currency]['default'] ) { // we need to go deeper
+if ( source[currency][country] !== undefined ) {
+return source[currency][country];
+} else {
+return source[currency]['default'];
+}
+} else {
+return source[currency];
+}
+};
+/**
+* Display the correct payment methods for current country
+*
+* Methods should be labeled with class 'frb-pm-xxxx'
+* TODO: clean this function up more
+*
+* @param {string} country
+*/
+frb.localizeMethods = function(country) {
+// Countries with no credit card option (currently none)
+var noCC = [];
+if ($.inArray(country, noCC) !== -1) {
+$('.frb-pm-cc').remove();
+}
+// Can't do monthly credit card in Brazil
+if (country === 'BR') {
+$('.frb-pm-cc').addClass('no-monthly');
+}
+// Remove any leftover WorldPay
+$('.frb-pm-cc-wp').remove();
+// Countries using Adyen for credit card
+if (country === 'FR' || country === 'IL' || country === 'UA') {
+$('.frb-pm-cc').remove();
+$('.frb-pm-cc-adyen').show();
+} else {
+$('.frb-pm-cc-adyen').remove();
+}
+// Countries with no PayPal option
+var noPP = ['IN', 'RU', 'SG', 'AE', 'QA', 'OM', 'BD', 'BO', 'PA',
+'PY', 'GT', 'JM', 'TT', 'DZ', 'PE'];
+if ($.inArray(country, noPP) !== -1) {
+$('.frb-pm-pp').remove();
+$('.frb-pm-pp-usd').remove();
+}
+// Countries with no PayPal for mobile only
+var noPPmobile = ['PH', 'ID', 'TH', 'KR', 'MY', 'VN'];
+var mobileRegex = /(_mob_|_ipd_)/
+if ($.inArray(country, noPPmobile) !== -1) {
+if (mw.centralNotice.data.banner.search(mobileRegex) !== -1) {
+$('.frb-pm-pp').remove();
+$('.frb-pm-pp-usd').remove();
+}
+}
+// Countries where PayPal must be in USD
+var ppUSD = ['BG', 'HR', 'LT', 'MK', 'RO', 'UA', 'SA', 'CN', 'ID', 'KR',
+'KZ', 'MY', 'VN', 'AR', 'CL', 'DO', 'CO', 'NI', 'UY', 'ZA',
+'BH', 'LB', 'VE', 'TR', 'IS', 'BA', 'MV', 'BB', 'BM', 'BZ',
+'CR', 'CW', 'SX', 'HN', 'KN', 'DM', 'AG', 'LC', 'GD', 'FJ',
+'TN', 'BJ', 'BF', 'CI', 'GW', 'ML', 'NE', 'SN', 'TG', 'BR'];
+if ($.inArray(country, ppUSD) !== -1) {
+$('.frb-pm-pp').remove();
+$('.frb-pm-pp-usd').show();
+} else {
+$('.frb-pm-pp').show();
+$('.frb-pm-pp-usd').remove();
+}
+// Show any extra local payment methods, or remove them if not needed
+var extrapaymentmethods = {
+'amazon' : ['US'],
+'bpay' : ['AU'],
+'ideal' : ['NL'],
+'bt' : ['AR', 'BR', 'CL', 'CO'], // Bank Transfer (Astropay)
+'cash' : ['AR', 'BR', 'CO', 'MX', 'UY'] // 'Cash' methods (Astropay)
+};
+// Methods with different labels per country
+if (country === 'AR') {
+$('.frb-pm-bt button, button.frb-pm-bt').html('Santander');
+}
+if (country === 'CO') {
+$('.frb-pm-bt button, button.frb-pm-bt').html('PSE Pagos');
+}
+if (country === 'UY') {
+$('.frb-pm-cash button, button.frb-pm-cash').html('RedPagos');
+}
+if (country === 'CL' && mw.config.get('wgUserLanguage') == 'es') {
+$('.frb-pm-bt button, button.frb-pm-bt').html('Trans. bancaria');
+}
+for (var method in extrapaymentmethods) {
+var $methodbutton = $('.frb-pm-' + method);
+if ( $.inArray(country, extrapaymentmethods[method]) !== -1 ) { // country is in the list
+$methodbutton.show();
+} else {
+$methodbutton.remove();
+}
+}
+};
+/**
+* Check scheduled payment method outages and hide buttons if needed
+*
+* Data at https://meta.wikimedia.org/wiki/MediaWiki:FR2013/Resources/PaymentOutages.js
+* Methods should be labeled with class 'frb-pm-xxxx'
+*
+* @param {string} country code
+*/
+frb.checkMethodOutages = function(country) {
+// TODO - can we load this a better way?
+/* This file can be used to schedule hiding of individual payment methods from
+* banners and donatewiki e.g. if they have scheduled downtime.
+* Valid methods are:
+* ideal, yandex, cc, dd, sofort, pp, amazon, bpay, webmoney, boletos, enets, pp-usd
+* (most of the time it's 'ideal'...)
+* Can also limit outage to a specific country with country: "XX" (where XX is an ISO code)
+*
+* Note that in JavaScript dates the months (and only the months) start at 0.
+* Jan=0, Feb=1, Mar=2, Apr=3 etc. How hateful
+*/
+var outages = [
+{
+start: new Date(Date.UTC(2016, 8, 18, 1)),
+end: new Date(Date.UTC(2016, 8, 18, 7)),
+method: "ideal"
+}
+];
+var now = new Date();
+for (var i = outages.length - 1; i >= 0; i--) {
+if ( now > outages[i].start && now < outages[i].end ) {
+if (outages[i].country === undefined || outages[i].country == country) {
+$('.frb-pm-' + outages[i].method).hide();
+}
+}
+}
+};
+/**
+* Adjust the amount options and their labels
+*
+* Inputs should have id frb-amt-psX where X is the index number (starting from 1)
+*
+* @param {Object} source - object with amounts e.g. frb.amounts.options7
+* @param {string} currency - currency code e.g. 'USD'
+* @param {string} country - country code e.g. 'FR' Some currencies can have different options per country.
+* @param {string} language - language code e.g. 'en' For symbol formatting
+* @param {boolean} useSymbols - use currency symbols on labels or not? (3 vs $3)
+*/
+frb.localizeAmountOptions = function(source, currency, country, language, useSymbols) {
+var amountOptions = frb.pickAmounts(source, currency, country);
+$('#frb-form input[name="amount"]').each(function(index) {
+var $input = $(this);
+var $label = $input.siblings('label');
+var i = $input.attr('id').replace('frb-amt-ps', '');
+var amount = amountOptions[i-1]; // because IDs start from 1
+if ( amount ) {
+$input.val( amount );
+if ( useSymbols ) {
+$label.html( frb.formatCurrency( currency, amount, language) );
+} else {
+$label.html( amount );
+}
+}
+});
+};
+frb.noRecurringCountries = ['AR', 'CL', 'CO', 'MX', 'PE', 'UY', 'BR'];
+/* These countries use potentially ambiguous $ sign.
+Use ISO code instead in text (but still $ for buttons) */
+frb.textAmountIsoCountries = ['AR', 'CL', 'CO', 'MX'];
+$(function() {
+var language = mw.centralNotice.data.uselang;
+var country = mw.centralNotice.data.country;
+var currency = frb.getCurrency(country);
+// Payment methods
+frb.localizeMethods(country);
+frb.checkMethodOutages(country);
+// Hide recurring for some countries
+if ( frb.noRecurringCountries.indexOf(country) !== -1 ) { // country is in the list
+$('.frb-frequency, .recurring-details').hide();
+}
+// Basic replacements
+$('.frb-replace-currencysymbol').html( frb.formatCurrency( currency, '', language ).replace(' ', '') );
+$('.frb-replace-currencycode').html( currency );
+// Country name
+var countryName;
+if ( frb.countryNames[language] ) {
+countryName = frb.countryNames[language][country] || frb.countryNames.en[country];
+} else {
+countryName = frb.countryNames.en[country];
+}
+$('.frb-replace-countryname').html( countryName );
+// Replace device with iPad if needed
+var ua = navigator.userAgent;
+if ( ua.match( /ipad/i ) ) {
+$('.frb-replace-device').html( frb.iPadTranslations[language] || frb.iPadTranslations.en );
+}
+// Replace %AVERAGE% with formatted "average" amount
+var average = frb.pickAmounts(frb.amounts.averages, currency, country);
+if ( frb.textAmountIsoCountries.indexOf(country) !== -1 ) {
+var avgString = average + '&nbsp;' + currency;
+} else {
+var avgString = frb.formatCurrency(currency, average, language).replace(/\.$/, ''); // strip any period from end for use in running text
+}
+$('.frb').each(function(index){
+var newHtml = $(this).html().replace(/%AVERAGE%/g, '<span style="white-space: nowrap;">' + avgString + '</span>');
+$(this).html(newHtml);
+});
+// Replace %MINIMUM% with formatted "if everyone" amount
+var ifEveryone = frb.pickAmounts(frb.amounts.ifEveryone, currency, country);
+if ( frb.textAmountIsoCountries.indexOf(country) !== -1 ) {
+var ifString = ifEveryone + '&nbsp;' + currency;
+} else {
+var ifString = frb.formatCurrency(currency, ifEveryone, language).replace(/\.$/, ''); // strip any period from end for use in running text
+}
+$('.frb').each(function(index){
+var newHtml = $(this).html().replace(/%MINIMUM%/g, '<span style="white-space: nowrap;">' + ifString + '</span>');
+$(this).html(newHtml);
+});
+/* Links (in smallprint) */
+$('.frb-localize-links a').each(function() {
+// Add parameters for LandingCheck
+var uri = new mw.Uri( $(this).attr('href') );
+uri.extend({
+country: country,
+language: language,
+uselang: language,
+utm_medium: 'sitenotice',
+utm_campaign: mw.centralNotice.data.campaign || 'test',
+utm_source: mw.centralNotice.data.banner
+});
+$(this).attr('href', uri.toString());
+$(this).attr('target', '_blank'); // Make links open in new tab
+});
+// Legal text variants
+if (country === 'US') {
+$('.frb-legal-US').show();
+$('.frb-legal-nonUS, .frb-legal-NL').hide();
+} else if (country === 'NL') {
+$('.frb-legal-NL').show();
+$('.frb-legal-US, .frb-legal-nonUS').hide();
+} else {
+$('.frb-legal-nonUS').show();
+$('.frb-legal-US, .frb-legal-NL').hide();
+}
+});
+/** Provides alterImpressionData hook for CentralNotice
+* This info will be sent back with Special:RecordImpression
+*/
+mediaWiki.centralNotice.bannerData.alterImpressionData = function( impressionData ) {
+// Returning true from this function indicates the banner was shown
+if (mediaWiki.centralNotice.bannerData.hideReason) {
+impressionData.reason = mediaWiki.centralNotice.bannerData.hideReason;
+}
+if (mediaWiki.centralNotice.bannerData.cookieCount) {
+impressionData.banner_count = mediaWiki.centralNotice.bannerData.cookieCount;
+}
+return !mediaWiki.centralNotice.bannerData.hideResult;
+};
+frb.storedOptions = {};
+frb.setMethod = function(options) {
+frb.storedOptions = options || { method: 'cc' }; // Default to credit card
+$('.frb-methods').fadeOut('fast', function() {
+if ( ( ( frb.storedOptions.method === 'cc' && frb.storedOptions.gateway !== 'adyen' ) || frb.storedOptions.method === 'paypal' ) &&
+frb.noRecurringCountries.indexOf(mw.centralNotice.data.country) === -1 // Defined in LocalizeJS-2017.js
+) {
+$('.frb-frequency, .recurring-details').show();
+}
+$('.frb-step2').fadeIn('fast');
+});
+};
+frb.postReminderForm = function() {
+// Create the iframe for the form and use it as the form's target
+var frameName = "remindFrame";
+var $form = $(".frb-inline-rml-form form");
+if ($("iframe[name=" + frameName + "]").length == 0) {
+var $iframe = $('<iframe style="display: none;" name="' + frameName + '"></iframe>');
+$form.attr("target", $iframe.attr("name"));
+$form.after($iframe);
+}
+$form[0].submit();
+};
+frb.postNagReminderForm = function() {
+// Create the iframe for the form and use it as the form's target
+var frameName = "nagRemindFrame";
+var $form = $(".frb-nag-rml-form form");
+if ($("iframe[name=" + frameName + "]").length == 0) {
+var $iframe = $('<iframe style="display: none;" name="' + frameName + '"></iframe>');
+$form.attr("target", $iframe.attr("name"));
+$form.after($iframe);
+}
+$form[0].submit();
+};
+frb.getCurrentDate = function() {
+var today = new Date();
+var dd = today.getDate();
+var mm = today.getMonth()+1; //January is 0!
+var yyyy = today.getFullYear();
+if(dd<10) {
+dd='0'+dd;
+}
+if(mm<10) {
+mm='0'+mm;
+}
+today = mm+'/'+dd+'/'+yyyy;
+return today;
+};
+frb.initReminderForm = function() {
+$(".frb-inline-rml-form input[name=rml_country]").val(Geo.country);
+$(".frb-inline-rml-form input[name=rml_language]").val(mw.config.get('wgUserLanguage'));
+$(".frb-inline-rml-form input[name=rml_submitDate]").val(frb.getCurrentDate());
+$(".frb-inline-rml-form input[name=rml_segment]").val(Math.floor((Math.random() * 100) + 1));
+$(".frb-nag-rml-form input[name=rml_country]").val(Geo.country);
+$(".frb-nag-rml-form input[name=rml_language]").val(mw.config.get('wgUserLanguage'));
+$(".frb-nag-rml-form input[name=rml_submitDate]").val(frb.getCurrentDate());
+$(".frb-nag-rml-form input[name=rml_segment]").val(Math.floor((Math.random() * 100) + 1));
+$(".frb-inline-rml-link").on('click keypress', function(e) {
+if (e.which === 13 || e.type === 'click') {
+$('.frb-inline-rml').toggle();
+// Use standard JS focus() method not jQuery, because of IE10 scrolling bug
+// https://phabricator.wikimedia.org/T162049
+$('.frb-inline-rml .email_input').get(0).focus();
+}
+});
+$(".frb-nag-rml-link").on('click keypress', function(e) {
+if (e.which === 13 || e.type === 'click') {
+$('.frb-nag-rml').toggle();
+$('.frb-nag-rml .email_input').get(0).focus();
+return false;
+}
+});
+$(".frb-inline-rml-form button").bind("click keypress", function(e) {
+if (e.which === 13 || e.type === 'click') {
+if ( mw.util.validateEmail( $(".frb-inline-rml-form form input[name='Email']").val() ) ) {
+frb.postReminderForm();
+$(".frb-inline-rml-form form").hide();
+$(".frb-inline-rml-done").show();
+$(".frb-inline-rml").delay(2000).fadeOut(1000, function(){
+$("#frb-inline").hide();
+$("#frb-nag").hide();
+});
+mw.centralNotice.internal.hide.setHideWithCloseButtonCookies(); // Hide future banners for 7 days
+return false;
+} else {
+$(".frb-inline-rml-form form input[name='Email']").addClass("error");
+$(".frb-inline-rml-form #errorMessageContainerId").show();
+$('.frb-inline-rml .email_input').get(0).focus();
+return false;
+}
+}
+});
+$(".frb-nag-rml-form button").bind("click keypress", function(e) {
+if (e.which === 13 || e.type === 'click') {
+if ( mw.util.validateEmail( $(".frb-nag-rml-form form input[name='Email']").val() ) ) {
+frb.postNagReminderForm();
+$(".frb-nag-rml-form form").hide();
+$(".frb-nag-rml .frb-inline-rml-done").show();
+$(".frb-nag-rml-form form").hide();
+$(".frb-nag-rml-done").show();
+$(".frb-nag-rml").delay(2000).fadeOut(1000, function(){
+$('#frb-nag').hide();
+});
+mw.centralNotice.internal.hide.setHideWithCloseButtonCookies(); // Hide future banners for 7 days
+return false;
+} else {
+$(".frb-nag-rml-form form input[name='Email']").addClass("error");
+$(".frb-nag-rml-form #errorMessageContainerId").show();
+$('.frb-nag-rml .email_input').get(0).focus();
+return false;
+}
+}
+});
+};
+frb.initNag = function() {
+/* --- Code for sticky "nag" banner --- */
+$(window).scroll(function() {
+// Check if element exists on scroll
+// This check is important after email has been submitted in RML nag
+if ( $( '#frb-inline' ).length ) {
+var nagRevealPosition = $('#frb-inline').offset().top + $('#frb-inline').outerHeight();
+if ( $(window).scrollTop() < nagRevealPosition ) {
+$('#frb-nag').finish();
+$('#frb-nag').removeClass('reveal');
+$('.frb-nag-rml').hide();
+} else {
+setTimeout(function(){
+if ( !$('#frb-nag' ).hasClass('reveal') && $(window).scrollTop() > nagRevealPosition ) {
+$('#frb-nag').addClass('reveal');
+}
+}, 1500);
+}
+}
+});
+$('.frb-nag-close').on('click keypress', function(e){
+if (e.which === 13 || e.type === 'click') {
+$('#frb-nag').remove();
+return false;
+}
+});
+$('.frb-nag-rml').on('click keypress', function(e){
+if (e.which === 13 || e.type === 'click') {
+return false;
+}
+});
+};
+frb.insertInlineBanner = function() {
+// Place frb-inline in article: before first paragraph, or at top
+var $inlineBanner = $('#frb-inline');
+var $firstPara = $('.mw-parser-output > p:first-of-type').first();
+if ( $firstPara.length > 0 && !mw.config.get('wgIsMainPage') ) {
+$firstPara.before( $inlineBanner );
+} else {
+$('#mw-content-text').prepend( $inlineBanner );
+}
+$inlineBanner.show();
+};
+$(function() {
+var language = mw.centralNotice.data.uselang;
+var country = mw.centralNotice.data.country;
+var currency = frb.getCurrency(country);
+frb.initReminderForm();
+frb.initNag();
+frb.initAmountOptions();
+frb.localizeAmountOptions(frb.amounts.options7, currency, country, language, true);
+// Close top banner on click or return
+$('.frb-inline-close').on('click keypress', function(e) {
+if (e.which === 13 || e.type === 'click') {
+$('#frb-inline').hide();
+mw.centralNotice.hideBanner();
+e.stopPropagation();
+}
+});
+// Close inline rml form on click or return
+$('.frb-inline-rml-form-close').on('click keypress', function(e) {
+if (e.which === 13 || e.type === 'click') {
+$('.frb-inline-rml').hide();
+e.stopPropagation();
+}
+});
+$('.frb-amt-other').click(function() {
+document.getElementById('frb-amt-other').checked = true;
+$('#frb-amt-other-input').focus();
+});
+// Activate #input_amount_other radio when tabbing into #frb-amt-other-input
+$('#frb-amt-other-input').focus(function() {
+document.getElementById('frb-amt-other').checked = true;
+});
+/* Hide banner outside of main namespace (and Main Page, for sites where that isn't in main namespace) */
+if ( mw.config.get('wgNamespaceNumber') > 0 && !mw.config.get('wgIsMainPage') ) {
+mw.centralNotice.bannerData.hideResult = true;
+mw.centralNotice.bannerData.hideReason = 'namespace';
+}
+if (!mw.centralNotice.bannerData.hideResult) {
+frb.insertInlineBanner();
+}
+});
+</script></div><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div id="mw-indicator-mw-helplink" class="mw-indicator"><a href="//www.mediawiki.org/wiki/Special:MyLanguage/Help:Categories" target="_blank" class="mw-helplink">Ajuda</a></div>
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="pt">Categoria:Empresas de saneamento do Brasil</h1>
+<div id="bodyContent" class="mw-body-content">
+<div id="siteSub" class="noprint">Origem: Wikipédia, a enciclopédia livre.</div>
+<div id="contentSub"></div>
+<div id="jump-to-nav" class="mw-jump">
+Ir para: <a href="#mw-head">navegação</a>, <a href="#p-search">pesquisa</a>
+</div>
+<div id="mw-content-text" lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Empresas no setor de <a href="/wiki/Saneamento" title="Saneamento">saneamento</a> básico.</p>
+<div style="clear:both;"></div>
+<table class="navbox noprint collapsible collapsed nowraplinks" style="border-top: solid silver 1px; border-bottom:1px solid silver; margin:auto; background:white;background:white;" id="collapsibleTable0">
+<tbody><tr>
+<th colspan="2" style="text-align:center;width:100%;"><span class="collapseButton">[<a id="collapseButton0" href="#">Expandir</a>]</span>
+<div style="float:left; width:6em; vertical-align:middle; text-align:left;">
+<div class="noprint plainlinksneverexpand navbar" style="background:none; padding:0; font-weight:normal;;border:none;; font-size:xx-small;"><a href="/wiki/Predefini%C3%A7%C3%A3o:Empresas_de_saneamento_do_Brasil" title="Predefinição:Empresas de saneamento do Brasil"><span class="plainlinks" title="Ver esta predefinição" style=";border:none;">v</span></a>&nbsp;<span style="font-size:80%;">•</span>&nbsp;<span class="plainlinks"><a class="external text" href="//pt.wikipedia.org/w/index.php?title=Predefini%C3%A7%C3%A3o:Empresas_de_saneamento_do_Brasil&amp;action=edit"><span title="Editar esta predefinição" style=";border:none;;">e</span></a></span></div>
+</div>
+<span class="" style="font-size:110%;">Empresas de saneamento do Brasil</span></th>
+</tr>
+<tr style="display: none;">
+<td style="text-align:center;background:#ddddff;" colspan="2"><small><a href="/wiki/Associa%C3%A7%C3%A3o_das_Empresas_de_Saneamento_B%C3%A1sico_Estaduais" title="Associação das Empresas de Saneamento Básico Estaduais">Associação das Empresas de Saneamento Básico Estaduais</a> (para as empresas estaduais)</small></td>
+</tr>
+<tr style="display: none;">
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/wiki/Lista_de_empresas_de_saneamento_estaduais_do_Brasil" title="Lista de empresas de saneamento estaduais do Brasil">Estaduais</a></th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;"><a href="/wiki/%C3%81guas_e_Esgotos_do_Piau%C3%AD" title="Águas e Esgotos do Piauí">AGESPISA</a> • <a href="/wiki/Companhia_de_Saneamento_Ambiental_do_Maranh%C3%A3o" title="Companhia de Saneamento Ambiental do Maranhão">CAEMA</a> • <a href="/w/index.php?title=Companhia_de_%C3%81guas_e_Esgotos_de_Roraima&amp;action=edit&amp;redlink=1" class="new" title="Companhia de Águas e Esgotos de Roraima (página não existe)">CAER</a> • <a href="/wiki/Companhia_de_%C3%81guas_e_Esgotos_do_Estado_de_Rond%C3%B4nia" title="Companhia de Águas e Esgotos do Estado de Rondônia">CAERD</a> • <a href="/wiki/Companhia_de_%C3%81guas_e_Esgotos_do_Rio_Grande_do_Norte" title="Companhia de Águas e Esgotos do Rio Grande do Norte">CAERN</a> • <a href="/wiki/Companhia_de_%C3%81gua_e_Esgoto_do_Amap%C3%A1" title="Companhia de Água e Esgoto do Amapá">CAESA</a> • <a href="/wiki/Companhia_de_Saneamento_Ambiental_do_Distrito_Federal" class="mw-redirect" title="Companhia de Saneamento Ambiental do Distrito Federal">CAESB</a> • <a href="/wiki/Companhia_de_%C3%81gua_e_Esgoto_do_Cear%C3%A1" title="Companhia de Água e Esgoto do Ceará">CAGECE</a> • <a href="/wiki/Companhia_de_%C3%81gua_e_Esgotos_da_Para%C3%ADba" title="Companhia de Água e Esgotos da Paraíba">CAGEPA</a> • <a href="/wiki/Companhia_de_Saneamento_de_Alagoas" title="Companhia de Saneamento de Alagoas">CASAL</a> • <a href="/wiki/Companhia_Catarinense_de_%C3%81guas_e_Saneamento" title="Companhia Catarinense de Águas e Saneamento">CASAN</a> • <a href="/wiki/Companhia_Estadual_de_%C3%81guas_e_Esgotos_do_Rio_de_Janeiro" title="Companhia Estadual de Águas e Esgotos do Rio de Janeiro">CEDAE</a> • <a href="/wiki/Companhia_Esp%C3%ADrito_Santense_de_Saneamento" title="Companhia Espírito Santense de Saneamento">CESAN</a> • <a href="/wiki/Companhia_de_Gest%C3%A3o_dos_Recursos_H%C3%ADdricos" title="Companhia de Gestão dos Recursos Hídricos">COGERH</a> • <a href="/wiki/Companhia_Pernambucana_de_Saneamento" title="Companhia Pernambucana de Saneamento">COMPESA</a> • <a href="/wiki/Companhia_de_Saneamento_de_Minas_Gerais" title="Companhia de Saneamento de Minas Gerais">COPASA</a> • <a href="/wiki/Companhia_Riograndense_de_Saneamento" title="Companhia Riograndense de Saneamento">CORSAN</a> • <a href="/w/index.php?title=Companhia_de_Saneamento_do_Amazonas&amp;action=edit&amp;redlink=1" class="new" title="Companhia de Saneamento do Amazonas (página não existe)">COSAMA</a> • <a href="/wiki/Companhia_de_Saneamento_do_Par%C3%A1" title="Companhia de Saneamento do Pará">COSANPA</a> • <a href="/w/index.php?title=Departamento_Estadual_de_Pavimenta%C3%A7%C3%A3o_e_Saneamento&amp;action=edit&amp;redlink=1" class="new" title="Departamento Estadual de Pavimentação e Saneamento (página não existe)">DEPASA</a> • <a href="/wiki/Companhia_de_Saneamento_de_Sergipe" title="Companhia de Saneamento de Sergipe">DESO</a> • <a href="/wiki/Empresa_Metropolitana_de_%C3%81guas_e_Energia" title="Empresa Metropolitana de Águas e Energia">Emae</a> • <a href="/wiki/Empresa_Baiana_de_%C3%81guas_e_Saneamento" title="Empresa Baiana de Águas e Saneamento">EMBASA</a> • <a href="/wiki/Companhia_de_Saneamento_B%C3%A1sico_do_Estado_de_S%C3%A3o_Paulo" class="mw-redirect" title="Companhia de Saneamento Básico do Estado de São Paulo">SABESP</a> • <a href="/wiki/Saneamento_de_Goi%C3%A1s" title="Saneamento de Goiás">SANEAGO</a> • <a href="/wiki/SANEATINS" class="mw-redirect" title="SANEATINS">SANEATINS</a> • <a href="/wiki/Companhia_de_Saneamento_do_Paran%C3%A1" title="Companhia de Saneamento do Paraná">SANEPAR</a> • <a href="/wiki/Empresa_de_Saneamento_de_Mato_Grosso_do_Sul" title="Empresa de Saneamento de Mato Grosso do Sul">SANESUL</a> • <a href="/w/index.php?title=Companhia_de_Saneamento_de_Mato_Grosso&amp;action=edit&amp;redlink=1" class="new" title="Companhia de Saneamento de Mato Grosso (página não existe)">SANEMAT</a></td>
+</tr>
+<tr style="display: none;">
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;"><a href="/wiki/Anexo:Lista_de_empresas_de_saneamento_municipais_do_Brasil" class="mw-redirect" title="Anexo:Lista de empresas de saneamento municipais do Brasil">Municipais</a></th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;"><a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto" title="Serviço Autônomo de Água e Esgoto">SAAE</a> (<a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_Campo_Maior" title="Serviço Autônomo de Água e Esgoto de Campo Maior">Campo Maior</a> • <a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_Guanh%C3%A3es" title="Serviço Autônomo de Água e Esgoto de Guanhães">Guanhães</a> • <a href="/w/index.php?title=Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_Guarulhos&amp;action=edit&amp;redlink=1" class="new" title="Serviço Autônomo de Água e Esgoto de Guarulhos (página não existe)">Guarulhos</a> • <a href="/w/index.php?title=Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_S%C3%A3o_Carlos&amp;action=edit&amp;redlink=1" class="new" title="Serviço Autônomo de Água e Esgoto de São Carlos (página não existe)">São Carlos</a> • <a href="/w/index.php?title=Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_Sorocaba&amp;action=edit&amp;redlink=1" class="new" title="Serviço Autônomo de Água e Esgoto de Sorocaba (página não existe)">Sorocaba</a>) • <a href="/wiki/Sociedade_de_Abastecimento_de_%C3%81gua_e_Saneamento" title="Sociedade de Abastecimento de Água e Saneamento">SANASA</a> • <a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_Saneamento_de_Pelotas" title="Serviço Autônomo de Saneamento de Pelotas">SANEP</a></td>
+</tr>
+<tr style="display: none;">
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Privadas</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;">
+<ul>
+<li><a href="/wiki/Aegea" title="Aegea">Aegea</a>
+<ul>
+<li><a href="/w/index.php?title=%C3%81guas_Guariroba&amp;action=edit&amp;redlink=1" class="new" title="Águas Guariroba (página não existe)">Águas Guariroba</a> • <a href="/wiki/Prolagos" title="Prolagos">Prolagos</a> • <a href="/w/index.php?title=%C3%81guas_do_Mirante&amp;action=edit&amp;redlink=1" class="new" title="Águas do Mirante (página não existe)">Águas do Mirante</a> • <a href="/w/index.php?title=Nascentes_do_Xingu&amp;action=edit&amp;redlink=1" class="new" title="Nascentes do Xingu (página não existe)">Nascentes do Xingu</a> • <a href="/w/index.php?title=%C3%81guas_de_Mat%C3%A3o&amp;action=edit&amp;redlink=1" class="new" title="Águas de Matão (página não existe)">Águas de Matão</a> • <a href="/w/index.php?title=%C3%81guas_de_S%C3%A3o_Francisco&amp;action=edit&amp;redlink=1" class="new" title="Águas de São Francisco (página não existe)">Águas de São Francisco</a> • <a href="/w/index.php?title=%C3%81guas_de_S%C3%A3o_Francisco_do_Sul&amp;action=edit&amp;redlink=1" class="new" title="Águas de São Francisco do Sul (página não existe)">Águas de São Francisco do Sul</a> • <a href="/w/index.php?title=%C3%81guas_de_Timon&amp;action=edit&amp;redlink=1" class="new" title="Águas de Timon (página não existe)">Águas de Timon</a> • <a href="/w/index.php?title=%C3%81guas_de_Meriti&amp;action=edit&amp;redlink=1" class="new" title="Águas de Meriti (página não existe)">Águas de Meriti</a> • <a href="/w/index.php?title=%C3%81guas_de_Holambra&amp;action=edit&amp;redlink=1" class="new" title="Águas de Holambra (página não existe)">Águas de Holambra</a> • <a href="/w/index.php?title=%C3%81guas_de_Penha&amp;action=edit&amp;redlink=1" class="new" title="Águas de Penha (página não existe)">Águas de Penha</a> • <a href="/w/index.php?title=%C3%81guas_de_Cambori%C3%BA&amp;action=edit&amp;redlink=1" class="new" title="Águas de Camboriú (página não existe)">Águas de Camboriú</a> • <a href="/w/index.php?title=%C3%81guas_de_Bombinhas&amp;action=edit&amp;redlink=1" class="new" title="Águas de Bombinhas (página não existe)">Águas de Bombinhas</a> • <a href="/w/index.php?title=%C3%81guas_de_Teresina&amp;action=edit&amp;redlink=1" class="new" title="Águas de Teresina (página não existe)">Águas de Teresina</a></li>
+</ul>
+</li>
+<li><a href="/w/index.php?title=Grupo_%C3%81guas_do_Brasil&amp;action=edit&amp;redlink=1" class="new" title="Grupo Águas do Brasil (página não existe)">Grupo Águas do Brasil</a>
+<ul>
+<li><a href="/wiki/Concession%C3%A1ria_de_%C3%81guas_e_Esgotos_de_Nova_Friburgo" title="Concessionária de Águas e Esgotos de Nova Friburgo">Águas de Nova Friburgo</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Odebrecht_Ambiental" class="mw-redirect" title="Odebrecht Ambiental">Odebrecht Ambiental</a>
+<ul>
+<li><a href="/wiki/Aquapolo" title="Aquapolo">Aquapolo</a></li>
+<li><a href="/wiki/Cetrel" title="Cetrel">Cetrel</a></li>
+<li><a href="/wiki/Foz_%C3%81guas_5" title="Foz Águas 5">Foz Águas 5</a></li>
+<li><a href="/wiki/Foz_do_Brasil" title="Foz do Brasil">Foz do Brasil</a></li>
+<li><a href="/wiki/Saneaqua" title="Saneaqua">Saneaqua</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr style="display: none;">
+<th class="" style="white-space:nowrap;background:#ddddff;text-align:right;">Extintas</th>
+<td colspan="1" class="hlist" style="text-align:left;width:100%;font-size:95%;background:#f7f7f7;">
+<ul>
+<li><a href="/wiki/Companhia_de_Saneamento_de_Diadema" title="Companhia de Saneamento de Diadema">SANED</a></li>
+</ul>
+</td>
+</tr>
+<tr style="display: none;">
+<td style="text-align:center;background:#ddddff;" colspan="2"><a href="/wiki/Ficheiro:Folder_Hexagonal_Icon.svg" class="image" title="Página de categoria"><img alt="Página de categoria" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31"></a> <small><a class="mw-selflink selflink">Empresas de saneamento do Brasil</a></small></td>
+</tr>
+</tbody></table>
+<!--
+NewPP limit report
+Parsed by mw1216
+Cached time: 20171001212331
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.044 seconds
+Real time usage: 0.057 seconds
+Preprocessor visited node count: 725/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21825/2097152 bytes
+Template argument size: 13207/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 0/500
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 38.608 1 -total
+93.84% 36.231 1 Predefinição:Empresas_de_saneamento_do_Brasil
+82.20% 31.736 1 Predefinição:Navbox
+55.00% 21.235 1 Predefinição:Navbox/core
+10.54% 4.068 1 Predefinição:Tnavbar
+9.80% 3.784 1 Predefinição:Ícone
+5.98% 2.310 1 Predefinição:Seminterwiki-categorias
+4.33% 1.671 2 Predefinição:Transclude
+4.09% 1.580 1 Predefinição:Limpar
+-->
+</div>
+<!-- Saved in parser cache with key ptwiki:pcache:idhash:854364-0!canonical and timestamp 20171001212331 and revision id 41797796
+-->
+<div class="mw-category-generated" lang="pt" dir="ltr"><div id="mw-subcategories">
+<h2>Subcategorias</h2>
+<p>Esta categoria contém as seguintes 2 subcategorias (de um total de 2).
+</p><div lang="pt" dir="ltr" class="mw-content-ltr"><h3>E</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categoria:Empresas_de_saneamento_extintas_do_Brasil">Empresas de saneamento extintas do Brasil</a>‎ <span title="Contém 0 subcategoria, 1 página e 0 ficheiro" dir="ltr">(1 P)</span></div>
+<div class="CategoryTreeChildren" style="display:none"></div></div>
+</li></ul><h3>O</h3>
+<ul><li><div class="CategoryTreeSection"><div class="CategoryTreeItem"><span class="CategoryTreeEmptyBullet">► </span> <a class="CategoryTreeLabel CategoryTreeLabelNs14 CategoryTreeLabelCategory" href="/wiki/Categoria:Odebrecht_Ambiental">Odebrecht Ambiental</a>‎ <span title="Contém 0 subcategoria, 6 páginas e 0 ficheiro" dir="ltr">(6 P)</span></div>
+<div class="CategoryTreeChildren" style="display:none"></div></div>
+</li></ul></div>
+</div><div id="mw-pages">
+<h2>Páginas na categoria "Empresas de saneamento do Brasil"</h2>
+<p>Esta categoria contém as seguintes 34 páginas (de um total de 34).
+</p><div lang="pt" dir="ltr" class="mw-content-ltr"><div class="mw-category"><div class="mw-category-group"><h3>&nbsp;</h3>
+<ul><li><a href="/wiki/Lista_de_empresas_de_saneamento_estaduais_do_Brasil" title="Lista de empresas de saneamento estaduais do Brasil">Lista de empresas de saneamento estaduais do Brasil</a></li>
+<li><a href="/wiki/Lista_de_empresas_de_saneamento_municipais_do_Brasil" title="Lista de empresas de saneamento municipais do Brasil">Lista de empresas de saneamento municipais do Brasil</a></li></ul></div><div class="mw-category-group"><h3>A</h3>
+<ul><li><a href="/wiki/%C3%81guas_e_Esgotos_do_Piau%C3%AD" title="Águas e Esgotos do Piauí">Águas e Esgotos do Piauí</a></li></ul></div><div class="mw-category-group"><h3>C</h3>
+<ul><li><a href="/wiki/Caesb" title="Caesb">Caesb</a></li>
+<li><a href="/wiki/Companhia_de_%C3%81gua_e_Esgoto_do_Amap%C3%A1" title="Companhia de Água e Esgoto do Amapá">Companhia de Água e Esgoto do Amapá</a></li>
+<li><a href="/wiki/Companhia_de_%C3%81guas_e_Esgotos_do_Rio_Grande_do_Norte" title="Companhia de Águas e Esgotos do Rio Grande do Norte">Companhia de Águas e Esgotos do Rio Grande do Norte</a></li>
+<li><a href="/wiki/Companhia_Catarinense_de_%C3%81guas_e_Saneamento" title="Companhia Catarinense de Águas e Saneamento">Companhia Catarinense de Águas e Saneamento</a></li>
+<li><a href="/wiki/Companhia_de_%C3%81gua_e_Esgoto_do_Cear%C3%A1" title="Companhia de Água e Esgoto do Ceará">Companhia de Água e Esgoto do Ceará</a></li>
+<li><a href="/wiki/Companhia_de_%C3%81gua_e_Esgotos_da_Para%C3%ADba" title="Companhia de Água e Esgotos da Paraíba">Companhia de Água e Esgotos da Paraíba</a></li>
+<li><a href="/wiki/Companhia_de_%C3%81guas_e_Esgotos_do_Estado_de_Rond%C3%B4nia" title="Companhia de Águas e Esgotos do Estado de Rondônia">Companhia de Águas e Esgotos do Estado de Rondônia</a></li>
+<li><a href="/wiki/Companhia_de_Gest%C3%A3o_dos_Recursos_H%C3%ADdricos" title="Companhia de Gestão dos Recursos Hídricos">Companhia de Gestão dos Recursos Hídricos</a></li>
+<li><a href="/wiki/Companhia_de_Saneamento_Ambiental_do_Maranh%C3%A3o" title="Companhia de Saneamento Ambiental do Maranhão">Companhia de Saneamento Ambiental do Maranhão</a></li>
+<li><a href="/wiki/Companhia_de_Saneamento_de_Alagoas" title="Companhia de Saneamento de Alagoas">Companhia de Saneamento de Alagoas</a></li>
+<li><a href="/wiki/Companhia_de_Saneamento_de_Minas_Gerais" title="Companhia de Saneamento de Minas Gerais">Companhia de Saneamento de Minas Gerais</a></li>
+<li><a href="/wiki/Companhia_de_Saneamento_de_Sergipe" title="Companhia de Saneamento de Sergipe">Companhia de Saneamento de Sergipe</a></li>
+<li><a href="/wiki/Companhia_de_Saneamento_do_Par%C3%A1" title="Companhia de Saneamento do Pará">Companhia de Saneamento do Pará</a></li>
+<li><a href="/wiki/Companhia_de_Saneamento_do_Paran%C3%A1" title="Companhia de Saneamento do Paraná">Companhia de Saneamento do Paraná</a></li>
+<li><a href="/wiki/Companhia_Esp%C3%ADrito_Santense_de_Saneamento" title="Companhia Espírito Santense de Saneamento">Companhia Espírito Santense de Saneamento</a></li>
+<li><a href="/wiki/Companhia_Estadual_de_%C3%81guas_e_Esgotos_do_Rio_de_Janeiro" title="Companhia Estadual de Águas e Esgotos do Rio de Janeiro">Companhia Estadual de Águas e Esgotos do Rio de Janeiro</a></li>
+<li><a href="/wiki/Companhia_Pernambucana_de_Saneamento" title="Companhia Pernambucana de Saneamento">Companhia Pernambucana de Saneamento</a></li>
+<li><a href="/wiki/Companhia_Riograndense_de_Saneamento" title="Companhia Riograndense de Saneamento">Companhia Riograndense de Saneamento</a></li>
+<li><a href="/wiki/Sabesp" title="Sabesp">Sabesp</a></li>
+<li><a href="/wiki/Concession%C3%A1ria_de_%C3%81guas_e_Esgotos_de_Nova_Friburgo" title="Concessionária de Águas e Esgotos de Nova Friburgo">Concessionária de Águas e Esgotos de Nova Friburgo</a></li></ul></div><div class="mw-category-group"><h3>E</h3>
+<ul><li><a href="/wiki/Empresa_Baiana_de_%C3%81guas_e_Saneamento" title="Empresa Baiana de Águas e Saneamento">Empresa Baiana de Águas e Saneamento</a></li>
+<li><a href="/wiki/Empresa_Metropolitana_de_%C3%81guas_e_Energia" title="Empresa Metropolitana de Águas e Energia">Empresa Metropolitana de Águas e Energia</a></li>
+<li><a href="/wiki/Empresa_de_Saneamento_de_Mato_Grosso_do_Sul" title="Empresa de Saneamento de Mato Grosso do Sul">Empresa de Saneamento de Mato Grosso do Sul</a></li></ul></div><div class="mw-category-group"><h3>F</h3>
+<ul><li><a href="/wiki/Foz_do_Brasil" title="Foz do Brasil">Foz do Brasil</a></li></ul></div><div class="mw-category-group"><h3>P</h3>
+<ul><li><a href="/wiki/Prolagos" title="Prolagos">Prolagos</a></li></ul></div><div class="mw-category-group"><h3>S</h3>
+<ul><li><a href="/wiki/Saneamento_de_Goi%C3%A1s" title="Saneamento de Goiás">Saneamento de Goiás</a></li>
+<li><a href="/wiki/Saneatins" title="Saneatins">Saneatins</a></li>
+<li><a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_Campo_Maior" title="Serviço Autônomo de Água e Esgoto de Campo Maior">Serviço Autônomo de Água e Esgoto de Campo Maior</a></li>
+<li><a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_%C3%81gua_e_Esgoto_de_Guanh%C3%A3es" title="Serviço Autônomo de Água e Esgoto de Guanhães">Serviço Autônomo de Água e Esgoto de Guanhães</a></li>
+<li><a href="/wiki/Servi%C3%A7o_Aut%C3%B4nomo_de_Saneamento_de_Pelotas" title="Serviço Autônomo de Saneamento de Pelotas">Serviço Autônomo de Saneamento de Pelotas</a></li>
+<li><a href="/wiki/Sociedade_de_Abastecimento_de_%C3%81gua_e_Saneamento" title="Sociedade de Abastecimento de Água e Saneamento">Sociedade de Abastecimento de Água e Saneamento</a></li></ul></div></div></div>
+</div></div><noscript>&lt;img src="//pt.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /&gt;</noscript></div> <div class="printfooter">
+Obtida de "<a dir="ltr" href="https://pt.wikipedia.org/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;oldid=41797796">https://pt.wikipedia.org/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;oldid=41797796</a>" </div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Empresas_de_%C3%A1gua" title="Categoria:Empresas de água">Empresas de água</a></li><li><a href="/wiki/Categoria:Empresas_do_Brasil_por_setor" title="Categoria:Empresas do Brasil por setor">Empresas do Brasil por setor</a></li><li><a href="/wiki/Categoria:Abastecimento_de_%C3%A1gua" title="Categoria:Abastecimento de água">Abastecimento de água</a></li><li><a href="/wiki/Categoria:Saneamento_no_Brasil" title="Categoria:Saneamento no Brasil">Saneamento no Brasil</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Menu de navegação</h2>
+<div id="mw-head">
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+<h3 id="p-personal-label">Ferramentas pessoais</h3>
+<ul>
+<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [ctrl-option-n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [ctrl-option-y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Categoria%3AEmpresas+de+saneamento+do+Brasil" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Categoria%3AEmpresas+de+saneamento+do+Brasil" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [ctrl-option-o]" accesskey="o">Entrar</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+<h3 id="p-namespaces-label">Domínios</h3>
+<ul>
+<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Categoria:Empresas_de_saneamento_do_Brasil" title="Ver a página de categoria [ctrl-option-c]" accesskey="c">Categoria</a></span></li>
+<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Categoria_Discuss%C3%A3o:Empresas_de_saneamento_do_Brasil&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussão sobre o conteúdo da página [ctrl-option-t]" accesskey="t">Discussão</a></span></li>
+</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+<h3 id="p-variants-label" tabindex="0">
+<span>Variantes</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+<h3 id="p-views-label">Vistas</h3>
+<ul>
+<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Categoria:Empresas_de_saneamento_do_Brasil">Ler</a></span></li>
+<li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;veaction=edit" title="Editar esta página [ctrl-option-v]" accesskey="v">Editar</a></span></li>
+<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;action=edit" title="Editar esta página [ctrl-option-e]" accesskey="e">Editar código-fonte</a></span></li>
+<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;action=history" title="Edições anteriores desta página. [ctrl-option-h]" accesskey="h">Ver histórico</a></span></li>
+</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label" style="">
+<h3 id="p-cactions-label" tabindex="0"><span>Mais</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Busca</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [ctrl-option-f]" accesskey="f" id="searchInput" tabindex="1" autocomplete="off"><input type="hidden" value="Especial:Pesquisar" name="title"><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal"></a></div>
+<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+<h3 id="p-navigation-label">Navegação</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [ctrl-option-z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [ctrl-option-x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="#">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+<h3 id="p-interaction-label">Colaboração</h3>
+<div class="body">
+<ul>
+<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [ctrl-option-r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Categoria%3AEmpresas+de+saneamento+do+Brasil">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Categoria%3AEmpresas+de+saneamento+do+Brasil&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;printable=yes" title="Versão para impressão desta página [ctrl-option-p]" accesskey="p">Versão para impressão</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+<h3 id="p-tb-label">Ferramentas</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Categoria:Empresas_de_saneamento_do_Brasil" title="Lista de todas as páginas que contêm ligações para esta [ctrl-option-j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Categoria:Empresas_de_saneamento_do_Brasil" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém ligação [ctrl-option-k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [ctrl-option-u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [ctrl-option-q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;oldid=41797796" title="Ligação permanente para esta versão da página">Hipeligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q9662660" title="Ligação para o elemento do repositório de dados [ctrl-option-g]" accesskey="g">Elemento Wikidata</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"><span class="uls-settings-trigger" title="Definições de língua" tabindex="0" role="button" aria-haspopup="true"></span>
+<h3 id="p-lang-label">Línguas</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q9662660#sitelinks-wikipedia" title="Adicionar links interlínguas" class="wbc-editpage">Adicionar ligações</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 17h58min de 2 de abril de 2015.</li>
+<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de uso</a>.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre cookies</a></li>
+<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+<li style="display: none;"><a href="#">Ativar antevisões</a></li></ul>
+<ul id="footer-icons" class="noprint">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.057","ppvisitednodes":{"value":725,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21825,"limit":2097152},"templateargumentsize":{"value":13207,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 38.608 1 -total"," 93.84% 36.231 1 Predefinição:Empresas_de_saneamento_do_Brasil"," 82.20% 31.736 1 Predefinição:Navbox"," 55.00% 21.235 1 Predefinição:Navbox/core"," 10.54% 4.068 1 Predefinição:Tnavbar"," 9.80% 3.784 1 Predefinição:Ícone"," 5.98% 2.310 1 Predefinição:Seminterwiki-categorias"," 4.33% 1.671 2 Predefinição:Transclude"," 4.09% 1.580 1 Predefinição:Limpar"]},"cachereport":{"origin":"mw1216","timestamp":"20171001212331","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1185"});});</script>
+<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><div id="mwe-popups-svg"><svg width="0" height="0"><defs><clipPath id="mwe-popups-mask"><polygon points="0 8, 10 8, 18 0, 26 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-mask-flip"><polygon points="0 8, 274 8, 282 0, 290 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask"><polygon points="0 8, 174 8, 182 0, 190 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask-flip"><polygon points="0 0, 1000 0, 1000 242, 190 242, 182 250, 174 242, 0 242"></polygon></clipPath></defs></svg></div></body>
+ref="https://pt.wikipedia.org/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;oldid=41797796">https://pt.wikipedia.org/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;oldid=41797796</a>" </div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categorias" title="Especial:Categorias">Categorias</a>: <ul><li><a href="/wiki/Categoria:Empresas_de_%C3%A1gua" title="Categoria:Empresas de água">Empresas de água</a></li><li><a href="/wiki/Categoria:Empresas_do_Brasil_por_setor" title="Categoria:Empresas do Brasil por setor">Empresas do Brasil por setor</a></li><li><a href="/wiki/Categoria:Abastecimento_de_%C3%A1gua" title="Categoria:Abastecimento de água">Abastecimento de água</a></li><li><a href="/wiki/Categoria:Saneamento_no_Brasil" title="Categoria:Saneamento no Brasil">Saneamento no Brasil</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Menu de navegação</h2>
+<div id="mw-head">
+<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+<h3 id="p-personal-label">Ferramentas pessoais</h3>
+<ul>
+<li id="pt-anonuserpage">Não autenticado</li><li id="pt-anontalk"><a href="/wiki/Especial:Minha_discuss%C3%A3o" title="Discussão sobre edições feitas a partir deste endereço IP [ctrl-option-n]" accesskey="n">Discussão</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:Minhas_contribui%C3%A7%C3%B5es" title="Uma lista de edições feitas a partir deste endereço IP [ctrl-option-y]" accesskey="y">Contribuições</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Criar_conta&amp;returnto=Categoria%3AEmpresas+de+saneamento+do+Brasil" title="É encorajado a criar uma conta e iniciar sessão; no entanto, não é obrigatório">Criar uma conta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Categoria%3AEmpresas+de+saneamento+do+Brasil" title="Aconselhamos-lhe a criar uma conta na Wikipédia, embora tal não seja obrigatório. [ctrl-option-o]" accesskey="o">Entrar</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+<h3 id="p-namespaces-label">Domínios</h3>
+<ul>
+<li id="ca-nstab-category" class="selected"><span><a href="/wiki/Categoria:Empresas_de_saneamento_do_Brasil" title="Ver a página de categoria [ctrl-option-c]" accesskey="c">Categoria</a></span></li>
+<li id="ca-talk" class="new"><span><a href="/w/index.php?title=Categoria_Discuss%C3%A3o:Empresas_de_saneamento_do_Brasil&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussão sobre o conteúdo da página [ctrl-option-t]" accesskey="t">Discussão</a></span></li>
+</ul>
+</div>
+<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+<h3 id="p-variants-label" tabindex="0">
+<span>Variantes</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+<h3 id="p-views-label">Vistas</h3>
+<ul>
+<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Categoria:Empresas_de_saneamento_do_Brasil">Ler</a></span></li>
+<li id="ca-ve-edit" class="collapsible"><span><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;veaction=edit" title="Editar esta página [ctrl-option-v]" accesskey="v">Editar</a></span></li>
+<li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;action=edit" title="Editar esta página [ctrl-option-e]" accesskey="e">Editar código-fonte</a></span></li>
+<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;action=history" title="Edições anteriores desta página. [ctrl-option-h]" accesskey="h">Ver histórico</a></span></li>
+</ul>
+</div>
+<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label" style="">
+<h3 id="p-cactions-label" tabindex="0"><span>Mais</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Busca</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input type="search" name="search" placeholder="Pesquisar na Wikipédia" title="Pesquisar na Wikipédia [ctrl-option-f]" accesskey="f" id="searchInput" tabindex="1" autocomplete="off"><input type="hidden" value="Especial:Pesquisar" name="title"><input type="submit" name="go" value="Ir" title="Ir para uma página com este nome exacto, caso exista" id="searchButton" class="searchButton"> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal"></a></div>
+<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+<h3 id="p-navigation-label">Navegação</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal" title="Visitar a página principal [ctrl-option-z]" accesskey="z">Página principal</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Conte%C3%BAdo_destacado">Conteúdo destacado</a></li><li id="n-currentevents"><a href="/wiki/Portal:Eventos_atuais" title="Informação temática sobre eventos atuais">Eventos atuais</a></li><li id="n-villagepump"><a href="/wiki/Wikip%C3%A9dia:Esplanada">Esplanada</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleat%C3%B3ria" title="Carregar página aleatória [ctrl-option-x]" accesskey="x">Página aleatória</a></li><li id="n-portals"><a href="/wiki/Portal:%C3%8Dndice">Portais</a></li><li id="n-bug_in_article"><a href="#">Informar um erro</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visite a loja da Wikipédia">Loja da Wikipédia</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+<h3 id="p-interaction-label">Colaboração</h3>
+<div class="body">
+<ul>
+<li id="n-welcome"><a href="/wiki/Wikip%C3%A9dia:Boas-vindas">Boas-vindas</a></li><li id="n-help"><a href="/wiki/Ajuda:P%C3%A1gina_principal" title="Um local reservado para auxílio.">Ajuda</a></li><li id="n-testpage"><a href="/wiki/Wikip%C3%A9dia:P%C3%A1gina_de_testes">Página de testes</a></li><li id="n-portal"><a href="/wiki/Wikip%C3%A9dia:Portal_comunit%C3%A1rio" title="Sobre o projeto">Portal comunitário</a></li><li id="n-recentchanges"><a href="/wiki/Especial:Mudan%C3%A7as_recentes" title="Uma lista de mudanças recentes nesta wiki [ctrl-option-r]" accesskey="r">Mudanças recentes</a></li><li id="n-maintenance"><a href="/wiki/Wikip%C3%A9dia:Manuten%C3%A7%C3%A3o">Manutenção</a></li><li id="n-createpage"><a href="/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/Como_come%C3%A7ar_uma_p%C3%A1gina">Criar página</a></li><li id="n-newpages-description"><a href="/wiki/Especial:P%C3%A1ginas_novas">Páginas novas</a></li><li id="n-contact-description"><a href="/wiki/Wikip%C3%A9dia:Contato">Contato</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=20120521SB001&amp;uselang=pt" title="Ajude-nos">Donativos</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+<h3 id="p-coll-print_export-label">Imprimir/exportar</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Livro&amp;bookcmd=book_creator&amp;referer=Categoria%3AEmpresas+de+saneamento+do+Brasil">Criar um livro</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Categoria%3AEmpresas+de+saneamento+do+Brasil&amp;action=show-download-screen">Descarregar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;printable=yes" title="Versão para impressão desta página [ctrl-option-p]" accesskey="p">Versão para impressão</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+<h3 id="p-tb-label">Ferramentas</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a href="/wiki/Especial:P%C3%A1ginas_afluentes/Categoria:Empresas_de_saneamento_do_Brasil" title="Lista de todas as páginas que contêm ligações para esta [ctrl-option-j]" accesskey="j">Páginas afluentes</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:Altera%C3%A7%C3%B5es_relacionadas/Categoria:Empresas_de_saneamento_do_Brasil" rel="nofollow" title="Mudanças recentes nas páginas para as quais esta contém ligação [ctrl-option-k]" accesskey="k">Alterações relacionadas</a></li><li id="t-upload"><a href="/wiki/Wikipedia:Carregar_ficheiro" title="Carregar ficheiros [ctrl-option-u]" accesskey="u">Carregar ficheiro</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginas_especiais" title="Lista de páginas especiais [ctrl-option-q]" accesskey="q">Páginas especiais</a></li><li id="t-permalink"><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;oldid=41797796" title="Ligação permanente para esta versão da página">Hipeligação permanente</a></li><li id="t-info"><a href="/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;action=info" title="Mais informações sobre esta página">Informações da página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q9662660" title="Ligação para o elemento do repositório de dados [ctrl-option-g]" accesskey="g">Elemento Wikidata</a></li> </ul>
+</div>
+</div>
+<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label"><span class="uls-settings-trigger" title="Definições de língua" tabindex="0" role="button" aria-haspopup="true"></span>
+<h3 id="p-lang-label">Línguas</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q9662660#sitelinks-wikipedia" title="Adicionar links interlínguas" class="wbc-editpage">Adicionar ligações</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> Esta página foi editada pela última vez à(s) 17h58min de 2 de abril de 2015.</li>
+<li id="footer-info-copyright">Este texto é disponibilizado nos termos da licença <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.pt">Creative Commons - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0)</a>;
+pode estar sujeito a condições adicionais.
+Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Condições_de_Uso">condições de uso</a>.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/pt-br" class="extiw" title="m:Privacy policy/pt-br">Política de privacidade</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikip%C3%A9dia:Sobre" class="mw-redirect" title="Wikipédia:Sobre">Sobre a Wikipédia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikip%C3%A9dia:Aviso_geral" title="Wikipédia:Aviso geral">Avisos gerais</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Programadores</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Declaração sobre cookies</a></li>
+<li id="footer-places-mobileview"><a href="//pt.m.wikipedia.org/w/index.php?title=Categoria:Empresas_de_saneamento_do_Brasil&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versão móvel</a></li>
+<li style="display: none;"><a href="#">Ativar antevisões</a></li></ul>
+<ul id="footer-icons" class="noprint">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.044","walltime":"0.057","ppvisitednodes":{"value":725,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21825,"limit":2097152},"templateargumentsize":{"value":13207,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00% 38.608 1 -total"," 93.84% 36.231 1 Predefinição:Empresas_de_saneamento_do_Brasil"," 82.20% 31.736 1 Predefinição:Navbox"," 55.00% 21.235 1 Predefinição:Navbox/core"," 10.54% 4.068 1 Predefinição:Tnavbar"," 9.80% 3.784 1 Predefinição:Ícone"," 5.98% 2.310 1 Predefinição:Seminterwiki-categorias"," 4.33% 1.671 2 Predefinição:Transclude"," 4.09% 1.580 1 Predefinição:Limpar"]},"cachereport":{"origin":"mw1216","timestamp":"20171001212331","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1185"});});</script>
+<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><div id="mwe-popups-svg"><svg width="0" height="0"><defs><clipPath id="mwe-popups-mask"><polygon points="0 8, 10 8, 18 0, 26 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-mask-flip"><polygon points="0 8, 274 8, 282 0, 290 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask"><polygon points="0 8, 174 8, 182 0, 190 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask-flip"><polygon points="0 0, 1000 0, 1000 242, 190 242, 182 250, 174 242, 0 242"></polygon></clipPath></defs></svg></div></body>
+alse}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1185"});});</script>
+<div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><div id="mwe-popups-svg"><svg width="0" height="0"><defs><clipPath id="mwe-popups-mask"><polygon points="0 8, 10 8, 18 0, 26 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-mask-flip"><polygon points="0 8, 274 8, 282 0, 290 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask"><polygon points="0 8, 174 8, 182 0, 190 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask-flip"><polygon points="0 0, 1000 0, 1000 242, 190 242, 182 250, 174 242, 0 242"></polygon></clipPath></defs></svg></div></body>
+y>

@@ -1,0 +1,1096 @@
+>>>---
+LAZER - Fontes de dados para o treinamento
+---<<<
+>>>---
+1 - Sobre atividades de lazer de modo geral
+https://www.aventurando.com.br/blog/10-atividades-de-lazer-preferidas-pelos-brasileiros-2/
+2 - Marcas/Produtos associados à atividades de lazer
+https://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/
+---<<<
+>>>---
+1 - Sobre atividades de lazer de modo geral
+---<<<
+<body class="wordpress-post-view pt is-blog adapt-1" cz-shortcut-listen="true"><div class="zopim" __jx__id="___$_71 ___$_71" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000002; width: 189px; height: 30px; right: 10px; bottom: 0px;" data-test-id="ChatWidgetButton"><iframe frameborder="0" src="about:blank" style="background-color: transparent; vertical-align: text-bottom; position: relative; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; margin: 0px; overflow: hidden; display: block;" data-test-id="ChatWidgetButton-iframe"></iframe></div><div class="zopim" __jx__id="___$_4 ___$_4" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; padding: 0px; border: 0px; background: transparent; overflow: hidden; position: fixed; z-index: 16000001; right: 10px; bottom: 0px; border-top-left-radius: 5px; border-top-right-radius: 5px; display: none; width: 290px; height: 400px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 3px 2px;" data-test-id="ChatWidgetWindow"><iframe frameborder="0" src="about:blank" data-test-id="ChatWidgetWindow-iframe" style="background-color: transparent; vertical-align: text-bottom; position: relative; width: 100%; height: 100%; min-width: 100%; min-height: 100%; max-width: 100%; max-height: 100%; margin: 0px; overflow: hidden; display: block;"></iframe></div>
+<script type="text/javascript">//<![CDATA[
+var FB_WP=FB_WP||{};FB_WP.queue={_methods:[],flushed:false,add:function(fn){FB_WP.queue.flushed?fn():FB_WP.queue._methods.push(fn)},flush:function(){for(var fn;fn=FB_WP.queue._methods.shift();){fn()}FB_WP.queue.flushed=true}};window.fbAsyncInit=function(){FB.init({"channelUrl":"http:\/\/www.aventurando.com.br\/wp\/wp-content\/plugins\/facebook\/channel.php","xfbml":true,"appId":"212250545608725"});if(FB_WP && FB_WP.queue && FB_WP.queue.flush){FB_WP.queue.flush()}}//]]></script><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div><iframe name="fb_xdm_frame_https" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" src="https://staticxx.facebook.com/connect/xd_arbiter/r/18W0fzbK7xg.js?version=42#channel=f168d8ddb5764a4&amp;origin=https%3A%2F%2Fwww.aventurando.com.br" style="border: none;"></iframe></div></div><div style="position: absolute; top: -10000px; height: 0px; width: 0px;"><div></div></div></div><script type="text/javascript">(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https:\/\/connect.facebook.net\/en_US\/all.js";fjs.parentNode.insertBefore(js,fjs)}(document,"script","facebook-jssdk"));</script>
+<noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-WCW4CZT"
+height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+<div class="wrapper">
+<noscript>
+&lt;div class="global-site-notice noscript"&gt;
+&lt;div class="notice-inner"&gt;
+&lt;p&gt;
+&lt;strong&gt;JavaScript seems to be disabled in your browser.&lt;/strong&gt;&lt;br /&gt;
+You must have JavaScript enabled in your browser to utilize the functionality of this website. &lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</noscript>
+<div class="page">
+<div class="container-header"><div class="container_24 "><div class="grid_24"><script src="https://s7.addthis.com/js/300/addthis_widget.js" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery("span.scroll-top a").click(function() {
+jQuery("html, body").animate({
+scrollTop: jQuery(jQuery(this).attr("href")).offset().top - 1 + "px"
+});
+return false;
+});
+jQuery(".link1 a").click(function() {
+jQuery(".top-slide1").slideDown();
+});
+jQuery(".up-arrow01 a").click(function() {
+jQuery(".top-slide1").slideUp();
+});
+});
+</script>
+<div class="header h-menu-2">
+<div class="header-contet clearfix">
+<a id="nav-toggle" href="#" class="">
+<span></span>
+</a>
+<div class="logo">
+<a href="https://www.aventurando.com.br/" title="Aventurando - Turismo, Diversão e Lazer - Passeios em Campinas e região"><strong>Aventurando - Turismo, Diversão e Lazer - Passeios em Campinas e região</strong><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/logo.png" alt="Aventurando - Turismo, Diversão e Lazer - Passeios em Campinas e região"></a>
+</div>
+<!--<div class="search-box">
+<button class="search"></button>
+<input type="text">
+</div> -->
+<div class="search-box">
+<form id="search_mini_form" action="https://www.aventurando.com.br/catalogsearch/result/" method="get">
+<button type="submit" title="Busca" class="search"></button>
+<input id="search" type="text" name="q" value="" maxlength="128" autocomplete="off">
+<div id="search_autocomplete" class="search-autocomplete" style="display: none;"></div>
+<script type="text/javascript">
+//<![CDATA[
+var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+searchForm.initAutocomplete('https://www.aventurando.com.br/catalogsearch/ajax/suggest/', 'search_autocomplete');
+//]]>
+</script>
+<!--div class="input_cat">
+<select name="cat" class="cat-search">
+</select>
+</div-->
+</form>
+</div>
+<div class="button-sec">
+<div class="menu-wrap">
+<div class="pt-en">
+<span class="selected"><a style="text-transform: uppercase; color: #fff;" href="https://www.aventurando.com.br/blog/10-atividades-de-lazer-preferidas-pelos-brasileiros-2/?___store=pt&amp;___from_store=pt">pt</a>
+<img style="margin-bottom: -2px;" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/pt-icon.jpg"></span> <span style="color: #000; font-size: 14px;">|</span>
+<span><a style="text-transform: uppercase; color: #fff;" href="https://www.aventurando.com.br/blog/10-atividades-de-lazer-preferidas-pelos-brasileiros-2/?___store=eng&amp;___from_store=pt">en</a>
+<img style="margin-bottom: -2px;" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/en-icon.jpg"></span>
+</div>
+<ul id="mega-main-header">
+<li><a href="https://www.aventurando.com.br/grupos-empresas/" target="_blank">Grupos e Empresas</a></li>
+<li><a href="https://www.aventurando.com.br/como-funciona/">Como funciona?</a></li>
+<li><a href="https://www.aventurando.com.br/customer/account/create/">Cadastrar-se</a></li>
+<li><a href="https://www.aventurando.com.br/customer/account/login/">Entrar</a></li>
+<li class="for-mobile">
+<span class="links4"><a href="https://www.aventurando.com.br/checkout/cart/">Meus passeios <b>0</b></a></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<span class="link4 inner-cart"><a href="https://www.aventurando.com.br/onestepcheckout/index/" style="color:#fff !important;">Meus passeios <b>0</b></a></span>
+</div>
+<div class="header-space" style="height: 83px;"></div>
+<!-- <div class="header-container">
+<div class="header">
+<a href="https://www.aventurando.com.br/" title="Aventurando - Turismo, Diversão e Lazer - Passeios em Campinas e região" class="logo"><strong>Aventurando - Turismo, Diversão e Lazer - Passeios em Campinas e região</strong><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/logo.gif" alt="Aventurando - Turismo, Diversão e Lazer - Passeios em Campinas e região" /></a>
+<div class="quick-access">
+<span class="selected"><a style="text-transform: uppercase; color: #fff;"
+href="https://www.aventurando.com.br/blog/10-atividades-de-lazer-preferidas-pelos-brasileiros-2/?___store=pt&amp;___from_store=pt">pt</a>
+<img style="margin-bottom: -2px;" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/pt-icon.jpg"></span> <span style="color: #000; font-size: 14px;">|</span>
+<span ><a style="text-transform: uppercase; color: #fff;"
+href="https://www.aventurando.com.br/blog/10-atividades-de-lazer-preferidas-pelos-brasileiros-2/?___store=eng&amp;___from_store=pt">en</a>
+<img style="margin-bottom: -2px;" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/en-icon.jpg"></span>
+<div class="links">
+<div class="login_link">
+<ul>
+<li class="login_myaccount"><a title="Sobre" href="https://www.aventurando.com.br/sobre" >Sobre</a></li>
+<li class="login_myaccount"><a title="Como Funciona?" href="https://www.aventurando.com.br/como-funciona" >Como Funciona?</a></li>
+<li class="login_myaccount"><a title="Minha Conta" href="https://www.aventurando.com.br/customer/account/" >Minha Conta</a></li>
+<li class="login_mywishlist"><a title="Minha lista de desejos" href="https://www.aventurando.com.br/wishlist/" >Minha lista de desejos</a></li>
+<li class="login">
+<a id="login-link" title="Entrar" href="https://www.aventurando.com.br/customer/account/login/">Entrar</a>
+<div id="login-form-header" class="form-login" style="display:none;">
+<form action="https://www.aventurando.com.br/customer/account/loginPost/" method="post">
+<div class="top-login">
+<label for="mini-login">E-mail<span><sup>*</sup></span></label><input type="text" name="login[username]" id="mini-login" class="input-text autocompleteOff" />
+<label for="mini-password">Senha<span><sup>*</sup></span></label><input type="password" name="login[password]" id="mini-password" class="input-text autocompleteOff" />
+<div class="login_forgotpassword">
+<a href="https://www.aventurando.com.br/customer/account/forgotpassword/" class="f-left">Esqueceu sua senha?</a>
+<p>Não possui uma conta? <a title="Criar Conta" href="https://www.aventurando.com.br/customer/account/create">Criar Conta</a></p>
+</div>
+<div class="actions">
+<button type="submit" class="button"><span><span>Entrar</span></span></button>
+</div>
+</div>
+</form>
+</div>
+</li>
+<li class="login_signup hide-lte0"><a title="Criar Conta" href="https://www.aventurando.com.br/customer/account/create">Criar Conta</a></li>
+</ul>
+</div>
+</div>
+<p class="welcome-msg hide-lte0 hide-lte1">Aventurando </p>
+</div>
+</div>
+</div>
+<p id="back-top"><a href="#top">Back to Top</a></p> -->
+<script>
+// jQuery(window).scroll(function() {
+// if (jQuery(this).scrollTop() > 1){
+// jQuery('.header').addClass("sticky");
+// jQuery('.header').css('position','fixed');
+// }
+// else{
+// jQuery('.header').removeClass("sticky");
+// jQuery('.header').css('position','relative');
+// }
+// });
+</script>
+<style>
+.header .sticky {
+font-size: 24px;
+line-height: 48px;
+height: 48px;
+background: #efc47D;
+text-align: left;
+padding-left: 20px;
+}
+.h-menu-2 a {
+color:#323232 !important;
+}
+.header {
+position: fixed;
+}
+div.page .banner-1 { top:-40px; margin-bottom:-40px; }
+</style></div><div class="clear"></div></div></div><div class="container_24 "><div class="clear"></div></div><div class="container_24 "><div class="grid_24"><div class="breadcrumbs">
+<ul>
+<li class="home">
+<a href="https://www.aventurando.com.br/" title="Início">Início</a>
+<span>/ </span>
+</li>
+<li class="blog">
+<a href="https://www.aventurando.com.br/blog/" title="Blog">Blog</a>
+<span>/ </span>
+</li>
+<li class="post_category_9">
+<a href="https://www.aventurando.com.br/blog/curiosidades/" title="Curiosidades">Curiosidades</a>
+<span>/ </span>
+</li>
+<li class="post">
+<strong>10 atividades de lazer preferidas pelos Brasileiros</strong>
+</li>
+</ul>
+</div></div><div class="grid_18 grid_content"><div class="post-view">
+<div class="post-entry entry std post-entry-with-image">
+<div class="featured-image"><img src="https://www.aventurando.com.br/wp/wp-content/uploads/2015/02/787778901.jpg" alt="10 atividades de lazer preferidas pelos Brasileiros"></div>
+<div class="post-content-new">
+<div class="page-title post-title">
+<h1>10 atividades de lazer preferidas pelos Brasileiros</h1>
+</div>
+<p class="post-date when">Este post foi publicado em 11/02/2015<span class="by-author"> por Aventurando</span>.</p>
+<p style="text-align: justify;">Toda pessoa precisa de um hobby, um momento para parar e relaxar. Afinal, fazer atividades de lazer é mais que algo gostoso, é uma questão de saúde! Neste momento você está aliviando seu corpo de uma carga de estresse&nbsp;pesada do cotidiano atribulado da vida urbana.</p>
+<h3 style="text-align: justify;">Você sente que precisa dar uma parada e se divertir? Veja quais são as 10 atividades de lazer mais praticadas pelos brasileiros e inspire-se:</h3>
+<p style="text-align: justify;"><strong>1. Caminhar</strong></p>
+<p style="text-align: justify;">A <a href="http://g1.globo.com/bemestar/noticia/2014/02/entenda-os-beneficios-e-diferencas-entre-corrida-e-caminhada.html" target="_blank">caminhada</a>, além de ser uma excelente atividade física, ajuda você a estar em contato com outros ambientes, ainda mais se a sua opção for um lugar arborizado, fresco e com uma bela paisagem. Antes ou depois do trabalho, pegue seu tênis, coloque roupas confortáveis, fones de ouvido com uma música bacana e saia para caminhar. Confira <a href="http://www.aventurando.com.br/blog/trilhas-sonoras-perfeitas-para-atividades-de-ecoturismo-2/" target="_blank">aqui </a>nossas dicas de músicas.</p>
+<p><!--more--></p>
+<p style="text-align: justify;"><strong>2. Fotografar</strong></p>
+<p style="text-align: justify;">Há muitas coisas bonitas por aí que podem ser registradas pela lente de uma câmera. A fotografia é uma boa atividade de lazer, pois além de relaxar, ajuda você a procurar novas óticas sobre o meio em que vive, além de gerar bons registros para ficarem guardados para sempre.</p>
+<p style="text-align: justify;"><strong>3. Ler livros</strong></p>
+<p style="text-align: justify;">Relaxar, entrar em um outro mundo, se divertir com histórias de ficção. Ler um livro é um grande up para esquecer os problemas cotidianos, mergulhar em novas histórias e ajudar a mente a relaxar. Por isto, escolha um bom livro e aproveite.</p>
+<p style="text-align: justify;"><strong>4. Ir a bares ou restaurantes</strong></p>
+<p style="text-align: justify;">Encontrar os amigos, bater um papo, comer algo que seja gostoso. Ir a bares ou restaurantes é uma boa forma de se divertir e socializar ao mesmo tempo. Um papo bacana, junto com comida gostosa e boas companhias é sempre uma boa pedida.</p>
+<p style="text-align: justify;"><strong>5. Praticar esportes</strong></p>
+<p style="text-align: justify;">Além de relaxar a mente, praticar esportes é uma boa solução para quem necessita fazer atividade física. Muitos deles são feitas em equipe, o que ajuda você a fazer novos amigos além de poder incentivar amigos e familiares a&nbsp;participarem também. Você pode optar por esportes que são praticados individualmente, mas que também servem como válvula de escape para o cotidiano,&nbsp;como a natação, corrida, musculação, entre outros.</p>
+<p style="text-align: justify;"><strong>6. Ir ao cinema</strong></p>
+<p style="text-align: justify;">Com o hábito de assistir filmes pela Internet, poucas pessoas têm procurado o cinema para lazer, mas ele não pode ser esquecido! É um outro ambiente, fora de sua casa, no qual você pode chamar amigos e família para fazer companhia e assistir um bom filme na telona.</p>
+<p style="text-align: justify;"><strong>7. Fazer piqueniques</strong></p>
+<p>Reunir a família e amigos durante as refeições é uma tradição brasileira. Que tal mudar o cenário? Prepare uma <a href="http://vejasp.abril.com.br/materia/dicas-organizar-cesta-de-piquenique/" target="_blank">cesta </a>recheada de frutas, sucos, torradas, tortas e tudo o que você achar essencial para um bom piquenique. Aproveite para entrar em contato com a natureza, escolha parques ou praças da sua cidade e garanta sua sombra.</p>
+<p style="text-align: justify;"><strong>8. Viajar</strong></p>
+<p style="text-align: justify;">Conhecer novos lugares, novos ares, sair da cidade que você já conhece com a palma da sua não. Viajar é sempre gostoso, pois te tira do lugar comum, da sua zona de conforto. Selecione o destino, caia na estrada e aproveite!</p>
+<p style="text-align: justify;"><strong>9. Pescar</strong></p>
+<p>A pescaria é uma prática bastante comum no litoral brasileiro. Além de precisar de concentração, ela é relaxante, pois te deixa em contato direto com a natureza. Você pode praticá-la em mares e rios, ou até mesmo em pesque-pague, onde é possível levar o prêmio para casa ou devolvê-lo para a natureza.&nbsp;<strong>&nbsp;</strong></p>
+<p style="text-align: justify;"><strong>10. Turismo de aventura (<span style="text-decoration: underline;"><span style="color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades.html" target="_blank">Confira lista de passeios de aventura</a></span></span>)</strong></p>
+<p style="text-align: justify;">Unir o útil ao agradável: conhecer novos lugares e se divertir com aventuras radicais, como <span style="text-decoration: underline;"><span style="color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-trekking.html" target="_blank">trilha</a></span></span>, <span style="text-decoration: underline;"><span style="color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-trekking.html" target="_blank">trekking</a></span></span>, buggie jump, <span style="text-decoration: underline;"><span style="color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-standup_paddle.html" target="_blank">stand up paddle</a></span></span>, saltar de <span style="text-decoration: underline;"><span style="color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-paraquedas.html" target="_blank">paraquedas</a></span></span>, asa delta ou <span style="text-decoration: underline;"><span style="color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-parapente.html" target="_blank">parapente</a></span></span>, <span style="text-decoration: underline; color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-tirolesa.html" target="_blank">tirolesa</a></span>, <span style="text-decoration: underline; color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-rapel.html" target="_blank">rapel</a></span>, andar em um <span style="color: #ff0000;"><a style="color: #ff0000;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-balonismo.html" target="_blank">balão</a></span>, entre várias outras opções. Colocar a adrenalina lá em cima e curtir um belo passeio. É bem interessante, não? É ótimo para fugir da rotina e acrescentar emoção em sua vida.</p>
+<p style="text-align: justify;"><strong>Então, que tal dar uma olhada nas opções de Turismo de Aventura que a <span style="text-decoration: underline; color: #ff0000;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/" target="_blank">Aventurando</a>&nbsp;</span>preparou para você? O que não faltam são atividades diferentes. Uma dica interessante para curtir o verão na natureza e aliviar&nbsp;o estresse é fazer <span style="text-decoration: underline;"><span style="color: #ff0000; text-decoration: underline;"><a style="color: #ff0000; text-decoration: underline;" href="http://www.aventurando.com.br/passeios-atividades/shopby/atividades-arvorismo.html" target="_blank">Arvorismo</a></span></span>. Já pensou? Confira!</strong></p>
+</div>
+</div>
+<div class="yarpp-related">
+<h2>Posts Relacionados:</h2>
+<div class="yarpp-thumbnails-horizontal">
+<a class="yarpp-thumbnail" href="https://www.aventurando.com.br/blog/muita-diversao-e-lazer-com-o-barco-a-vela-inflavel/" title="Muita diversão e lazer com o barco à vela inflável">
+<span class="yarpp-thumbnail-default"><img class="yarpp-thumbnail-default-wide" src="https://www.aventurando.com.br/wp/wp-content/uploads/2015/05/diversão-com-Tiwal-1-150x150.jpg" alt="Muita diversão e lazer com o barco à vela inflável"></span><span class="yarpp-thumbnail-title">Muita diversão e lazer com o barco à vela inflável</span>
+</a>
+<a class="yarpp-thumbnail" href="https://www.aventurando.com.br/blog/dicas-de-atividades-ao-ar-livre/" title="Dicas de atividades ao ar livre">
+<span class="yarpp-thumbnail-default"><img class="yarpp-thumbnail-default-wide" src="https://www.aventurando.com.br/wp/wp-content/uploads/2015/02/Atividades-ao-ar-livre-150x150.jpg" alt="Dicas de atividades ao ar livre"></span><span class="yarpp-thumbnail-title">Dicas de atividades ao ar livre</span>
+</a>
+<a class="yarpp-thumbnail" href="https://www.aventurando.com.br/blog/10-atividades-do-ecoturismo-que-ajudam-a-aliviar-o-estresse-do-dia-a-dia/" title="10 atividades do ecoturismo que ajudam a aliviar o estresse do dia a dia">
+<span class="yarpp-thumbnail-default"><img class="yarpp-thumbnail-default-wide" src="https://www.aventurando.com.br/wp/wp-content/uploads/2015/02/parque-natural-de-arrecifes-150x150.jpg" alt="10 atividades do ecoturismo que ajudam a aliviar o estresse do dia a dia"></span><span class="yarpp-thumbnail-title">10 atividades do ecoturismo que ajudam a aliviar o estresse do dia a dia</span>
+</a>
+<a class="yarpp-thumbnail" href="https://www.aventurando.com.br/blog/trilhas-sonoras-perfeitas-para-atividades-de-ecoturismo-2/" title="Trilhas sonoras perfeitas para atividades de ecoturismo">
+<span class="yarpp-thumbnail-default"><img class="yarpp-thumbnail-default-wide" src="https://www.aventurando.com.br/wp/wp-content/uploads/2014/12/tumblr_static_tumblr_ktibi7kgh71qzospvo1_5003-150x150.jpg" alt="Trilhas sonoras perfeitas para atividades de ecoturismo"></span><span class="yarpp-thumbnail-title">Trilhas sonoras perfeitas para atividades de ecoturismo</span>
+</a>
+</div>
+</div>
+<p class="post-meta details">
+Este post foi publicado em <a href="https://www.aventurando.com.br/blog/curiosidades/">Curiosidades</a> e marcado com a tag <a href="https://www.aventurando.com.br/blog/diversao/">diversão</a>, <a href="https://www.aventurando.com.br/blog/lazer/">lazer</a>, <a href="https://www.aventurando.com.br/blog/atividades-ao-ar-livre/">atividades ao ar livre</a>, <a href="https://www.aventurando.com.br/blog/atividades-de-lazer/">atividades de lazer</a> em 11/02/2015<span class="by-author"> por Aventurando</span>. <span class="post-skips">
+<a href="https://www.aventurando.com.br/blog/xi-festival-internacional-de-teatro-de-campinas/" class="post-skip post-skip-previous" title="XI Festival Internacional de Teatro de Campinas - Feverestival">← Post anterior</a>
+<a href="https://www.aventurando.com.br/blog/dicas-de-atividades-ao-ar-livre/" class="post-skip post-skip-next right" title="Dicas de atividades ao ar livre">Post seguinte →</a>
+</span>
+</p>
+<div class="block block-related" style="margin:35px ">
+<div class="block-title">
+<strong><span>Passeios Relacionados</span></strong>
+</div>
+<div class="block-content">
+<div id="owl-related-city" class="owl-carousel owl-listChoise owl-theme" style="opacity: 1; display: block;">
+<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 2448px; left: 0px; display: block;"><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/passeio-quadriciclo-campinas.html" title="Passeio de Quadriciclo em Joaquim Egídio – Campinas">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/t/r/trilha_de_lama_quadriciclo_campinas.jpg" width="100%" height="auto" alt="Passeio de Quadriciclo em Joaquim Egídio – Campinas">
+</div>
+<div class="bottom-text1">
+<h4>
+Passeio de Quadriciclo em Joaquim Egídio – Campinas </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Campinas/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 129,90 <span>Por Quadriciclo</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/voo-duplo-parapente.html" title="Voo Duplo de Parapente - São Pedro - SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/p/a/paragliding_duplo.jpg" width="100%" height="auto" alt="Voo Duplo de Parapente - São Pedro - SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Voo Duplo de Parapente - São Pedro - SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+São Pedro/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 250,00 <span>Por Pessoa</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/rafting-socorro-sp.html" title="Rafting Rio do Peixe (4 km de extensão) – Socorro - SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/r/a/rafting_cirquito_das_aguas_socorro.jpg" width="100%" height="auto" alt="Rafting Rio do Peixe (4 km de extensão) – Socorro - SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Rafting Rio do Peixe (4 km de extensão) – Socorro - SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Socorro/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 95,00 <span>Por Pessoa</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/voo-duplo-parapente-sao-vicente-santos.html" title="Voo Duplo de Parapente - São Vicente - Santos - SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/p/a/parapente-praia-sp_2.jpg" width="100%" height="auto" alt="Voo Duplo de Parapente - São Vicente - Santos - SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Voo Duplo de Parapente - São Vicente - Santos - SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+São Vicente/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 250,00 <span>Por Pessoa</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/passeio-de-quadriciclo-socorro-sp.html" title="Passeio de Quadriciclo – Socorro - SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/q/u/quadriciclo_socorro_sp.jpg" width="100%" height="auto" alt="Passeio de Quadriciclo – Socorro - SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Passeio de Quadriciclo – Socorro - SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Socorro/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 120,00 <span>Por Quadriciclo</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/rafting-brotas-sp.html" title="Rafting em Brotas SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/b/r/brotas-sp-rafting.jpg" width="100%" height="auto" alt="Rafting em Brotas SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Rafting em Brotas SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Brotas/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 129,00 <span>Por Pessoa</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/passeio-quadriciclo-cachoeira-santa-eulalia-brotas.html" title="Passeio de Quadriciclo - Cachoeira Santa Eulália - Brotas/SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/p/a/passeio-quadriciclo-em-brotas-sp.jpg" width="100%" height="auto" alt="Passeio de Quadriciclo - Cachoeira Santa Eulália - Brotas/SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Passeio de Quadriciclo - Cachoeira Santa Eulália - Brotas/SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Brotas/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 280,00 <span>Por Quadriciclo</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/passeio-quadriciclo-pedra-bela-vista-socorro-sp.html" title="Passeio de Quadriciclo Pedra Bela Vista - Socorro - SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/p/a/passeio-quadriciclo-cachoeira-mirante-pedra-bela-vista-socorro-sp.jpg" width="100%" height="auto" alt="Passeio de Quadriciclo Pedra Bela Vista - Socorro - SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Passeio de Quadriciclo Pedra Bela Vista - Socorro - SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Socorro/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 180,00 <span>Por quadriciclo</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div><div class="owl-item" style="width: 136px;"><div class="col-1 rgt-1 avent-product-item">
+<a href="https://www.aventurando.com.br/rafting-cerquilho-sp.html" title="Rafting de 6km em Cerquilho - SP">
+<div class="image-wrap">
+<img src="https://www.aventurando.com.br/media/catalog/product/cache/1/thumbnail/650x300/9df78eab33525d08d6e5fb8d27136e95/a/v/aventura-rafting-cerquilho.jpg" width="100%" height="auto" alt="Rafting de 6km em Cerquilho - SP">
+</div>
+<div class="bottom-text1">
+<h4>
+Rafting de 6km em Cerquilho - SP </h4>
+</div>
+</a>
+<div class="btm-info">
+<!-- Location -->
+<div class="location">
+Cerquilho/SP </div>
+<!-- Price -->
+<div class="price">
+R$ 110,00 <span>Por Pessoa</span> </div>
+<div class="clear"></div>
+</div>
+<div class="product-details">
+</div>
+</div></div></div></div>
+<div class="owl-controls clickable"><div class="owl-buttons"><div class="owl-prev"><i class="fa fa-chevron-left"></i></div><div class="owl-next"><i class="fa fa-chevron-right"></i></div></div></div></div>
+</div>
+</div>
+<style>
+.owl-listChoise .avent-product-item.col-1.rgt-1 {
+max-width: 100%;
+}
+.related-list {
+margin: 30px 0;
+float: left;
+width: 100%;
+}
+.owl-listChoise .owl-prev {
+position: absolute;
+top: 40%;
+left: -65px;
+background: none !important;
+color: #3e3e3e !important;
+}
+.owl-listChoise .owl-next {
+position: absolute;
+top: 40%;
+right: -65px;
+background: none !important;
+color: #3e3e3e !important;
+}
+.owl-listChoise .owl-buttons i:before {
+font-size: 36px;
+}
+.owl-listChoise .owl-item {
+margin-right: 1px;
+}
+.block-related .block-content li.item {
+border: 1px solid #dadada;
+width: 96%;
+min-height: 270px;
+}
+.block-related .product {
+padding: 20px;
+margin-top: 0;
+}
+.related-list .block .block-content {
+background: #e3e3e3;
+}
+</style>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+var ownRelatedCity = jQuery("#owl-related-city");
+ownRelatedCity.owlCarousel({
+slideSpeed: 500,
+paginationSpeed: 400,
+//autoPlay: true,
+stopOnHover: true,
+pagination: false,
+navigation: true,
+lazyLoad: true,
+navigationText: [
+"<i class='fa fa-chevron-left'></i>",
+"<i class='fa fa-chevron-right'></i>"
+],
+items : 2,
+itemsDesktop : [1000,3],
+itemsDesktopSmall : [900,3],
+itemsTablet: [600,2],
+itemsMobile : [320,1]
+});
+});
+</script>
+<div id="commentform" class="fb-social-plugin comment-form fb-comments fb_iframe_widget" data-href="https://www.aventurando.com.br/blog/10-atividades-de-lazer-preferidas-pelos-brasileiros-2" data-width="625" data-order-by="social" fb-xfbml-state="rendered"><span style="height: 177px; width: 625px;"><iframe id="f2e4beee5ec9e" name="fc400e90cc4718" scrolling="no" title="Facebook Social Plugin" class="fb_ltr" src="https://www.facebook.com/plugins/comments.php?api_key=212250545608725&amp;channel_url=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F18W0fzbK7xg.js%3Fversion%3D42%23cb%3Df184eb93eeb30a4%26domain%3Dwww.aventurando.com.br%26origin%3Dhttps%253A%252F%252Fwww.aventurando.com.br%252Ff168d8ddb5764a4%26relation%3Dparent.parent&amp;href=https%3A%2F%2Fwww.aventurando.com.br%2Fblog%2F10-atividades-de-lazer-preferidas-pelos-brasileiros-2&amp;locale=en_US&amp;numposts=10&amp;order_by=social&amp;sdk=joey&amp;width=625" style="border: none; overflow: hidden; height: 177px; width: 625px;"></iframe></span></div> </div></div><div class="grid_6"><div class="col-right sidebar"><div class="wp-sidebar">
+<div class="block block-blog block-blog-search">
+<div class="block-title">
+<strong><span>Pesquisar</span></strong>
+</div>
+<div class="block-content">
+<form method="get" action="https://www.aventurando.com.br/blog/search/" id="blog-search-form">
+<div class="blog-search">
+<input type="text" name="s" class="input-text" title="Pesquisar posts" value="">
+<button class="button" title="Pesquisar" type="submit"><span><span>Pesquisar</span></span></button>
+<script type="text/javascript">new fishpig.WP.Search.Form('blog-search-form');</script>
+</div>
+</form>
+</div>
+</div> <div class="block block-blog block-blog-categories">
+<div class="block-title">
+<strong><span>Categorias</span></strong>
+</div>
+<div class="block-content">
+<ul class="level0" id="wp-category-list">
+<li class="level0 item odd">
+<a class="level0" href="https://www.aventurando.com.br/blog/aventurando/" title="Aventurando">
+Aventurando </a> (17) </li>
+<li class="level0 item even">
+<a class="level0" href="https://www.aventurando.com.br/blog/aventuras/" title="Aventuras">
+Aventuras </a> (21) </li>
+<li class="level0 item odd">
+<a class="level0" href="https://www.aventurando.com.br/blog/curiosidades/" title="Curiosidades">
+Curiosidades </a> (49) </li>
+<li class="level0 item even">
+<a class="level0" href="https://www.aventurando.com.br/blog/grupos-e-empresas/" title="Grupos e Empresas">
+Grupos e Empresas </a> (2) </li>
+<li class="level0 item last odd">
+<a class="level0" href="https://www.aventurando.com.br/blog/noticias/" title="Noticias">
+Noticias </a> (43) </li>
+</ul>
+<script type="text/javascript">decorateList('wp-category-list')</script>
+</div>
+</div>
+<div class="block block-blog block-recent-posts">
+<div class="block-title">
+<strong><span>Tópicos recentes</span></strong>
+</div>
+<div class="block-content">
+<ul id="wp-7b3">
+<li class="item odd">
+<a href="https://www.aventurando.com.br/blog/feriado-de-novembro/" title="Dicas para aproveitar os Feriados de Novembro!">Dicas para aproveitar os Feriados de Novembro!</a>
+</li>
+<li class="item even">
+<a href="https://www.aventurando.com.br/blog/dia-das-criancas/" title="Aventurando Kids – Especial Dia das Crianças">Aventurando Kids – Especial Dia das Crianças</a>
+</li>
+<li class="item last odd">
+<a href="https://www.aventurando.com.br/blog/5-ideias-para-semana-saco-cheio/" title="5 Ideias para a Semana do Saco Cheio!">5 Ideias para a Semana do Saco Cheio!</a>
+</li>
+</ul>
+<script type="text/javascript">decorateList('wp-7b3')</script>
+</div>
+</div>
+<div class="block block-blog block-blog-archives">
+<div class="block-title">
+<strong><span>Arquivos</span></strong>
+</div>
+<div class="block-content">
+<ul id="wp-archive-list">
+<li class="item last odd">
+<select name="blog-archive-dropdown" onchange="setLocation(this.value);">
+<option value="https://www.aventurando.com.br/blog/">Selecionar o mês</option>
+<option value="https://www.aventurando.com.br/blog/2017/10/">
+outubro 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/09/">
+setembro 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/08/">
+agosto 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/07/">
+julho 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/06/">
+junho 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/05/">
+maio 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/04/">
+abril 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2017/03/">
+março 2017 </option>
+<option value="https://www.aventurando.com.br/blog/2016/12/">
+dezembro 2016 </option>
+<option value="https://www.aventurando.com.br/blog/2016/09/">
+setembro 2016 </option>
+<option value="https://www.aventurando.com.br/blog/2016/07/">
+julho 2016 </option>
+<option value="https://www.aventurando.com.br/blog/2016/06/">
+junho 2016 </option>
+<option value="https://www.aventurando.com.br/blog/2016/05/">
+maio 2016 </option>
+<option value="https://www.aventurando.com.br/blog/2015/12/">
+dezembro 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2015/06/">
+junho 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2015/05/">
+maio 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2015/04/">
+abril 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2015/03/">
+março 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2015/02/">
+fevereiro 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2015/01/">
+janeiro 2015 </option>
+<option value="https://www.aventurando.com.br/blog/2014/12/">
+dezembro 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/11/">
+novembro 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/10/">
+outubro 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/09/">
+setembro 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/08/">
+agosto 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/07/">
+julho 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/05/">
+maio 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/04/">
+abril 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/03/">
+março 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/02/">
+fevereiro 2014 </option>
+<option value="https://www.aventurando.com.br/blog/2014/01/">
+janeiro 2014 </option>
+</select>
+</li>
+</ul>
+<script type="text/javascript">decorateList('wp-archive-list')</script>
+</div>
+</div>
+</div></div></div><div class="clear"></div></div><div class="container_24 "><div class="clear"></div></div><div class="container_24 container-footer"><div class="footer-inner grid_24"><div class="grid_16 alpha"><div class="footer">
+<div class="top-footer">
+<div class="inner-content">
+<div class="list">
+<h3><span><span>Aventurando</span></span></h3>
+<ul>
+<li><a href="https://www.aventurando.com.br/sobre"><span><span>Sobre</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/como-funciona"><span><span>Como Funciona?</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/customer/account/login"><span><span>Login | </span><span>Cadastre-se</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/grupos-excursoes-empresas"><span><span>Empresas e Grupos</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/como-funciona-parceiro"><span><span>Seja nosso Parceiro</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/contacts"><span><span>Trabalhe conosco</span></span></a></li>
+</ul>
+<br><br><br><br>
+<h3>Site Seguro</h3>
+</div>
+<div class="list">
+<h3><span><span>Suporte</span></span></h3>
+<ul>
+<li><a href="https://www.aventurando.com.br/faq"><span><span>Perguntas Frequentes</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/contacts"><span><span>Contato - Central Atendimento</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/termos-e-condicoes"><span><span>Termos e Condições</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/politica-de-privacidade"><span><span>Política de Privacidade</span></span></a></li>
+<li><a href="https://www.aventurando.com.br/mapa-do-site">Mapa site | Site Map</a></li>
+</ul>
+</div> <div class="list">
+<div class="subscribe-form">
+<form action="https://www.aventurando.com.br/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+<h3>Saiba tudo que rola no <br>Aventurando, assine nossa Newsletter</h3>
+<div class="search-sec">
+<input type="text" name="email" id="newsletter" title="Assine nosso boletim informativo" class="input required-entry validate-email">
+<button type="submit" title="Enviar" class="search-btn">Enviar</button>
+</div>
+</form>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var searchForm = new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'cadastre seu email...');
+var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+//]]>
+</script>
+<div class="social-icon">
+<ul>
+<li><a class="twtr" href="https://twitter.com/AventurandoBR" target="_blank">&nbsp;</a></li>
+<li><a class="fb" href="https://www.facebook.com/aventurando.com.br" target="_blank">&nbsp;</a></li>
+<li><a class="g" href="https://plus.google.com/+AventurandoBr" target="_blank">&nbsp;</a></li>
+<li><a class="instagram" href="https://www.instagram.com/aventurandobrasil/" target="_blank">&nbsp;</a></li>
+</ul>
+</div>
+<p>&nbsp;</p>
+<h3 class="last-head">Parcerias e informações</h3> </div>
+</div>
+</div>
+<div class="bottom-footer">
+<div class="inner-content">
+<div class="list">
+<ul>
+<li><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/pay-pal.jpg" alt=""></li>
+</ul>
+</div>
+<div class="list">
+<ul>
+<li><img title="Paypal" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/paypal-security.png" alt=""></li>
+<li><a href="https://www.positivessl.com" target="_blank"><img title="SSL Certificate" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/paypal-1.png" alt=""></a></li>
+<li><a href="https://pagseguro.uol.com.br" target="_blank"><img title="Pague com PagSeguro" src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/paypal-2.png" alt=""></a></li>
+</ul>
+</div>
+<div class="list">
+<ul>
+<li><a title="Código de Defesa do Consumidor" href="http://www.planalto.gov.br/ccivil_03/leis/l8078.htm" target="_blank"><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/paypal-3.png" alt=""></a></li>
+<li><a title="Prefeitura Municipal de Campinas" href="http://www.campinas.sp.gov.br/" target="_blank"><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/paypal-4.png" alt=""></a></li>
+<li><a title="Campinas e Região Convention &amp; Visitors Bureau" href="http://visitecampinas.com.br/index.php/br/associados/servicos/item/aventurando" target="_blank"><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/paypal-5.png" alt=""></a></li>
+</ul>
+<!--<a class="see-all" href="#">Ver todos</a>//--></div> </div>
+</div>
+</div>
+<!--add by vikas-->
+<link media="all" href="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/css/jquery.loadmask.css" type="text/css" rel="stylesheet">
+<script src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/js/jquery.loadmask.js" type="text/javascript"></script>
+<!--end-->
+<script type="text/javascript">if(typeof wabtn4fg==="undefined"){wabtn4fg=1;h=document.head||document.getElementsByTagName("head")[0],s=document.createElement("script");s.type="text/javascript";s.src="https://www.aventurando.com.br/js/whatsup/whatsapp-button.js";h.appendChild(s);}</script></div><div class="clear"></div></div></div><div class=""><div id="containerDiv" style="display:none">
+<a href="javascript:void(0);" id="close">fechar</a>
+<div class="ajaxcart">
+<img class="ajax_loading" id="ajax_loading" src="https://www.aventurando.com.br/skin/frontend/base/default/images/em_ajaxcart/loading.gif" alt="">
+<div id="ajax_content" style="display:none">
+<div class="ajaxcart_row1 row1">
+<div id="ajax_image"></div>
+</div>
+<div class="row2">
+<a href="javascript:void(0);" id="closeLink" class="back"><span>Adicionar mais Passeios</span></a>
+<a id="viewcart_button" href="https://www.aventurando.com.br/checkout/cart/" class="next"><span>Confirmar e Ir para Pagamento</span></a>
+</div>
+</div>
+</div>
+</div>
+<input type="hidden" id="enable_module" value="0">
+<input type="hidden" id="ajax_base_url" value="https://www.aventurando.com.br/">
+<input type="hidden" id="ajax_package_name" value="default">
+<input type="hidden" id="ajax_layout" value="galaelectronues">
+<input type="hidden" id="ajax_template" value="galaelectronues">
+<input type="hidden" id="ajax_skin" value="galaelectronues"><script type="text/javascript">
+window.fbAsyncInit = function() {
+FB.init({
+appId : 212250545608725,
+cookie : true,
+status : true,
+oauth : true,
+xfbml : true
+});
+};
+(function(d){
+var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+var locale = 'pt_BR';
+js = d.createElement('script'); js.id = id; js.async = true;
+js.src = "//connect.facebook.net/" + locale + "/all.js";
+d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+</script></div> </div>
+</div><div id="_atssh" style="visibility: hidden; height: 1px; width: 1px; position: absolute; top: -9999px; z-index: 100000;"><iframe id="_atssh588" title="AddThis utility frame" style="height: 1px; width: 1px; position: absolute; top: 0px; z-index: 100000; border: 0px; left: 0px;" src="https://s7.addthis.com/static/sh.c7f897d92405181bbe1705e3.html#rand=0.19397104242952512&amp;iit=1508104388873&amp;tmr=load%3D1508104388203%26core%3D1508104388286%26main%3D1508104388864%26ifr%3D1508104388878&amp;cb=0&amp;cdn=0&amp;md=0&amp;kw=&amp;ab=-&amp;dh=www.aventurando.com.br&amp;dr=https%3A%2F%2Fwww.google.com.br%2F&amp;du=https%3A%2F%2Fwww.aventurando.com.br%2Fblog%2F10-atividades-de-lazer-preferidas-pelos-brasileiros-2%2F&amp;href=https%3A%2F%2Fwww.aventurando.com.br%2Fblog%2F10-atividades-de-lazer-preferidas-pelos-brasileiros-2%2F&amp;dt=10%20atividades%20de%20lazer%20preferidas%20pelos%20Brasileiros&amp;dbg=0&amp;cap=tc%3D0%26ab%3D0&amp;inst=1&amp;jsl=131&amp;prod=undefined&amp;lng=pt&amp;ogt=type%3Dwebsite%2Clocale%2Cimage%2Cupdated_time%2Cimage%2Csite_name%2Curl%2Ctype%3Darticle&amp;pc=men&amp;pub=&amp;ssl=1&amp;sid=59e3d8c42f4a260a&amp;srf=0.01&amp;ver=300&amp;xck=0&amp;xtr=0&amp;og=locale%3Dpt_BR%26type%3Dwebsite%26title%3D10%2520atividades%2520de%2520lazer%2520preferidas%2520pelos%2520Brasileiros%26description%3DToda%2520pessoa%2520precisa%2520de%2520um%2520hobby%252C%2520um%2520momento%2520para%2520parar%2520e%2520relaxar.%2520Afinal%252C%2520fazer%2520atividades%2520de%2520lazer%2520%25C3%25A9%2520mais%2520que%2520algo%2520gostoso%252C%2520%25C3%25A9%2520uma%2520quest%25C3%25A3o%2520de%2520sa%25C3%25BAde!%2520Neste%2520m%26url%3Dhttps%253A%252F%252Fwww.aventurando.com.br%252Fblog%252F10-atividades-de-lazer-preferidas-pelos-brasileiros-2%252F%26site_name%3DAventurando%26image%3Dhttp%253A%252F%252Fwww.aventurando.com.br%252Fmedia%252Fimgs-diversas%252Flogo_250px.png%26updated_time%3D2016-06-13T09%253A15%253A10%252B00%253A00&amp;csi=undefined&amp;rev=v8.1.0a-wp&amp;ct=1&amp;xld=1&amp;xd=1"></iframe></div><style id="service-icons-0"></style>
+<div id="overlay" style="display: none;"></div><div id="lightbox" style="display: none;"><div id="outerImageContainer" style="width: 250px; height: 250px;"><div id="imageContainer"><img id="lightboxImage"><div id="hoverNav"><a id="prevLink" href="#"></a><a id="nextLink" href="#"></a></div><div id="loading"><a id="loadingLink" href="#"><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/loading.gif"></a></div></div></div><div id="imageDataContainer"><div id="imageData"><div id="imageDetails"><span id="caption"></span><span id="numberDisplay"></span></div><div id="bottomNav"><a id="bottomNavClose" href="#"><img src="https://www.aventurando.com.br/skin/frontend/default/galaelectronues/images/closelabel.png"></a></div></div></div></div><div id="bg_fade"></div><script type="text/javascript" id="">if(document.getElementsByClassName("total-amountBUT total_price")[0]){var setCookiegtm=function(c,d,a){var b=new Date;b.setTime(b.getTime()+864E5*a);a="expires\x3d"+b.toUTCString();document.cookie=c+"\x3d"+d+";"+a+";path\x3d/"};setCookiegtm("bookingformvalue",document.querySelector("input.total-amountBUT.total_price").value.replace(/[^0-9,]/g,"").replace(".","").replace(",","."),7)};</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/rcj-99d43ead6bdf30da8ed5ffcb4f17100c.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div id="ads"></div></body>
+>>>---
+2 - Marcas/Produtos associados à atividades de lazer
+---<<<
+<div class="listaEsquerda">
+<div class="iconDataLista">
+<label><center>8<br>Jun</center></label>
+</div>
+<p class="entry-titlenovo"><a href="https://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/">As 10 Atividades de lazer mais praticadas pelos brasileiros</a></p>
+<div class="entry-content" id="postCompleto">
+<p><img class="alignnone size-full wp-image-1961" title="banner-lista-listas" src="https://lista10.org/wp-content/uploads/2009/04/banner-lista-listas.jpg" alt="banner-lista-listas" width="500" height="92" srcset="https://lista10.org/wp-content/uploads/2009/04/banner-lista-listas.jpg 535w, https://lista10.org/wp-content/uploads/2009/04/banner-lista-listas-300x54.jpg 300w" sizes="(max-width: 500px) 100vw, 500px"><br>
+Uma pesquisa da<em> Target Group Index</em> com 19.456 <strong>brasileiros</strong> com idades entre 12 e 64 anos, revelou quais são as <strong>atividades recreativas</strong> que os brasileiros mais praticam com frequência. Segue o <strong>Top 10</strong>:</p>
+<p><strong>1º. Ouvir música:</strong> 59% dos entrevistados praticam<br>
+<strong>2º. Reunir-se com os amigos: </strong>34%<br>
+<strong>3º. Ler livros:</strong> 27%<br>
+<strong>4º. Ir a shopping centers: </strong>24%<br>
+<strong>5º. Sair para caminhar: </strong>19%<br>
+<strong>6º. Fotografia: </strong>17%<br>
+<strong>7º. Jogar games (videogame ou no computador): </strong>16%<br>
+<strong>8º. Cozinhar/ Atividades de culinária: </strong>16%<br>
+<strong>9º. Ir a restaurantes/ Sair para jantar: </strong>16%<br>
+<strong>10º. Sair para beber/ Ir a bares: </strong>14%</p>
+<p><em>Fonte: Target Group Index</em></p>
+<p><em></em>– Lazer? O que é isso?<em></em></p>
+</div>
+<div class="espacador"></div>
+<div class="shareaholic-canvas shareaholic-ui shareaholic-resolved-canvas ng-scope" data-app-id="25454904" data-app-id-name="" data-app="share_buttons" data-title="As 10 Atividades de lazer mais praticadas pelos brasileiros" data-link="https://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/" data-summary="" id="shr_canvas2"><div ng-show="ready" ng-class="containerClasses" ng-controller="AppCtrl as appCtrl" shr-overflow-limit="3" shr-overflow-child=".shareaholic-share-button, .shareaholic-total-count" shr-overflow-last="false" shr-overflow-enabled="" shr-overflow-wiggle="5" shr-auto-size="" shr-auto-size-trigger="3" shr-auto-size-target=".shareaholic-share-button .share-button-sizing, .shareaholic-total-count" shr-auto-size-mobile="config.isMobile" shr-auto-size-min-size="44" class="ng-scope">
+<div class="shareaholic-share-buttons-container shareaholic-ui no-print badge-counter" ng-style="config.verticalOffset &amp;&amp; (config.appName === 'floated_share_buttons' || config.app === 'floated_share_buttons') ? {top: config.verticalOffset} : {}" ng-class="canvasClasses">
+<div class="shareholic-show-container ng-hide" ng-class="{'right-alignment': !config.isLeftAligment}" ng-click="containerHidden = false" ng-show="config.showHideEnabled &amp;&amp; containerHidden">
+<img class="shareholic-show-hide-arrow" ng-class="{'orientation-left': config.isRightAligment}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABQCAMAAABoKAbvAAAAS1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////m3hxmAAAAF3RSTlMAAwUOESQpPURmb3OMkZm0u9bb6u76/EQ4+xQAAAABYktHRBibaYUeAAABLElEQVRIx5XXRxLCMBBEUUROIsPc/6YU2BiFCd29/1V+YIM8O6YZN7ksyUBuazKQx5YM5LUnA5HTnAwI+hjg9F8A06cApUsxiF4GEL0KEHodAPQmiOnSLaD3QUBXAp+uBS5dDTy6GDPpVmDSzcCi24FBdwKdLu4Uuh8o9CDo6VHQ0cOgpQuwio4EFR0KSjoWFHQw+NMF3kjHg5FOBAOdCb50KvjQyeDABfcNd0nXFYc+L7iPNSfqi3vuuFvjw2WCL5cIBi4e5EQ9ohMXDP5cLCi4UFBykSAn6se44YZBy42CjhsEPdcPcqL+dlWuE+hcOzC4ZmBxrSAn6oDlcNXA42qBy1UCn9sHOVFH6ZDbBDG3DgBuFSDcMsj4+yLBnQKU+wtg7hjg3GGZfD1+A48urIHzHtL7AAAAAElFTkSuQmCC">
+</div>
+<div class="shareaholic-share-buttons-wrapper shareaholic-ui" ng-mouseenter="onHover=true" ng-mouseleave="onHover=false">
+<div class="shareaholic-share-buttons-animation-wrapper" ng-class="{'shareholic-item-quit-left-animation': config.appName === 'floated_share_buttons' &amp;&amp; containerHidden &amp;&amp; config.isLeftAligment,
+'shareholic-item-enter-left-animation': config.appName === 'floated_share_buttons' &amp;&amp; !containerHidden &amp;&amp; config.isLeftAligment,
+'shareholic-item-quit-right-animation': config.appName === 'floated_share_buttons' &amp;&amp; containerHidden &amp;&amp; !config.isLeftAligment,
+'shareholic-item-enter-right-animation': config.appName === 'floated_share_buttons' &amp;&amp; !containerHidden &amp;&amp; !config.isLeftAligment,
+}">
+<!-- ngIf: headlineImage -->
+<ul class="shareaholic-share-buttons" style="false">
+<!-- ngIf: config.total_share_count && shareCountTotal -->
+<!-- data-service is used for styles TODO remove!-->
+<!-- ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="facebook" class="shareaholic-share-button ng-scope" style="display: block;" title="Facebook" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-facebook" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Share</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="twitter" class="shareaholic-share-button ng-scope" style="display: block;" title="Twitter" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-twitter" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Tweet</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="google_plus" class="shareaholic-share-button ng-scope" style="display: none;" title="Google+" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-google_plus" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Share</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="pinterest" class="shareaholic-share-button ng-scope" style="display: none;" title="Pinterest" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-pinterest" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Pin</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="tumblr" class="shareaholic-share-button ng-scope" style="display: none;" title="Tumblr" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-tumblr" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Share</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="linkedin" class="shareaholic-share-button ng-scope" style="display: none;" title="LinkedIn" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-linkedin" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Share</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="email_this" class="shareaholic-share-button ng-scope" style="display: none;" title="Email This" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-email_this" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Mail</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons --><li ng-repeat="sb in sharebuttons" data-service="stumbleupon" class="shareaholic-share-button ng-scope" style="display: none;" title="StumbleUpon" ng-class="{'has-shares': sb.shares &amp;&amp; config.counter}">
+<div class="shareaholic-share-button-container" ng-click="sb.click()" style="color: !important;
+background: !important;">
+<!-- ngIf: config.counter --><span class="share-button-counter ng-binding ng-scope" ng-if="config.counter" style="color: !important;
+background: !important;">0</span><!-- end ngIf: config.counter -->
+<div class="share-button-sizing" ng-style="config.customColorsEnabled &amp;&amp; config.appName === 'floated_share_buttons' ? config.customColors : {}">
+<i class="shareaholic-service-icon service-stumbleupon" ng-style="getIconStyle()">
+</i>
+<span class="share-button-verb ng-binding" style="color:#fff !important;">
+<b class="ng-binding">Share</b>
+</span>
+</div>
+</div>
+</li><!-- end ngRepeat: sb in sharebuttons -->
+</ul>
+</div>
+<div ng-show="onHover &amp;&amp; !containerHidden &amp;&amp; config.showHideEnabled" class="shareholic-hide-container left-alignment ng-hide" ng-class="{'left-alignment': config.isLeftAligment}" ng-click="containerHidden = true">
+<img class="shareholic-show-hide-arrow orientation-left" ng-class="{'orientation-left': !config.isRightAligment}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABQCAMAAABoKAbvAAAAS1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////m3hxmAAAAF3RSTlMAAwUOESQpPURmb3OMkZm0u9bb6u76/EQ4+xQAAAABYktHRBibaYUeAAABLElEQVRIx5XXRxLCMBBEUUROIsPc/6YU2BiFCd29/1V+YIM8O6YZN7ksyUBuazKQx5YM5LUnA5HTnAwI+hjg9F8A06cApUsxiF4GEL0KEHodAPQmiOnSLaD3QUBXAp+uBS5dDTy6GDPpVmDSzcCi24FBdwKdLu4Uuh8o9CDo6VHQ0cOgpQuwio4EFR0KSjoWFHQw+NMF3kjHg5FOBAOdCb50KvjQyeDABfcNd0nXFYc+L7iPNSfqi3vuuFvjw2WCL5cIBi4e5EQ9ohMXDP5cLCi4UFBykSAn6se44YZBy42CjhsEPdcPcqL+dlWuE+hcOzC4ZmBxrSAn6oDlcNXA42qBy1UCn9sHOVFH6ZDbBDG3DgBuFSDcMsj4+yLBnQKU+wtg7hjg3GGZfD1+A48urIHzHtL7AAAAAElFTkSuQmCC">
+</div>
+</div>
+</div>
+</div>
+</div> <div class="espacador"></div>
+<!--
+<p class="linkLeiaMais">
+<a href="javascript:favoritaLista('7047','','in','1');" class="linkFavoritaLista">Favoritar
+<img class="iconeFavoritar" src="https://lista10.org/wp-content/themes/lista10/images/iconFavoritar.jpg"/></a>
+</p>-->
+<div class="separador"></div>
+<div class="rodapePost">
+<label><img src="https://lista10.org/wp-content/themes/lista10/images/setaCategoria.jpg"> <a href="https://lista10.org/category/diversos/" rel="category tag">Diversos</a></label>
+</div>
+<div class="labelDeixeComentario" id="vejatambem">
+<div class="faixaComentario"></div>
+<div class="textoComentario">VEJA <font>TAMBÉM</font></div>
+</div>
+<div class="postsRelacionados">
+<div id="ob_holder" style="display: none;"><iframe id="ob_iframe" src="https://widgets.outbrain.com/nanoWidget/externals/obFrame/obFrame.htm#pid=9599&amp;dmpenabled=true&amp;csenabled=true&amp;d=kc-Q0uH7T47braKqGd24yXVvFb6yTjp6ByrJm-tL6O-V_R8T76zf7qIsihL7uzx1" style="display: none; width: 1px; height: 1px;"></iframe><script type="text/javascript" src="https://log.outbrain.com/loggerServices/widgetGlobalEvent?eT=0&amp;tm=2178&amp;pid=9599&amp;sid=421365&amp;wId=100&amp;wRV=01002044&amp;rId=e05708eb0757a40c72be1073d3b417e2&amp;idx=0&amp;pvId=e05708eb0757a40c72be1073d3b417e2&amp;org=2&amp;pad=2&amp;pVis=0&amp;eIdx=&amp;ab=3&amp;wl=0" charset="UTF-8" async=""></script><script type="text/javascript" src="https://log.outbrain.com/loggerServices/widgetGlobalEvent?eT=0&amp;tm=2675&amp;pid=9599&amp;sid=421365&amp;wId=104&amp;wRV=01002044&amp;rId=f1b8b9e7a0ae7b2910a8da79137b7e81&amp;idx=1&amp;pvId=e05708eb0757a40c72be1073d3b417e2&amp;org=5&amp;pad=5&amp;pVis=0&amp;eIdx=&amp;ab=3&amp;wl=0" charset="UTF-8" async=""></script><script type="text/javascript" src="https://log.outbrain.com/loggerServices/widgetGlobalEvent?eT=3&amp;tm=9982&amp;pid=9599&amp;sid=421365&amp;wId=100&amp;wRV=01002044&amp;rId=e05708eb0757a40c72be1073d3b417e2&amp;idx=0&amp;pvId=e05708eb0757a40c72be1073d3b417e2&amp;org=2&amp;pad=2&amp;pVis=0&amp;eIdx=0&amp;ab=3&amp;wl=0" charset="UTF-8" async=""></script></div><div class="OUTBRAIN" data-src="https://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros" data-widget-id="AR_1" data-ob-template="lista10" data-ob-mark="true" data-browser="chrome" data-os="macintel" data-dynload="" data-idx="0" id="outbrain_widget_0"><div class="ob-widget ob-strip-layout AR_1" data-dynamic-truncate="true">
+<span style="position:fixed;top:-200px;">&nbsp;</span>
+<style type="text/css">
+/* dynamic basic css */
+.AR_1.ob-widget .ob-widget-items-container {margin:0;padding:0;}
+.AR_1.ob-widget .ob-widget-items-container .ob-clearfix {display:block;width:100%;float:none;clear:both;height:0px;line-height:0px;font-size:0px;}
+.AR_1.ob-widget .ob-widget-items-container.ob-multi-row {padding-top: 2%;}
+.AR_1.ob-widget .ob-dynamic-rec-container {position:relative;margin:0;padding;0;}
+.AR_1.ob-widget .ob-dynamic-rec-link,
+.AR_1.ob-widget .ob-dynamic-rec-link:hover {text-decoration:none;}
+.AR_1.ob-widget .ob-rec-image-container .ob-video-icon-container {position:absolute;left:0;height:30%;width:100%;text-align:center;top:35%;}
+.AR_1.ob-widget .ob-rec-image-container .ob-video-icon {display:inline-block;height:100%;float:none;opacity:0.7;transition: opacity 500ms;}
+.AR_1.ob-widget .ob-rec-image-container .ob-video-icon:hover {opacity:1;}
+.AR_1.ob-widget .ob-rec-image-container .ob-rec-rtb-image {background-color:white;background-position:center;background-repeat:no-repeat;width:100%;position:absolute;top:0;bottom:0;left:0;right:0;}
+.AR_1.ob-widget .ob_what{direction:ltr;clear:both;padding:5px 10px 0px;}
+.AR_1.ob-widget .ob_what a{color:#999;font-size:11px;font-family:arial;text-decoration: none;}
+.AR_1.ob-widget .ob_what.ob-hover:hover a{text-decoration: underline;}
+.AR_1.ob-widget .ob_amelia,
+.AR_1.ob-widget .ob_logo,
+.AR_1.ob-widget .ob_text_logo{vertical-align:baseline !important;display:inline-block;vertical-align:text-bottom;padding:0px 5px;box-sizing:content-box;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;}
+.AR_1.ob-widget .ob_amelia{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px;}
+.AR_1.ob-widget .ob_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12.png') no-repeat center top;width:67px;height:12px;}
+.AR_1.ob-widget .ob_text_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22.png') no-repeat center top;width:67px;height:22px;}
+@media only screen and (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dpi) {
+.AR_1.ob-widget .ob_amelia{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_16x16@2x.png') no-repeat center top;width:16px;height:16px;margin-bottom:-2px; background-size:16px 32px;}
+.AR_1.ob-widget .ob_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_logo_67x12@2x.png') no-repeat center top;width:67px;height:12px; background-size:67px 24px;}
+.AR_1.ob-widget .ob_text_logo{background:url('https://widgets.outbrain.com/images/widgetIcons/ob_text_logo_67x22@2x.png') no-repeat center top;width:67px;height:20px; background-size:67px 40px;}
+}
+.AR_1.ob-widget:hover .ob_amelia,
+.AR_1.ob-widget:hover .ob_logo,
+.AR_1.ob-widget:hover .ob_text_logo{background-position:center bottom;}
+.AR_1.ob-widget .ob_what{text-align:right;}
+.AR_1.ob-widget .ob-rec-image-container .ob-rec-image {display:block;}
+/* dynamic strip css */
+.AR_1.ob-widget .ob-rec-image-container {position:relative;}
+.AR_1.ob-widget .ob-rec-image-container .ob-image-ratio {height:0px;line-height:0px;padding-top:75.0%;}
+.AR_1.ob-widget .ob-rec-image-container img.ob-rec-image {width:100%;position:absolute;top:0;bottom:0;left:0;right:0;opacity:0;transition:all 750ms;}
+.AR_1.ob-widget .ob-rec-image-container img.ob-show {opacity:1;}
+.AR_1.ob-widget .ob-rec-image-container .ob-rec-label {position:absolute;bottom:0px;left:0px;padding:0px 3px;background-color:#666;color:white;font-size:10px;line-height:15px;}
+.AR_1.ob-widget {width:auto;min-width:240px;}
+.AR_1.ob-widget .ob-dynamic-rec-container {display:inline-block;vertical-align:top;min-width:50px;width:48.85%;box-sizing:border-box;-moz-box-sizing:border-box;}
+.AR_1.ob-widget .ob-unit.ob-rec-brandName,
+.AR_1.ob-widget .ob-unit.ob-rec-brandLogo-container,
+.AR_1.ob-widget .ob-rec-brandLogoAndName {display:inline-block;}
+.AR_1.ob-widget .ob-rec-brandLogo {width:20px;height:20px;}
+.AR_1.ob-widget .ob-rec-brandName {vertical-align:bottom;}
+.AR_1.ob-widget .ob-unit.ob-rec-brandName {vertical-align:super;}
+.AR_1.ob-widget .ob-widget-items-container {direction: ltr;}
+.AR_1.ob-widget .ob-dynamic-rec-container {margin-left:0;}
+.AR_1.ob-widget .ob-dynamic-rec-container ~ .ob-dynamic-rec-container {margin:0 0 0 2.3%; }
+.AR_1.ob-widget .ob-widget-header {direction:ltr; font-weight:bold;}
+.AR_1.ob-widget .ob-unit {display:block;}
+.AR_1.ob-widget .ob-rec-text {max-height:135.0px;overflow:hidden;}
+.AR_1.ob-widget .ob-rec-source {font-style:italic;}
+.AR_1.ob-widget .ob-rec-date {font-weight:bold;}
+/* dynamic customized css */
+.AR_1.ob-strip-layout .ob-widget-header {font-family:inherit;font-size:22px;color:black;padding-bottom:15px;padding-top:0px;}
+.AR_1.ob-strip-layout .ob-dynamic-rec-container {max-width:400px;}
+.AR_1.ob-strip-layout .ob-rec-text {font-family:inherit;color:black;padding:3px 0 0px;text-align:left;line-height:1.25;font-size:18px;}
+.AR_1.ob-strip-layout .ob-rec-text:hover {color:black;}
+.AR_1.ob-strip-layout .ob-rec-source {font-family:inherit;color:#888;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_1.ob-strip-layout .ob-rec-date {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_1.ob-strip-layout .ob-rec-author {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_1.ob-strip-layout .ob-rec-description {font-family:inherit;color:black;padding:0px 0 0px;text-align:left;font-size:12px;}
+.AR_1.ob-strip-layout .ob-rec-brandName {font-family:inherit;padding:3px 0 0px;line-height:1.25;font-size:13px;font-weight:400;}
+.AR_1.ob-strip-layout .ob-rec-brandLogo {width:20px;height:20px;}
+</style>
+<style type="text/css" class="ob-custom-css">
+</style>
+<div class="ob-widget-section ob-first">
+<ul class="ob-widget-items-container"><li class="ob-dynamic-rec-container ob-recIdx-0 ob-p" data-pos="0"><a class="ob-dynamic-rec-link" onclick="" href="https://lp.empiricus.com.br/salario/b/?xpromo=XE-MEX-OB-TC-X-X-NTV-X-X-D&amp;utm_medium=cpc&amp;utm_source=outbrain&amp;utm_campaign=cons-lg-tc02" onmousedown="this.href='https://paid.outbrain.com/network/redir?p=g7geSomwK_KET61mXnRUZimlvUqw_D1AUZ63aQOxkl4iUg7GPDUPqnGcAfmugXKN1wMhmAFC28k3FBX2Il0aTKmUmUL92Mh3zRaExlwrEIAlMzLlkJeBxST8KoHIM_gMTNX3qtkk58rimJrGDsNA0CQPtaCB6AWmyVC9rYhoL4WA7j9hDTt4WdBwIzMFR8_nRXh6bCvecBplVQDCSEN9lMmqhDGjzzXPyJEhe45r50fGBI4rmfhh74ZqkQ1OSyIsKO6PxscRWcEqv5W4_JPslfaWCjoyftrOHBBq19QXmRtUsbQ2fFS8wyXfh02kIV1ckgclXcv4VMLge-XjWhrhq0YAne8y4JKIX-L4IClK_abVTY_Wi4Up5ccJ9ReDNJLgCWVl21c_W3jb3axog5RHTBp4c0dfvjapfYx8j8F1qmfw7UOZRTQ3DUjJJqJdap9L_nnrd3kRseNt9a5xtscTkVLSEG23FIj6LeaC4wAeM_iOQ2g4D5cC3iqfjDMUN5__q6H68l3uNyl8a0L8zp4idxzMzHYsqoS0ncVmAvewNKoFJj18geYyAVpPWiUMXjaS5ieoy9DhHJEICZe0j523cFfGRcfnJ67tSWIpMGOySuRFFL-qgSF0wfvMqoytaPcKurHG6ox_AyUE3-gCQDVgYLN8uwzwD0Tlcp7M-sLB3ZX694tOqpIIcQNvbUVOTgDzUOWtKTQ_KhgPUbzcg9fxCoWCJPKmh2AJcyrpxyJyEW3U4h_sKQsI-LOW0X9lnuwNlrnK-pJFN-SxaKn83o0WaJ5Y40wfusAqxyVv5-NoOgEZ5ovjNeLQo_ACow2mvbFu7cJvliutJrVYtTmIKnspDg&amp;c=3b81ffc5&amp;v=3'; " target="_blank" rel="nofollow">
+<span class="ob-unit ob-rec-image-container" data-type="Image">
+<div class="ob-image-ratio"></div>
+<img class="ob-rec-image ob-show" src="https://images.outbrain.com/Imaginarium/api/uuid/6871077db59ca843bde8382195c008205e7d457c81cc24b3e60bff96e5449cd4/400/300/1.0/webp" onload="this.className+=' ob-show'" alt="Conheça o homem que dobrou seu salário sem trabalhar mais por isso" title="Conheça o homem que dobrou seu salário sem trabalhar mais por isso" onerror="OBR.extern.imageError(this)">
+</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="Conheça o homem que dobrou seu salário sem trabalhar mais por isso">Conheça o homem que dobrou seu salário sem trabalhar mais por isso</span> <span class="ob-unit ob-rec-source" data-type="Source">Empiricus Research</span>
+</a>
+</li><li class="ob-dynamic-rec-container ob-recIdx-1 ob-o" data-pos="1"><a class="ob-dynamic-rec-link" onclick="" href="http://lista10.org/adulto/os-10-cursos-que-mais-e-menos-transam-na-faculdade/" onmousedown="this.href='https://traffic.outbrain.com/network/redir?p=hX5BYJ13esmcaZfWQr_vWU58XrT9FNUGTp__o3s7qvDyc1v_oEwqPRsO__nViibpikVTC3SDxRPYB-tkHg19yzK_olrUi5MDPrFfcG7gzKcOo_O7ZwxN5JmvXCIKjKn0IN6w52j5vufhiUp9Al659LiqWLvSHDcRDSkpIQJFJHtKqkV4lFyOepNn_ZmfSqve02Dkutn_isqz0FMi3uFgPVRwxTJ6gYwfThocWcklZ2ASyJK4qmGP7PK_51UHpmqJxtXAM7mroEYgpBCTZ_BNZZqTAaDTEJSiGXmQ0RdtZ2zY72kCFD1fHkNjADmEUNJsRrDGz5sscR_q5nSCU-1mWJrhbFFlN_XHBgrgW2a-kyPuV1ASCVl47C9pwfnGWG1pJjpnRqbEFpQGE_-lCJqu5oNEfACI_oJEeQZdyRampX1PEZ0tTFOEmGPKpoO9gBxBY9nS_kOU5xsclSSt6lcUvpF9CbcxuNIMxeeCv9fcwY2lzt8HTWHB-dckBeXtCL1G6Xj4_7jWr6PONIQwkKLbl3U6Ie_hgJseo6rNSw2dgtmJucaQ5Zm7SPmQFKgtlEyRSqceVTy1IWuNjZBYZyDBY4aqg11Tdz1iBJSzy3b6v8hOxgfPvHwS9en9x6vviJNq9ryUJ_9y5Gaq5kD_zP3CykIQ43uI_CxcU1InKMSIH7csPwLggDinuot8-Eiz2hHMkwggnoIy2_YFphSvNWXqov_AgrMbtE7CXXi9hwH6U_4&amp;c=124054ff&amp;v=3'; " target="_self" rel="">
+<span class="ob-unit ob-rec-image-container" data-type="Image">
+<div class="ob-image-ratio"></div>
+<img class="ob-rec-image ob-show" src="https://images.outbrain.com/v1/QkM2S0h2dWF2SmxSZHlJK3ZpRnlxUT09/eyJpdSI6IjYxZTc1YzU2M2ZhZWUyMzNmM2FmNzM4NTNiZTIyMDQ3Y2I2ZWEzMWY0MzU1NjhhZGRmMDg2OTQwZGZlYjViYWUiLCJ3Ijo0MDAsImgiOjMwMCwiZCI6MS4wLCJjcyI6MCwiZiI6MH0%3D.webp" onload="this.className+=' ob-show'" alt="Os 10 cursos que mais e menos transam na faculdade" title="Os 10 cursos que mais e menos transam na faculdade" onerror="OBR.extern.imageError(this)">
+</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="Os 10 cursos que mais e menos transam na faculdade">Os 10 cursos que mais e menos transam na faculdade</span>
+</a>
+</li></ul><ul class="ob-widget-items-container ob-multi-row ob-row-1"><li class="ob-dynamic-rec-container ob-recIdx-2 ob-o" data-pos="2"><a class="ob-dynamic-rec-link" onclick="" href="https://lista10.org/diversos/10-imagens-que-contam-a-incrivel-historia-da-mulher-que-emagreceu-380-quilos/" onmousedown="this.href='https://traffic.outbrain.com/network/redir?p=63-28SVL_ZqfcMENGWy_xyUXAhUvMPFOEKho7IbTow5WtYF_tISa74aMDgXIqWK6wIr30yVMxwBiCbdGgMJHkJlIZ0mQTVncf-zWzqz3W2vy5oFRZ7etzxbW98LA5zPXM0L8QOHhcz7qzcQeiEmnOK-3RnC_Ps4vOdy8nJWSgWA10deUQIastYv2aF_Qvj-1Fpb7S7F3ZlbWMGeSppBqFOAjj6axbkka4QivdonDPB8_5gzOY8awgftcFD-L9OYPXEHnHvlTT9iI-PAYzXiGB2SUGaAD24hntiS0R-DgNK9pMM9xNR76MQUUQpxStRRHW39paTXHAGFWkmT92Dpj5ZaHuRgYZkGgWtP4dOAc-D6Wxgy_yZaTpUk0AihYUjuqCDgB_wDLx8QPaabQ5JHk7W6f1zOmGzbH5mTqTSGVyoZ7W4ciHYlWsAHJpOvFQ9MbM0aCdDmb8A9Pi4rQJPAAByH1REC1CbGeX4yNcTTvw-24cMrCfRdEsYl73yPN_vjwlc62aQ0IIHDRDRJI-UJ72JHzGE7lVFqPmxid_wW_HaLkcY6WdUi4dxzapVFqk9X57IH-am3ebc7MveT39CMq2IyXr4fMkZ5toN38mdgaXy5SKd-457N8Lh6QOKvASTSxAESQDvijCWZUWkKVEILnrRfP2wQUebe25Yl8S6-xSWCYv8b6hw46NxqNruhBrTxxOA2rHuzTQWJCRebjEHlPrN-z75pVNIRWMNizlCE0Ghg&amp;c=7f05b1e4&amp;v=3'; " target="_self" rel="">
+<span class="ob-unit ob-rec-image-container" data-type="Image">
+<div class="ob-image-ratio"></div>
+<img class="ob-rec-image ob-show" src="https://images.outbrain.com/v1/T1NnN0JXVWlQWnVNcEV2NHhDU2NMQT09/eyJpdSI6IjhhYjRmYTcxNmJlNzYzN2RiMTRjZDY2NjgxMzBhMWZhYWFkOTNiNzlhMWYxZjAyYWJlYWZlYTAyZmYxZmUxYWMiLCJ3Ijo0MDAsImgiOjMwMCwiZCI6MS4wLCJjcyI6MCwiZiI6MH0%3D.webp" onload="this.className+=' ob-show'" alt="10 imagens que contam a incrível história da mulher que emagreceu 380 quilos" title="10 imagens que contam a incrível história da mulher que emagreceu 380 quilos" onerror="OBR.extern.imageError(this)">
+</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="10 imagens que contam a incrível história da mulher que emagreceu 380 quilos">10 imagens que contam a incrível história da mulher que emagreceu 380 quilos</span>
+</a>
+</li><li class="ob-dynamic-rec-container ob-recIdx-3 ob-p ob-rtb" data-pos="3"><a class="ob-dynamic-rec-link" onclick="" href="https://cat.sv.us.criteo.com/delivery/ckn.php?cppv=1&amp;cpp=fLXmfnxkN3k1bjYwcE5nck5KNG03UFZyVmZZUE5PeHUxc3BFSm1KUXYzQzNDaXZ6ZjZMK3FuazM4M1BMSEpPQlVXYnlkaitrdnk2RFRhZ242OTZ3ZmxaRk0wV3BUVWZ4RHBwOThFcGxTcTM3cWtRV0NDRlcxWDIweG5SWi82a2c4MW4yUGRGbWZjOXdYNjNlRDFzQ3FUSWZSOTY1ZW1BNnRMTWRYZllSYTBGM08wQ1pCaTU1L2wzbDdqWkJOOUtEVlNNQTVZU0dSUVdydUpQa1JFNmR0MDFNTXJpYkNEaXBzdjFaYUhZMnFhS1ZhZ3dMNWNEZVdOMXpsVnpGRm14dkJ4c3J4NnZiYVAvck1vNzc3bmU2c3lOWjl2SitrbmZUSjBSbWFWUCtHK3pRTzUzT25mY2xoOW4xbmZuWXdiOUVoRVFZdDE2YkplTElDeTcrUVBsaG1ocFlydEE9PXw%3D&amp;maxdest=http%3A%2F%2Fwww.netshoes.com.br%2Fproduto%2Ftenis-olympikus-daily-2-masculino-D22-0491-300%3Fcampaign%3Dnetpro_ctocc%26utm_source%3Dme-s_cto__%26utm_medium%3Dxml%26utm_campaign%3Dme-s_cto-_-tnrg_running_tcb___-_-xml-_-_var_me_tenis-olympikus-daily-2-masculino_mdfn-vst-desk%26utm_term%3Dd22-0491-300" onmousedown="this.href='https://paid.outbrain.com/network/redir?p=Pl04WANbwz3N-v-vJHNybRHv3BqcZIdEiyAIerE0dOAZFTmklb3mglznZhkSJ1FAzALC6m7Z_7sostBgI5FGV-AvRRwu9oTy1logs53cCNrK5h98KrUUFb6fFAtEOUb7Q28V97OpMwrjIDSC4-EfXfeudrddCkr8l9JvqnMAY75LRdsrxCley_7YRMA3lwXdrVjDTJ1yhUcF_xJqnBmyKeyuUe_Lc6watf45ac-80H1g10WzVdJ7M3hqp_niwryiamHhMDloSsMSHMqohNNzQjIrA2W_lif9Km7lLFCLSExrOp-jbmoIfXzsmzfJByLjOTKlYfSK-qik55xqPpEx7U3m0rxRnTfmPj-ztp4_dZ4ClhqG3ucB1XmxMTwA9noU_ZcoX672P4EpCVbqGNZiEXDOOq8KIPJBnoeg3aZAh9d9WvefZTVJBi8Vt5lhp4DraHLePIUZugo7TUiTbdtydJJl8UPTuQv0lCXTMANSgf_MdRjy3SLF_QLkszgIEcQBkvNpbB686dKT45U20CJKI98gnkviBd8iBhnfbTCmVCmAImYZFwgKCCuAdmxR0RqP8JcVhRtGfEM8foA6At30gvgLBVyjfKqFfPriM4iw7EbYlvsiQtNGElnL6QI4rPShkw6QW5YCeJ7xeSk72EdbXTBWWvbUl3xlKMVPvGpspDEtSvncJ-L6D8DhgM3ktxPnPC2N4k3FvM0GzFE4p5Uje1krSwQRMWZfBg3w_wAvX-drzWHZeGiMiMoScRpoeq5PFjyHyRG8nIANh4TzC6Cxu4lkod5mflVSmsnhUDxT459WBBSj6hv6SrN0NSc1_YCX41KZDYeDS7xbfQu22KDXcImXVEhCQsCP8gir-eyDC87QHGr1VDPJCTrowC2TRcgd&amp;c=4302e3d8&amp;v=3'; " target="_blank" rel="nofollow">
+<span class="ob-unit ob-rec-image-container" data-type="Image">
+<div class="ob-image-ratio"></div>
+<div class="ob-rec-rtb-image" data-strategy="contain" style="background-image:url('https://pix.us.criteo.net/img/img?c=1&amp;cb=1&amp;h=400&amp;i=3518-d22-0491-300&amp;m=0&amp;q=80&amp;r=0&amp;u=http%3A%2F%2Fstatic1.netshoes.net%2FProdutos%2F00%2FD22-0491-300%2FD22-0491-300_detalhe1.jpg%3Fcb%3D5&amp;w=400&amp;s=sNYK-vN6XxAeJCNm-IeUOMYa');background-size:contain" alt="Tênis Olympikus Daily 2 Masculino" title="Tênis Olympikus Daily 2 Masculino" onerror="OBR.extern.imageError(this);"></div>
+</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="Tênis Olympikus Daily 2 Masculino">Tênis Olympikus Daily 2 Masculino</span> <span class="ob-unit ob-rec-source" data-type="Source">Netshoes</span>
+</a>
+<span id="ob-ad-choices" class="ob-ad-choices" onclick="window.open('https://info.criteo.com/privacy/informations?infonorm=3&amp;partner=3518&amp;campaignid=100090&amp;zoneid=516435&amp;bannerid=6643015&amp;displayid=59e3d8e2713807542f75bf5de9381900&amp;uaCap=0&amp;aid=LrittnxxWjV6U20wRlFiQVVjejhZVlk3UnJ1M2pBb2JYM0pkUXZEUFJTdjVJQzZJPXw=&amp;u=|734JOnSovAp9T8vqRcuhAFR8tLYBQusWWRjdLBhv4Ho=|');return false;" style="background:url('https://widgets.outbrain.com/external/vendors/disclosure.png') no-repeat center bottom;width:16px;height:16px;right:4px;background-size:16px;cursor:pointer;z-index:11;position:absolute;top:4px;"></span>
+</li></ul>
+</div>
+<div class="ob_what">
+<a href="https://www.outbrain.com/what-is/default/pt" rel="nofollow" onclick="OBR.extern.callWhatIs('https://www.outbrain.com/what-is/default/pt','',-1,-1,true ,null);return false">
+Recomendado por<span class="ob_amelia" title="outbrain.com"></span>
+</a>
+</div>
+<div class="ob-pixels">
+<iframe class="ob-pifr" src="https://widgets.outbrain.com/nanoWidget/externals/obPixelFrame/obPixelFrame.htm#p=https%3A%2F%2Fcat.sv.us.criteo.com%2Fdelivery%2Flgn.php%3Fcppv%3D1%26cpp%3DFN8Bo3xkN3k1bjYwcE5nck5KNG03UFZyVmZZUE5PeHUxc3BFSm1KUXYzQzNDaXZ6ZjZMK3FuazM4M1BMSEpPQlVXYnlkaitrdnk2RFRhZ242OTZ3ZmxaRk0wV3BUVWZ4RHBwOThFcGxTcTM3cWtRVWF6dnRrTk83UHBEVlI5d1kxRlhLYjNmYi9FVGV4dGxBNlpTdTZFOG9kR0pZMGhuOVdqdUIxYjRPbXU5T1lnd0xuSVFqK0RHWmpUMWZ3dFczT09VZ0ROTGdtQ2dPL3Y4NUN0Sm9oT2w5UjAwYkdnWmxyalVRMndYZGxzQTI5K09VcnVOd2luNENQU2RzRHhyMWFadGVqUGRKYTVNUExDS1oxckMvK2tPNytvbHdRZkNTUXB3RTRIN09COFVXbjM3M2J6WHJYUU1BcGphaklOV3JEcmF6MXw%253D%26z%3D0.27530015" style="display:none;width:1px;height:1px;" sandbox="allow-scripts allow-same-origin"></iframe>
+<iframe class="ob-pifr" src="https://widgets.outbrain.com/nanoWidget/externals/obPixelFrame/obPixelFrame.htm#p=https%3A%2F%2Famplify-imp.outbrain.com%2Fpixel%3Fp%3DnlV1YHXXXKgnJTkmjxGkpL9dJpkkQA-K0IxGa3EBKdTt6KMx49qo-UomuuNzBSTcJD1V5axshrnhFiXoloN0gdoCFVCxqGOAq10CfGN6U1MKWKmm0iA_Z8NAku4XQiK1xS5vGNMyI1cKJx8Ws1-2M5SpsFpPcx-8MYxU5QBNlBcviTeHwI4oBmrBrFeLdm2ZjLxL34swKMuMatB1ylb8EMmmSjaHj5EUw303IBdf6MeN8GuMQFompCTFmOPvNj8w9Ql2My7J3h9lHHV91819n7ZATH1qmQJGg3tIEkXTaYsguLl9x5maa5j-wu3pHfB3rv_B2lgoFihezTNtx0wPCVsxzjIV2E-pdmF_TzozkJWjoX11W-4Lr0Jdj8PxqZX_wAhpTuc2aQTU5bqobjSniKP6aA7Xtt-znLVDNXHGi8Oq5GkwjTBnmUfDtYEecCVhlJdxtQISuBN2Ong34FG7AOH5sJN3cPz4r6ghn8E30N-6cWhUWGnbHl-E2PIPqlQxYwJubIExKKyv8G8F70kmpsS3diSwglOML0k5bC9IXIu2zW3CKAWtUhTaV4rKONmMpjhy-7siBu3ZvqaL7Y6hSCzDxFi9aETi_tZLyw0_tCGNTshYlEH_EwMoDlTjbaUCSwYAsJbWFC0wADpML4FEVSgOavksKooAl0dIeFpI8ih0vhO8_V84HtKGsHmI6j_XBe3JM54AU5exaR388QtQmn4MJ45sjQDnTkXPY1u65FndJcMUKeoaLkffmi5ClTO0oW4rBd0_ua3hijutssb11_P_eR84n8m573r4FNlW-UUmBq4-RnzzQZ6B4_H6nK_3ThPuMkxl-DOa7WzEfH7jrvj3aYKB6ZuBUwMXTcOLNuM3CKnouhZVpwDc9EVQGtHvA9Ll_hkg8QGpw18o2YJwX7-LgCrj7XQ_qDZqRfsO6m4UiimbehNEuZLLpw8FFnFaCTpKIBasy1othZ0LvQvp9M9D83oUg70t8yA1mrDfUHnJC96bNSgD36uImQAsEWhIcvhgJwM3umd71go3pTEyMqCyZzSjtTkP0RAweAMrtcZV9pAsu8GqVY9DnpiEcW48x-VAZqLhZWExHJSEcS_SYCPVU-IX7YMUy3qMsT434dZTakmnR6RXCh9JByscOH7wa5VljhH5h-Ozm61Cqjq-jFY5jXSQuL75eVj0bBNFCdeyyeaX8grmQWWTdMCeXvN2wDMhoVpOFl2dElRJVbWsc_6DF2fiGCHKqNb9g5YduGj3BH8zKcLDLntqiU-1kEGMqItrPBlWI1XaWUufC4fa5AquF3A8nCQJctdCP6OVy8THVjh10lEkyIgGtQ-Cb25p%26c%3D9b0212a7%26v%3D3" style="display:none;width:1px;height:1px;" sandbox="allow-scripts allow-same-origin"></iframe>
+</div> </div></div>
+<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+<div class="separador"></div>
+</div>
+<div class="labelDeixeComentario">
+<div class="faixaComentario"></div>
+<div class="textoComentario">DEIXE SEU <font>COMENTÁRIO</font> SOBRE O POST</div>
+</div>
+<div class="comentariosFace">
+<div class="fb-comments fb_iframe_widget fb_iframe_widget_fluid" data-href="http://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/" data-num-posts="15" data-width="100%" fb-xfbml-state="rendered"><span style="height: 1133px;"><iframe id="f25ad46dbfaf694" name="f36beef371702ec" scrolling="no" title="Facebook Social Plugin" class="fb_ltr" src="https://web.facebook.com/plugins/comments.php?api_key=1091087334244717&amp;channel_url=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F18W0fzbK7xg.js%3Fversion%3D42%23cb%3Df2f3fc0193c196c%26domain%3Dlista10.org%26origin%3Dhttps%253A%252F%252Flista10.org%252Ff17b167d5d49658%26relation%3Dparent.parent&amp;href=http%3A%2F%2Flista10.org%2Fdiversos%2Fas-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros%2F&amp;locale=pt_BR&amp;numposts=15&amp;sdk=joey&amp;version=v2.7&amp;width=100%25" style="border: none; overflow: hidden; height: 1133px; width: 100%;"></iframe></span></div>
+</div>
+<div class="separador"></div>
+</div>
+zGE7lVFqPmxid_wW_HaLkcY6WdUi4dxzapVFqk9X57IH-am3ebc7MveT39CMq2IyXr4fMkZ5toN38mdgaXy5SKd-457N8Lh6QOKvASTSxAESQDvijCWZUWkKVEILnrRfP2wQUebe25Yl8S6-xSWCYv8b6hw46NxqNruhBrTxxOA2rHuzTQWJCRebjEHlPrN-z75pVNIRWMNizlCE0Ghg&amp;c=7f05b1e4&amp;v=3'; " target="_self" rel="">
+<span class="ob-unit ob-rec-image-container" data-type="Image">
+<div class="ob-image-ratio"></div>
+<img class="ob-rec-image ob-show" src="https://images.outbrain.com/v1/T1NnN0JXVWlQWnVNcEV2NHhDU2NMQT09/eyJpdSI6IjhhYjRmYTcxNmJlNzYzN2RiMTRjZDY2NjgxMzBhMWZhYWFkOTNiNzlhMWYxZjAyYWJlYWZlYTAyZmYxZmUxYWMiLCJ3Ijo0MDAsImgiOjMwMCwiZCI6MS4wLCJjcyI6MCwiZiI6MH0%3D.webp" onload="this.className+=' ob-show'" alt="10 imagens que contam a incrível história da mulher que emagreceu 380 quilos" title="10 imagens que contam a incrível história da mulher que emagreceu 380 quilos" onerror="OBR.extern.imageError(this)">
+</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="10 imagens que contam a incrível história da mulher que emagreceu 380 quilos">10 imagens que contam a incrível história da mulher que emagreceu 380 quilos</span>
+</a>
+</li><li class="ob-dynamic-rec-container ob-recIdx-3 ob-p ob-rtb" data-pos="3"><a class="ob-dynamic-rec-link" onclick="" href="https://cat.sv.us.criteo.com/delivery/ckn.php?cppv=1&amp;cpp=fLXmfnxkN3k1bjYwcE5nck5KNG03UFZyVmZZUE5PeHUxc3BFSm1KUXYzQzNDaXZ6ZjZMK3FuazM4M1BMSEpPQlVXYnlkaitrdnk2RFRhZ242OTZ3ZmxaRk0wV3BUVWZ4RHBwOThFcGxTcTM3cWtRV0NDRlcxWDIweG5SWi82a2c4MW4yUGRGbWZjOXdYNjNlRDFzQ3FUSWZSOTY1ZW1BNnRMTWRYZllSYTBGM08wQ1pCaTU1L2wzbDdqWkJOOUtEVlNNQTVZU0dSUVdydUpQa1JFNmR0MDFNTXJpYkNEaXBzdjFaYUhZMnFhS1ZhZ3dMNWNEZVdOMXpsVnpGRm14dkJ4c3J4NnZiYVAvck1vNzc3bmU2c3lOWjl2SitrbmZUSjBSbWFWUCtHK3pRTzUzT25mY2xoOW4xbmZuWXdiOUVoRVFZdDE2YkplTElDeTcrUVBsaG1ocFlydEE9PXw%3D&amp;maxdest=http%3A%2F%2Fwww.netshoes.com.br%2Fproduto%2Ftenis-olympikus-daily-2-masculino-D22-0491-300%3Fcampaign%3Dnetpro_ctocc%26utm_source%3Dme-s_cto__%26utm_medium%3Dxml%26utm_campaign%3Dme-s_cto-_-tnrg_running_tcb___-_-xml-_-_var_me_tenis-olympikus-daily-2-masculino_mdfn-vst-desk%26utm_term%3Dd22-0491-300" onmousedown="this.href='https://paid.outbrain.com/network/redir?p=Pl04WANbwz3N-v-vJHNybRHv3BqcZIdEiyAIerE0dOAZFTmklb3mglznZhkSJ1FAzALC6m7Z_7sostBgI5FGV-AvRRwu9oTy1logs53cCNrK5h98KrUUFb6fFAtEOUb7Q28V97OpMwrjIDSC4-EfXfeudrddCkr8l9JvqnMAY75LRdsrxCley_7YRMA3lwXdrVjDTJ1yhUcF_xJqnBmyKeyuUe_Lc6watf45ac-80H1g10WzVdJ7M3hqp_niwryiamHhMDloSsMSHMqohNNzQjIrA2W_lif9Km7lLFCLSExrOp-jbmoIfXzsmzfJByLjOTKlYfSK-qik55xqPpEx7U3m0rxRnTfmPj-ztp4_dZ4ClhqG3ucB1XmxMTwA9noU_ZcoX672P4EpCVbqGNZiEXDOOq8KIPJBnoeg3aZAh9d9WvefZTVJBi8Vt5lhp4DraHLePIUZugo7TUiTbdtydJJl8UPTuQv0lCXTMANSgf_MdRjy3SLF_QLkszgIEcQBkvNpbB686dKT45U20CJKI98gnkviBd8iBhnfbTCmVCmAImYZFwgKCCuAdmxR0RqP8JcVhRtGfEM8foA6At30gvgLBVyjfKqFfPriM4iw7EbYlvsiQtNGElnL6QI4rPShkw6QW5YCeJ7xeSk72EdbXTBWWvbUl3xlKMVPvGpspDEtSvncJ-L6D8DhgM3ktxPnPC2N4k3FvM0GzFE4p5Uje1krSwQRMWZfBg3w_wAvX-drzWHZeGiMiMoScRpoeq5PFjyHyRG8nIANh4TzC6Cxu4lkod5mflVSmsnhUDxT459WBBSj6hv6SrN0NSc1_YCX41KZDYeDS7xbfQu22KDXcImXVEhCQsCP8gir-eyDC87QHGr1VDPJCTrowC2TRcgd&amp;c=4302e3d8&amp;v=3'; " target="_blank" rel="nofollow">
+<span class="ob-unit ob-rec-image-container" data-type="Image">
+<div class="ob-image-ratio"></div>
+<div class="ob-rec-rtb-image" data-strategy="contain" style="background-image:url('https://pix.us.criteo.net/img/img?c=1&amp;cb=1&amp;h=400&amp;i=3518-d22-0491-300&amp;m=0&amp;q=80&amp;r=0&amp;u=http%3A%2F%2Fstatic1.netshoes.net%2FProdutos%2F00%2FD22-0491-300%2FD22-0491-300_detalhe1.jpg%3Fcb%3D5&amp;w=400&amp;s=sNYK-vN6XxAeJCNm-IeUOMYa');background-size:contain" alt="Tênis Olympikus Daily 2 Masculino" title="Tênis Olympikus Daily 2 Masculino" onerror="OBR.extern.imageError(this);"></div>
+</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="Tênis Olympikus Daily 2 Masculino">Tênis Olympikus Daily 2 Masculino</span> <span class="ob-unit ob-rec-source" data-type="Source">Netshoes</span>
+</a>
+<span id="ob-ad-choices" class="ob-ad-choices" onclick="window.open('https://info.criteo.com/privacy/informations?infonorm=3&amp;partner=3518&amp;campaignid=100090&amp;zoneid=516435&amp;bannerid=6643015&amp;displayid=59e3d8e2713807542f75bf5de9381900&amp;uaCap=0&amp;aid=LrittnxxWjV6U20wRlFiQVVjejhZVlk3UnJ1M2pBb2JYM0pkUXZEUFJTdjVJQzZJPXw=&amp;u=|734JOnSovAp9T8vqRcuhAFR8tLYBQusWWRjdLBhv4Ho=|');return false;" style="background:url('https://widgets.outbrain.com/external/vendors/disclosure.png') no-repeat center bottom;width:16px;height:16px;right:4px;background-size:16px;cursor:pointer;z-index:11;position:absolute;top:4px;"></span>
+</li></ul>
+</div>
+<div class="ob_what">
+<a href="https://www.outbrain.com/what-is/default/pt" rel="nofollow" onclick="OBR.extern.callWhatIs('https://www.outbrain.com/what-is/default/pt','',-1,-1,true ,null);return false">
+Recomendado por<span class="ob_amelia" title="outbrain.com"></span>
+</a>
+</div>
+<div class="ob-pixels">
+<iframe class="ob-pifr" src="https://widgets.outbrain.com/nanoWidget/externals/obPixelFrame/obPixelFrame.htm#p=https%3A%2F%2Fcat.sv.us.criteo.com%2Fdelivery%2Flgn.php%3Fcppv%3D1%26cpp%3DFN8Bo3xkN3k1bjYwcE5nck5KNG03UFZyVmZZUE5PeHUxc3BFSm1KUXYzQzNDaXZ6ZjZMK3FuazM4M1BMSEpPQlVXYnlkaitrdnk2RFRhZ242OTZ3ZmxaRk0wV3BUVWZ4RHBwOThFcGxTcTM3cWtRVWF6dnRrTk83UHBEVlI5d1kxRlhLYjNmYi9FVGV4dGxBNlpTdTZFOG9kR0pZMGhuOVdqdUIxYjRPbXU5T1lnd0xuSVFqK0RHWmpUMWZ3dFczT09VZ0ROTGdtQ2dPL3Y4NUN0Sm9oT2w5UjAwYkdnWmxyalVRMndYZGxzQTI5K09VcnVOd2luNENQU2RzRHhyMWFadGVqUGRKYTVNUExDS1oxckMvK2tPNytvbHdRZkNTUXB3RTRIN09COFVXbjM3M2J6WHJYUU1BcGphaklOV3JEcmF6MXw%253D%26z%3D0.27530015" style="display:none;width:1px;height:1px;" sandbox="allow-scripts allow-same-origin"></iframe>
+<iframe class="ob-pifr" src="https://widgets.outbrain.com/nanoWidget/externals/obPixelFrame/obPixelFrame.htm#p=https%3A%2F%2Famplify-imp.outbrain.com%2Fpixel%3Fp%3DnlV1YHXXXKgnJTkmjxGkpL9dJpkkQA-K0IxGa3EBKdTt6KMx49qo-UomuuNzBSTcJD1V5axshrnhFiXoloN0gdoCFVCxqGOAq10CfGN6U1MKWKmm0iA_Z8NAku4XQiK1xS5vGNMyI1cKJx8Ws1-2M5SpsFpPcx-8MYxU5QBNlBcviTeHwI4oBmrBrFeLdm2ZjLxL34swKMuMatB1ylb8EMmmSjaHj5EUw303IBdf6MeN8GuMQFompCTFmOPvNj8w9Ql2My7J3h9lHHV91819n7ZATH1qmQJGg3tIEkXTaYsguLl9x5maa5j-wu3pHfB3rv_B2lgoFihezTNtx0wPCVsxzjIV2E-pdmF_TzozkJWjoX11W-4Lr0Jdj8PxqZX_wAhpTuc2aQTU5bqobjSniKP6aA7Xtt-znLVDNXHGi8Oq5GkwjTBnmUfDtYEecCVhlJdxtQISuBN2Ong34FG7AOH5sJN3cPz4r6ghn8E30N-6cWhUWGnbHl-E2PIPqlQxYwJubIExKKyv8G8F70kmpsS3diSwglOML0k5bC9IXIu2zW3CKAWtUhTaV4rKONmMpjhy-7siBu3ZvqaL7Y6hSCzDxFi9aETi_tZLyw0_tCGNTshYlEH_EwMoDlTjbaUCSwYAsJbWFC0wADpML4FEVSgOavksKooAl0dIeFpI8ih0vhO8_V84HtKGsHmI6j_XBe3JM54AU5exaR388QtQmn4MJ45sjQDnTkXPY1u65FndJcMUKeoaLkffmi5ClTO0oW4rBd0_ua3hijutssb11_P_eR84n8m573r4FNlW-UUmBq4-RnzzQZ6B4_H6nK_3ThPuMkxl-DOa7WzEfH7jrvj3aYKB6ZuBUwMXTcOLNuM3CKnouhZVpwDc9EVQGtHvA9Ll_hkg8QGpw18o2YJwX7-LgCrj7XQ_qDZqRfsO6m4UiimbehNEuZLLpw8FFnFaCTpKIBasy1othZ0LvQvp9M9D83oUg70t8yA1mrDfUHnJC96bNSgD36uImQAsEWhIcvhgJwM3umd71go3pTEyMqCyZzSjtTkP0RAweAMrtcZV9pAsu8GqVY9DnpiEcW48x-VAZqLhZWExHJSEcS_SYCPVU-IX7YMUy3qMsT434dZTakmnR6RXCh9JByscOH7wa5VljhH5h-Ozm61Cqjq-jFY5jXSQuL75eVj0bBNFCdeyyeaX8grmQWWTdMCeXvN2wDMhoVpOFl2dElRJVbWsc_6DF2fiGCHKqNb9g5YduGj3BH8zKcLDLntqiU-1kEGMqItrPBlWI1XaWUufC4fa5AquF3A8nCQJctdCP6OVy8THVjh10lEkyIgGtQ-Cb25p%26c%3D9b0212a7%26v%3D3" style="display:none;width:1px;height:1px;" sandbox="allow-scripts allow-same-origin"></iframe>
+</div> </div></div>
+<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+<div class="separador"></div>
+</div>
+<div class="labelDeixeComentario">
+<div class="faixaComentario"></div>
+<div class="textoComentario">DEIXE SEU <font>COMENTÁRIO</font> SOBRE O POST</div>
+</div>
+<div class="comentariosFace">
+<div class="fb-comments fb_iframe_widget fb_iframe_widget_fluid" data-href="http://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/" data-num-posts="15" data-width="100%" fb-xfbml-state="rendered"><span style="height: 1133px;"><iframe id="f25ad46dbfaf694" name="f36beef371702ec" scrolling="no" title="Facebook Social Plugin" class="fb_ltr" src="https://web.facebook.com/plugins/comments.php?api_key=1091087334244717&amp;channel_url=https%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F18W0fzbK7xg.js%3Fversion%3D42%23cb%3Df2f3fc0193c196c%26domain%3Dlista10.org%26origin%3Dhttps%253A%252F%252Flista10.org%252Ff17b167d5d49658%26relation%3Dparent.parent&amp;href=http%3A%2F%2Flista10.org%2Fdiversos%2Fas-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros%2F&amp;locale=pt_BR&amp;numposts=15&amp;sdk=joey&amp;version=v2.7&amp;width=100%25" style="border: none; overflow: hidden; height: 1133px; width: 100%;"></iframe></span></div>
+</div>
+<div class="separador"></div>
+</div>
+58%26relation%3Dparent.parent&amp;href=http%3A%2F%2Flista10.org%2Fdiversos%2Fas-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros%2F&amp;locale=pt_BR&amp;numposts=15&amp;sdk=joey&amp;version=v2.7&amp;width=100%25" style="border: none; overflow: hidden; height: 1133px; width: 100%;"></iframe></span></div>
+</div><div class="separador"></div>
+</div>
+<div class="separador"></div>
+</div>

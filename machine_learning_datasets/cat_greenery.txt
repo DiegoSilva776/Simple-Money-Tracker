@@ -1,0 +1,3666 @@
+>>>---
+HORTIFRUTI - Fontes de dados para o treinamento
+---<<<
+>>>---
+1 - Sobre hortifruti de modo geral
+http://www.hortifruti.com.br/produtos/
+2 - Marcas/Produtos associados à hortifruti
+http://www.hortifruti.com.br/produtos/legumes/
+---<<<
+>>>---
+1 - Sobre hortifruti de modo geral
+---<<<
+<div id="container-secao">
+<div class="box-2">
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/abacate/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_abacate.png" alt="" class="img-all-size">
+<p>Abacate</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/abacaxi/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/06/PRODUTO_abacaxi_cortado.png" alt="" class="img-all-size">
+<p>Abacaxi</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/abiu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_abiu.png" alt="" class="img-all-size">
+<p>Abiu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/abobora/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_abobora.png" alt="" class="img-all-size">
+<p>Abóbora</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/abobrinha-verde/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/04/img-25.png" alt="" class="img-all-size">
+<p>Abobrinha Verde</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/acerola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_acerola.png" alt="" class="img-all-size">
+<p>Acerola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/agriao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_agriao.png" alt="" class="img-all-size">
+<p>Agrião</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aipim/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_aipim.png" alt="" class="img-all-size">
+<p>Aipim</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/aipo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_aipo.png" alt="" class="img-all-size">
+<p>Aipo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/alecrim/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_alecrim.png" alt="" class="img-all-size">
+<p>Alecrim</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/alface/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_alface.png" alt="Alface da Hortifruti" class="img-all-size">
+<p>Alface</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/alface-crespa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2017/09/Poduto_AlfaceCrespa.png" alt="" class="img-all-size">
+<p>Alface Crespa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/alho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_alho.png" alt="" class="img-all-size">
+<p>Alho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/alho-poro/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_alho_poro.png" alt="" class="img-all-size">
+<p>Alho-poró</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/almeirao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_almeirao.png" alt="" class="img-all-size">
+<p>Almeirão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/ameixa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_ameixa.png" alt="" class="img-all-size">
+<p>Ameixa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aspargo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_aspargo.png" alt="" class="img-all-size">
+<p>Aspargo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/atemoia/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_atemoia.png" alt="" class="img-all-size">
+<p>Atemóia</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/banana/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_banana.png" alt="" class="img-all-size">
+<p>Banana</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-baroa-ou-mandioquinha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/08/PRODUTO_batata_baroa_mandioquinha.png" alt="PRODUTO batata baroa mandioquinha" class="img-all-size">
+<p>Batata Baroa ou Mandioquinha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-doce/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_doce.png" alt="PRODUTO_batata_doce" class="img-all-size">
+<p>Batata Doce</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-inglesa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_inglesa.png" alt="PRODUTO_batata_inglesa" class="img-all-size">
+<p>Batata Inglesa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-yacon/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_batata_yacon.png" alt="PRODUTO batata yacon" class="img-all-size">
+<p>Batata Yacon</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/berinjela/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_berinjela.png" alt="" class="img-all-size">
+<p>Berinjela</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/beterraba/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_beterraba.png" alt="" class="img-all-size">
+<p>Beterraba</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/blueberry-ou-mirtilo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_blueberry.png" alt="" class="img-all-size">
+<p>Blueberry ou Mirtilo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/brocolis/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_brocolis.png" alt="" class="img-all-size">
+<p>Brócolis</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/broto-de-alfafa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_broto_de_alfafa.png" alt="" class="img-all-size">
+<p>Broto de Alfafa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/broto-de-feijao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_broto_de_feijao.png" alt="" class="img-all-size">
+<p>Broto de Feijão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/broto-de-lentilha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_broto_de_lentilha.png" alt="" class="img-all-size">
+<p>Broto de Lentilha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/broto-de-trevo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_broto_de_trevo.png" alt="" class="img-all-size">
+<p>Broto de Trevo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/cacau/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cacau.png" alt="" class="img-all-size">
+<p>Cacau</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/caja/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_caja.png" alt="" class="img-all-size">
+<p>Cajá</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/caju/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_caju.png" alt="" class="img-all-size">
+<p>Caju</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/cambuci/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cambuci.png" alt="" class="img-all-size">
+<p>Cambuci</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/caqui/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_caqui.png" alt="" class="img-all-size">
+<p>Caqui</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cara/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cara.png" alt="" class="img-all-size">
+<p>Cará</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/carambola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_carambola.png" alt="" class="img-all-size">
+<p>Carambola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cebola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cebola.png" alt="" class="img-all-size">
+<p>Cebola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/cebolinha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cebolinha.png" alt="" class="img-all-size">
+<p>Cebolinha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cenoura/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cenoura.png" alt="" class="img-all-size">
+<p>Cenoura</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/cereja/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cereja.png" alt="" class="img-all-size">
+<p>Cereja</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/chicoria/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_chicoria.png" alt="" class="img-all-size">
+<p>Chicória</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/chirimoya/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_chirimoya.png" alt="" class="img-all-size">
+<p>Chirimoya</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/chuchu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_chuchu.png" alt="PRODUTO_chuchu" class="img-all-size">
+<p>Chuchu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/cidra/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cidra.png" alt="" class="img-all-size">
+<p>Cidra</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/coco/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_coco_verde.png" alt="" class="img-all-size">
+<p>Coco</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/coentro/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_coentro.png" alt="" class="img-all-size">
+<p>Coentro</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/couve/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_couve.png" alt="" class="img-all-size">
+<p>Couve</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/couve-chinesa-ou-acelga/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_couve_chinesa.png" alt="" class="img-all-size">
+<p>Couve Chinesa ou Acelga</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/couve-de-bruxelas/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_couve_de_bruxelas.png" alt="" class="img-all-size">
+<p>Couve-de-Bruxelas</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/couve-flor/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_couve-flor.png" alt="" class="img-all-size">
+<p>Couve-Flor</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/cupuacu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cupuacu.png" alt="" class="img-all-size">
+<p>Cupuaçu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/damasco/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_damasco.png" alt="" class="img-all-size">
+<p>Damasco</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/endivia/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_endivia.png" alt="" class="img-all-size">
+<p>Endívia</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/ervilha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_ervilha.png" alt="" class="img-all-size">
+<p>Ervilha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/espinafre/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_espinafre.png" alt="" class="img-all-size">
+<p>Espinafre</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/figo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_figo.png" alt="" class="img-all-size">
+<p>Figo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/framboesa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_framboesa.png" alt="" class="img-all-size">
+<p>Framboesa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/fruta-pao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_fruta_pao.png" alt="" class="img-all-size">
+<p>Fruta Pão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/goiaba/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_goiaba.png" alt="" class="img-all-size">
+<p>Goiaba</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/grapefruit/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_grapefruit.png" alt="" class="img-all-size">
+<p>Grapefruit</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/graviola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_graviola.png" alt="" class="img-all-size">
+<p>Graviola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/hortela/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_hortela.png" alt="" class="img-all-size">
+<p>Hortelã</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/inhame/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_inhame.png" alt="" class="img-all-size">
+<p>Inhame</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/jabuticaba/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_jabuticaba.png" alt="" class="img-all-size">
+<p>Jabuticaba</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/jaca/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_jaca.png" alt="" class="img-all-size">
+<p>Jaca</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/jambo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_jambo.png" alt="" class="img-all-size">
+<p>Jambo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/jenipapo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_jenipapo.png" alt="" class="img-all-size">
+<p>Jenipapo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/jilo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_jilo.png" alt="" class="img-all-size">
+<p>Jiló</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/kino/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_kino.png" alt="" class="img-all-size">
+<p>Kino</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/kiwi/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_kiwi.png" alt="" class="img-all-size">
+<p>Kiwi</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/laranja/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_laranja.png" alt="PRODUTO_laranja" class="img-all-size">
+<p>Laranja</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/lichia/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_lichia.png" alt="" class="img-all-size">
+<p>Lichia</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/lima-da-persia/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_lima_da_persia.png" alt="" class="img-all-size">
+<p>Lima da Pérsia</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/limao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_limao.png" alt="" class="img-all-size">
+<p>Limão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/maca/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_maca.png" alt="maça" class="img-all-size">
+<p>Maçã</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/mamao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_mamao.png" alt="PRODUTO_mamao" class="img-all-size">
+<p>Mamão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/manga/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_manga.png" alt="" class="img-all-size">
+<p>Manga</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/manjericao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_manjericao.png" alt="" class="img-all-size">
+<p>Manjericão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/maracuja/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_maracuja.png" alt="" class="img-all-size">
+<p>Maracujá</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/marmelo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_marmelo.png" alt="" class="img-all-size">
+<p>Marmelo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/maxixe/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_maxixe.png" alt="" class="img-all-size">
+<p>Maxixe</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/melancia/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_melancia.png" alt="PRODUTO_melancia" class="img-all-size">
+<p>Melancia</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/melao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_melao.png" alt="PRODUTO_melao" class="img-all-size">
+<p>Melão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/mexerica-ou-tangerina/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_mexerica.png" alt="" class="img-all-size">
+<p>Mexerica ou Tangerina</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/milho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_milho_verde.png" alt="" class="img-all-size">
+<p>Milho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/morango/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2015/06/PRODUTO_morango.png" alt="Morango" class="img-all-size">
+<p>Morango</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/mostarda/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_mostarda.png" alt="" class="img-all-size">
+<p>Mostarda</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/nabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_nabo.png" alt="" class="img-all-size">
+<p>Nabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/nectarina/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_nectarina.png" alt="" class="img-all-size">
+<p>Nectarina</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/nespera/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_nespera.png" alt="PRODUTO_nespera" class="img-all-size">
+<p>Nêspera</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/palmito-pupunha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_palmito_pupunha.png" alt="" class="img-all-size">
+<p>Palmito Pupunha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pepino/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pepino.png" alt="" class="img-all-size">
+<p>Pepino</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/pera/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pera.png" alt="PRODUTO_pera" class="img-all-size">
+<p>Pera</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/pessego/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pessego.png" alt="" class="img-all-size">
+<p>Pêssego</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/physalis/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_physalis.png" alt="" class="img-all-size">
+<p>Physalis</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pimentao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pimentao.png" alt="" class="img-all-size">
+<p>Pimentão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/pitanga/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pitanga.png" alt="" class="img-all-size">
+<p>Pitanga</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/quiabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_quiabo.png" alt="" class="img-all-size">
+<p>Quiabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/rabanete/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_rabanete.png" alt="" class="img-all-size">
+<p>Rabanete</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/rambutam/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_rambutan.png" alt="" class="img-all-size">
+<p>Rambutam</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/repolho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_repolho.png" alt="" class="img-all-size">
+<p>Repolho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/roma/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_roma.png" alt="" class="img-all-size">
+<p>Romã</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/salsa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_salsa.png" alt="" class="img-all-size">
+<p>Salsa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/sapoti/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_sapoti.png" alt="" class="img-all-size">
+<p>Sapoti</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/seriguela/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_seriguela.png" alt="" class="img-all-size">
+<p>Seriguela</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/tamarindo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_tamarindo.png" alt="" class="img-all-size">
+<p>Tamarindo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/tomate/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_tomate.png" alt="PRODUTO_tomate" class="img-all-size">
+<p>Tomate</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/verduras/tomilho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_tomilho.png" alt="" class="img-all-size">
+<p>Tomilho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/umbu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_umbu.png" alt="" class="img-all-size">
+<p>Umbu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/uva-roxa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_uva_roxa.png" alt="PRODUTO_uva_roxa" class="img-all-size">
+<p>Uva Roxa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/uva-verde/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_uva_verde.png" alt="PRODUTO_uva_verde" class="img-all-size">
+<p>Uva Verde</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/frutas/uva-vermelha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_uva_vermelha.png" alt="PRODUTO_uva_vermelha" class="img-all-size">
+<p>Uva Vermelha</p>
+</a>
+</div>
+</div> <div class="clear"></div>
+</div>
+</div>
+<div class="card-body card-padding card-body-di large-line">
+<p class="text-justify"><span class="link_cinza" style="font-size:14px;">
+<a href="http://www.dicionarioinformal.com.br/frutas/" alt="Significado de frutas" title="Significado de frutas">frutas</a> <a href="http://www.dicionarioinformal.com.br/legumes/" alt="Significado de legumes" title="Significado de legumes">legumes</a> <a href="http://www.dicionarioinformal.com.br/verduras/" alt="Significado de verduras" title="Significado de verduras">verduras</a> <a href="http://www.dicionarioinformal.com.br/hortaliças/" alt="Significado de hortaliças" title="Significado de hortaliças">hortaliças</a> <a href="http://www.dicionarioinformal.com.br/vegetais/" alt="Significado de vegetais" title="Significado de vegetais">vegetais</a> <a href="http://www.dicionarioinformal.com.br/vegetariano/" alt="Significado de vegetariano" title="Significado de vegetariano">vegetariano</a> <a href="http://www.dicionarioinformal.com.br/reino vegetal/" alt="Significado de reino vegetal" title="Significado de reino vegetal">reino vegetal</a>
+</span></p>
+</div>
+>>>---
+2 - Marcas/Produtos associados à hortifruti
+---<<<
+<body class="archive tax-setores term-legumes term-15" cz-shortcut-listen="true">
+<div id="geral" class="produtos">
+<div id="header">
+<div id="topo-header">
+<div class="center col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<a href="http://www.hortifruti.com.br" class="marca"><h1><img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo/img/logomarca-hortifruti.png" class=""></h1></a>
+<div class="busca col-sm-hide col-xs-hide">
+<form action="http://www.hortifruti.com.br">
+<p><span><input name="s" value="FAÇA SUA PESQUISA" rel="FAÇA SUA PESQUISA" class="inputClear campoObrigatorio resetValue"></span></p>
+<!--<a href="#"><span>BUSCAR</span></a>-->
+<input type="submit" class="pesquisa" value="BUSCAR">
+<div class="clear"></div>
+</form>
+</div>
+<div class="login-cartao"><a href="https://cartaohortifruti.marketpay.com.br/LoginModuloCliente?acao=login" target="_blank"><em class="sprite ico-bt-login-cartao"></em></a></div>
+<div class="social">
+<div>
+<a href="https://www.facebook.com/hortifruti" target="_blank"><em class="sprite ico-face-header"></em></a>
+<a href="https://twitter.com/hortifruti" target="_blank"><em class="sprite ico-twitter-header"></em></a>
+<a href="https://www.youtube.com/user/TVHortifruti" target="_blank"><em class="sprite ico-ytb-header"></em></a>
+<a href="https://instagram.com/hortifruti" target="_blank"><em class="sprite ico-insta-header"></em></a>
+<!--<label class="col-sm-hide col-xs-hide"></label>-->
+<a href="http://grupoumbrella.com.br/playradio/hortifruti/" target="_blank" class="bt-radio xs-hide"><em class="sprite ico-radio"></em><span></span><div class="clear"></div></a>
+<div class="clear"></div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+<div id="menu-header">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center center-menu-off">
+<div class="hide col-sm-show col-xs-show" id="menu-mobile">
+<div id="busca-mobile">
+<a href="#" id="bt-busca-mobile"><em class="sprite ico-search"></em></a>
+<div class="border-radius-5 wrapper-busca-mobile">
+<span>
+<form action="http://www.hortifruti.com.br">
+<input type="text" value="Digite sua busca" rel="Digite sua busca" name="s" class="inputClear campoObrigatorio resetValue">
+<input type="submit" value="OK">
+</form>
+</span>
+</div>
+</div>
+<button class="cmn-toggle-switch cmn-toggle-switch__htx button-menu-mobile">
+<span>toggle menu</span>
+</button>
+</div>
+<ul class="col-xs-hide col-sm-hide">
+<li class="item-submenu menu-borda first">
+<a href="#" class="no-link" onclick="return false">A HORTIFRUTI<fieldset></fieldset><em class="sprite ico-arrow-menu"></em></a>
+<div class="submenu">
+<div class="wrapper">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<!--<em class="sprite ico-arrow-menu"></em>-->
+<table>
+<tbody><tr>
+<td class=" box-qs">
+<div class="box">
+<p><a href="http://www.hortifruti.com.br/quem-somos/">QUEM SOMOS</a></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/quem-somos/sobre-a-hortifruti/">Sobre a Hortifruti</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/nossa-historia">Nossa História</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/nosso-jeito-de-ser/">Nosso jeito de ser</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/galeria-de-fotos/">Galeria de Fotos</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/investidores/">Investidores</a></li>
+</ul>
+</div></td>
+<td class=" box-com">
+<div class="box">
+<p><a href="http://www.hortifruti.com.br/comunicacao/">COMUNICAÇÃO</a></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/comunicacao/campanhas/">Campanhas</a></li>
+<li><a href="http://www.hortifruti.com.br/comunicacao/icones/">Ícones</a></li>
+<li><a href="http://www.hortifruti.com.br/comunicacao/revista-vida-leve/">Revista Vida Leve</a></li>
+</ul>
+</div>
+</td>
+<td class=" box-pje">
+<div class="box">
+<p><a href="http://www.hortifruti.com.br/projetos-especiais/">PROJETOS ESPECIAIS</a></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/5-ao-dia/">5 ao dia</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/aplicativo-combinado/">Aplicativo Combinado</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/festival-de-gastronomia/">Festival de Gastronomia</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/janelas-do-campo/">Janelas do Campo</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/me-leva/">Me Leva</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/pe-de-letra/">Pé de Letra</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/sabores-da-hortifruti/">Sabores da Hortifruti</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/eventos">Eventos</a></li>
+</ul>
+</div>
+</td>
+<td class=" imagem-destaque-menu">
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="item-submenu menu-borda menu-lojas">
+<a href="#" class="no-link" onclick="return false">LOJAS<fieldset></fieldset><em class="sprite ico-arrow-menu"></em></a>
+<div class="submenu submenu-lojas">
+<div class="wrapper">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td class="box-estados">
+<div class="box">
+<p>ESCOLHA O ESTADO</p>
+<ul>
+<li>
+<a href="#" data-slug="es" class="bt">Espírito Santo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj" class="bt">Rio de Janeiro</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="sp" class="bt">São Paulo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li class="tour-bt"><p>MAPA DE LOJAS</p></li>
+<li><a href="http://www.hortifruti.com.br/lojas/">Veja nossas lojas no mapa</a></li>
+<li class="tour-bt"><p>TOUR 360º</p></li>
+<li><a href="http://www.hortifruti.com.br/loja_360/" target="_blank">Faça um tour</a></li>
+</ul>
+</div>
+</td>
+<td class="box-cidades">
+<div class="box interno">
+<ul id="box-cidades-es">
+<li>
+<a href="#" data-slug="es-vila-velha" class="bt">Vila Velha</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="es-vitoria" class="bt">Vitória</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+<ul id="box-cidades-rj">
+<li>
+<a href="#" data-slug="rj-niteroi" class="bt">Niterói</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-outras-cidades" class="bt">Outras cidades</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro" class="bt">Rio de Janeiro</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+<ul id="box-cidades-sp">
+<li>
+<a href="#" data-slug="sp-outras-cidades-sao-paulo" class="bt">Outras cidades</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="sp-sao-paulo" class="bt">São Paulo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+</div>
+</td>
+<td class="box-bairros">
+<div class="box interno">
+<ul id="box-bairros-es-vila-velha">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/es/vila-velha/praia-da-costa/praia-da-costa/" class="call-check" data-id="28760">Praia da Costa</a>
+</li>
+</ul>
+<ul id="box-bairros-es-vitoria">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/es/vitoria/praia-do-sua/praia-do-sua/" class="call-check" data-id="81">Praia do Suá</a>
+</li>
+</ul>
+<ul id="box-bairros-rj-niteroi">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/icarai/icarai/" class="call-check" data-id="75">Icaraí</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/marques-de-parana/marques-de-parana/" class="call-check" data-id="115">Marquês de Paraná</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/regiao-oceanica/regiao-oceanica/" class="call-check" data-id="117">Região Oceânica</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/santa-rosa/santa-rosa/" class="call-check" data-id="31250">Santa Rosa</a>
+</li>
+</ul>
+<ul id="box-bairros-rj-outras-cidades">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/cabo-frio/cabo-frio/" class="call-check" data-id="77">Cabo Frio</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/campos/campos/" class="call-check" data-id="119">Campos</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/macae/macae/" class="call-check" data-id="121">Macaé</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/rio-das-ostras/rio-de-janeirorio-das-ostras/" class="call-check" data-id="24618">Rio das Ostras</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/volta-redonda/volta-redonda/" class="call-check" data-id="123">Volta Redonda</a>
+</li>
+</ul>
+<ul id="box-bairros-rj-rio-de-janeiro">
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-barra-da-tijuca" class="bt">Barra da Tijuca</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-botafogo" class="bt">Botafogo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-copacabana" class="bt">Copacabana</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-flamengo" class="bt">Flamengo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/grajau/grajau/" class="call-check" data-id="95">Grajaú</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/ilha-do-governador/ilha-do-governador/" class="call-check" data-id="97">Ilha do Governador</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/ipanema/ipanema/" class="call-check" data-id="99">Ipanema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/laranjeiras/laranjeiras/" class="call-check" data-id="101">Laranjeiras</a>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-leblon" class="bt">Leblon</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/recreio-dos-bandeirantes/recreio-dos-bandeirantes/" class="call-check" data-id="107">Recreio dos Bandeirantes</a>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-tijuca" class="bt">Tijuca</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/vila-isabel/vila-isabel/" class="call-check" data-id="113">Vila Isabel</a>
+</li>
+</ul>
+<ul id="box-bairros-sp-outras-cidades-sao-paulo">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/outras-cidades-sao-paulo/santos/santos/" class="call-check" data-id="23710">Santos</a>
+</li>
+</ul>
+<ul id="box-bairros-sp-sao-paulo">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/sao-paulo/moema/moema/" class="call-check" data-id="79">Moema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/sao-paulo/paraiso/paraiso/" class="call-check" data-id="128">Paraíso</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="box-local">
+<div class="box interno">
+<ul id="box-local-rj-rio-de-janeiro-barra-da-tijuca">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/av-das-americas/" class="call-check" data-id="83">Av. das Américas</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/barra-garden/" class="call-check" data-id="38469">Barra Garden</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/pca-prof-souza-araujo/" class="call-check" data-id="85">Pça. Prof. Souza Araújo</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-botafogo">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/botafogo/botafogo/" class="call-check" data-id="87">Prof. Álvaro Rodrigues</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/botafogo/voluntarios-da-patria/" class="call-check" data-id="31427">Voluntários da Pátria</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-copacabana">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/avenida-prado-junior/" class="call-check" data-id="91">Av. Prado Júnior</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/dias-da-rocha/" class="call-check" data-id="89">Rua Dias da Rocha</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/siqueira-campos/" class="call-check" data-id="93">Rua Siqueira Campos</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-flamengo">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/flamengo/machado-de-assis/" class="call-check" data-id="70">Rua Machado de Assis</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/flamengo/flamengo-marques-de-abrantes/" class="call-check" data-id="24056">Rua Marquês de Abrantes</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-leblon">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/leblon/leblon-adalberto-ferreira/" class="call-check" data-id="105">Rua Adalberto Ferreira</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/leblon/leblon-dias-ferreira/" class="call-check" data-id="103">Rua Dias Ferreira</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-tijuca">
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/tijuca/tijuca-conde-de-bonfim/" class="call-check" data-id="109">Rua Conde de Bonfim</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/tijuca/tijuca-uruguai/" class="call-check" data-id="111">Rua Uruguai</a>
+</li>
+</ul>
+</div>
+</td> </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="item-submenu menu-borda menu-lojas menu-ofertas">
+<a href="#" class="no-link" onclick="return false">OFERTAS<fieldset></fieldset><em class="sprite ico-arrow-menu"></em></a>
+<div class="submenu submenu-lojas">
+<div class="wrapper">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td class="box-estados">
+<div class="box">
+<p>ESCOLHA O ESTADO</p>
+<ul>
+<li>
+<a href="#" data-slug="es" class="bt">Espírito Santo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj" class="bt">Rio de Janeiro</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="sp" class="bt">São Paulo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+</div>
+</td>
+<td class="box-cidades">
+<div class="box interno">
+<ul id="box-cidades-es">
+<li>
+<a href="#" data-slug="es-vila-velha" class="bt">Vila Velha</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="es-vitoria" class="bt">Vitória</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+<ul id="box-cidades-rj">
+<li>
+<a href="#" data-slug="rj-niteroi" class="bt">Niterói</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-outras-cidades" class="bt">Outras cidades</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro" class="bt">Rio de Janeiro</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+<ul id="box-cidades-sp">
+<li>
+<a href="#" data-slug="sp-outras-cidades-sao-paulo" class="bt">Outras cidades</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="sp-sao-paulo" class="bt">São Paulo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+</ul>
+</div>
+</td>
+<td class="box-bairros">
+<div class="box interno">
+<ul id="box-bairros-es-vila-velha">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/es/vila-velha/praia-da-costa/praia-da-costa/" class="call-check" data-id="28760">Praia da Costa</a>
+</li>
+</ul>
+<ul id="box-bairros-es-vitoria">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/es/vitoria/praia-do-sua/praia-do-sua/" class="call-check" data-id="81">Praia do Suá</a>
+</li>
+</ul>
+<ul id="box-bairros-rj-niteroi">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/icarai/icarai/" class="call-check" data-id="75">Icaraí</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/marques-de-parana/marques-de-parana/" class="call-check" data-id="115">Marquês de Paraná</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/regiao-oceanica/regiao-oceanica/" class="call-check" data-id="117">Região Oceânica</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/santa-rosa/santa-rosa/" class="call-check" data-id="31250">Santa Rosa</a>
+</li>
+</ul>
+<ul id="box-bairros-rj-outras-cidades">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/cabo-frio/cabo-frio/" class="call-check" data-id="77">Cabo Frio</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/campos/campos/" class="call-check" data-id="119">Campos</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/macae/macae/" class="call-check" data-id="121">Macaé</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/rio-das-ostras/rio-de-janeirorio-das-ostras/" class="call-check" data-id="24618">Rio das Ostras</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/volta-redonda/volta-redonda/" class="call-check" data-id="123">Volta Redonda</a>
+</li>
+</ul>
+<ul id="box-bairros-rj-rio-de-janeiro">
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-barra-da-tijuca" class="bt">Barra da Tijuca</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-botafogo" class="bt">Botafogo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-copacabana" class="bt">Copacabana</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-flamengo" class="bt">Flamengo</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/grajau/grajau/" class="call-check" data-id="95">Grajaú</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/ilha-do-governador/ilha-do-governador/" class="call-check" data-id="97">Ilha do Governador</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/ipanema/ipanema/" class="call-check" data-id="99">Ipanema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/laranjeiras/laranjeiras/" class="call-check" data-id="101">Laranjeiras</a>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-leblon" class="bt">Leblon</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/recreio-dos-bandeirantes/recreio-dos-bandeirantes/" class="call-check" data-id="107">Recreio dos Bandeirantes</a>
+</li>
+<li>
+<a href="#" data-slug="rj-rio-de-janeiro-tijuca" class="bt">Tijuca</a>
+<em class="sprite arrow-green-right"></em>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/vila-isabel/vila-isabel/" class="call-check" data-id="113">Vila Isabel</a>
+</li>
+</ul>
+<ul id="box-bairros-sp-outras-cidades-sao-paulo">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/outras-cidades-sao-paulo/santos/santos/" class="call-check" data-id="23710">Santos</a>
+</li>
+</ul>
+<ul id="box-bairros-sp-sao-paulo">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/sao-paulo/moema/moema/" class="call-check" data-id="79">Moema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/sao-paulo/paraiso/paraiso/" class="call-check" data-id="128">Paraíso</a>
+</li>
+</ul>
+</div>
+</td>
+<td class="box-local">
+<div class="box interno">
+<ul id="box-local-rj-rio-de-janeiro-barra-da-tijuca">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/av-das-americas/" class="call-check" data-id="83">Av. das Américas</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/barra-garden/" class="call-check" data-id="38469">Barra Garden</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/pca-prof-souza-araujo/" class="call-check" data-id="85">Pça. Prof. Souza Araújo</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-botafogo">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/botafogo/botafogo/" class="call-check" data-id="87">Prof. Álvaro Rodrigues</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/botafogo/voluntarios-da-patria/" class="call-check" data-id="31427">Voluntários da Pátria</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-copacabana">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/avenida-prado-junior/" class="call-check" data-id="91">Av. Prado Júnior</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/dias-da-rocha/" class="call-check" data-id="89">Rua Dias da Rocha</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/siqueira-campos/" class="call-check" data-id="93">Rua Siqueira Campos</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-flamengo">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/flamengo/machado-de-assis/" class="call-check" data-id="70">Rua Machado de Assis</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/flamengo/flamengo-marques-de-abrantes/" class="call-check" data-id="24056">Rua Marquês de Abrantes</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-leblon">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/leblon/leblon-adalberto-ferreira/" class="call-check" data-id="105">Rua Adalberto Ferreira</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/leblon/leblon-dias-ferreira/" class="call-check" data-id="103">Rua Dias Ferreira</a>
+</li>
+</ul>
+<ul id="box-local-rj-rio-de-janeiro-tijuca">
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/tijuca/tijuca-conde-de-bonfim/" class="call-check" data-id="109">Rua Conde de Bonfim</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/tijuca/tijuca-uruguai/" class="call-check" data-id="111">Rua Uruguai</a>
+</li>
+</ul>
+</div>
+</td> </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="item-submenu menu-borda menu-setores">
+<a href="#" class="no-link" onclick="return false">SETORES &amp; PRODUTOS<fieldset></fieldset><em class="sprite ico-arrow-menu"></em></a>
+<div class="submenu submenu-setores">
+<div class="wrapper">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td class="box-block">
+<div class="box">
+<p><a href="http://www.hortifruti.com.br/setores">SETORES</a></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/#carnes">Carnes</a></li><li><a href="http://www.hortifruti.com.br/setores/#congelados">Congelados</a></li><li><a href="http://www.hortifruti.com.br/setores/#espaco-gourmet">Espaço Gourmet</a></li><li><a href="http://www.hortifruti.com.br/setores/#frios-e-laticinios">Frios e laticínios</a></li><li><a href="http://www.hortifruti.com.br/setores/#frutas">Frutas</a></li><li><a href="http://www.hortifruti.com.br/setores/#lanchonete">Lanchonete</a></li>
+</ul>
+</div>
+<div class="box">
+<p><br></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/#legumes">Legumes</a></li><li><a href="http://www.hortifruti.com.br/setores/#mercearia">Mercearia</a></li><li><a href="http://www.hortifruti.com.br/setores/#paes">Pães</a></li><li><a href="http://www.hortifruti.com.br/setores/#pescados">Pescados</a></li><li><a href="http://www.hortifruti.com.br/setores/#processados">Processados</a></li><li><a href="http://www.hortifruti.com.br/setores/#rotisseria">Rotisseria</a></li>
+</ul>
+</div>
+<div class="box">
+<p><br></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/#saladas">Saladas</a></li><li><a href="http://www.hortifruti.com.br/setores/#sucos">Sucos</a></li><li><a href="http://www.hortifruti.com.br/setores/#verduras">Verduras</a></li><li><a href="http://www.hortifruti.com.br/setores/#vinhos">Vinhos &amp; Cervejas</a></li>
+</ul>
+</div> <div class="clear"></div>
+</td>
+<td class="">
+<div class="box">
+<p><a href="http://www.hortifruti.com.br/produtos/">PRODUTOS</a></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/produtos/frutas/">Frutas</a></li>
+<li><a href="http://www.hortifruti.com.br/produtos/verduras/">Verduras</a></li>
+<li><a href="http://www.hortifruti.com.br/produtos/legumes/">Legumes</a></li>
+</ul>
+</div>
+</td>
+<td class=" imagem-destaque-menu">
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="item-submenu menu-borda menu-receitas">
+<a href="http://www.hortifruti.com.br/receitas/">RECEITAS<fieldset></fieldset><em class="sprite ico-arrow-menu"></em></a>
+<div class="submenu submenu-block">
+<div class="wrapper">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td class="box-block">
+<div class="box">
+<p><a href="http://www.hortifruti.com.br/receitas/">RECEITAS</a></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/receitas/sabores-da-hortifruti/">Sabores da Hortifruti</a></li><li><a href="http://www.hortifruti.com.br/receitas/acompanhamentos/">Acompanhamentos</a></li><li><a href="http://www.hortifruti.com.br/receitas/doces/">Doces</a></li><li><a href="http://www.hortifruti.com.br/receitas/especiais/">Especiais</a></li>
+</ul>
+</div>
+<div class="box">
+<p><br></p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/receitas/massas/">Massas</a></li><li><a href="http://www.hortifruti.com.br/receitas/saladas/">Saladas</a></li><li><a href="http://www.hortifruti.com.br/receitas/salgados/">Salgados</a></li><li><a href="http://www.hortifruti.com.br/receitas/sucos/">Sucos</a></li>
+</ul>
+</div> <div class="clear"></div>
+</td>
+<td class=" imagem-destaque-menu">
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="menu-cartao menu-borda"><a href="http://www.hortifruti.com.br/cartao-hortifruti">CARTÃO HORTIFRUTI<fieldset></fieldset></a></li>
+<li class="item-submenu menu-borda menu-contato">
+<a href="#" class="no-link" onclick="return false">CONTATO<fieldset></fieldset><em class="sprite ico-arrow-menu"></em></a>
+<div class="submenu submenu-block">
+<div class="wrapper">
+<div class="center-menu col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td>
+<div class="box">
+<p>CONTATO</p>
+<ul>
+<li><a href="http://www.hortifruti.com.br/contato/fale-conosco/">Fale Conosco</a></li>
+<li><a href="http://www.hortifruti.com.br/contato/imprensa/">Imprensa</a></li>
+<li><a href="#" class="bt-overlay-trabalhe" target="_blank">Trabalhe conosco</a></li>
+</ul>
+</div>
+</td>
+<td class=" imagem-destaque-menu">
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="last"><a href="http://www.hortifruti.com.br/blog/">BLOG<fieldset></fieldset></a></li>
+<div class="clear"></div>
+</ul>
+</div>
+</div>
+</div>
+<div id="menu-secoes-mobile" class=" col-lg-hide col-xl-hide">
+<ul class="menu-principal">
+<li>
+<a href="#" class="bt-menu-secundario bt-menu-mobile">A HORTIFRUTI</a>
+<div class="menu-secundario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">QUEM SOMOS</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/quem-somos/sobre-a-hortifruti/">SOBRE A HORTIFRUTI</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/nossa-historia">NOSSA HISTÓRIA</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/nosso-jeito-de-ser/">NOSSO JEITO DE SER</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/galeria-de-fotos/">GALERIA DE FOTOS</a></li>
+<li><a href="http://www.hortifruti.com.br/quem-somos/investidores/">INVESTIDORES</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">COMUNICAÇÃO</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/comunicacao/campanhas/">CAMPANHAS</a></li>
+<li><a href="http://www.hortifruti.com.br/comunicacao/icones/">ÍCONES</a></li>
+<li><a href="http://www.hortifruti.com.br/comunicacao/revista-vida-leve/">REVISTA VIDA LEVE</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br" class="bt-menu-tercirio bt-menu-mobile">PROJETOS ESPECIAIS</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/5-ao-dia/">5 AO DIA</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/aplicativo-combinado/">APLICATIVO COMBINADO</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/festival-de-gastronomia/">FESTIVAL DE GASTRONOMIA</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/janelas-do-campo/">JANELAS DO CAMPO</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/me-leva/">ME LEVA</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/pe-de-letra/">PÉ DE LETRA</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/sabores-da-hortifruti/">SABORES DA HORTIFRUTI</a></li>
+<li><a href="http://www.hortifruti.com.br/projetos-especiais/eventos/">EVENTOS</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li id="lojas-ofertas-menu-mobile">
+<a href="#" class="bt-menu-secundario bt-menu-mobile">LOJAS</a>
+<div class="menu-secundario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">ESCOLHA O ESTADO</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Espírito Santo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Vila Velha</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/es/vila-velha/praia-da-costa/praia-da-costa/">Praia da Costa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Vitória</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/es/vitoria/praia-do-sua/praia-do-sua/">Praia do Suá</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Niterói</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/icarai/icarai/">Icaraí</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/marques-de-parana/marques-de-parana/">Marquês de Paraná</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/regiao-oceanica/regiao-oceanica/">Região Oceânica</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/santa-rosa/santa-rosa/">Santa Rosa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/cabo-frio/cabo-frio/">Cabo Frio</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/campos/campos/">Campos</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/macae/macae/">Macaé</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/rio-das-ostras/rio-de-janeirorio-das-ostras/">Rio das Ostras</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/volta-redonda/volta-redonda/">Volta Redonda</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Barra da Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/av-das-americas/">Av. das Américas</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/barra-garden/">Barra Garden</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/pca-prof-souza-araujo/">Pça. Prof. Souza Araújo</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Botafogo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/botafogo/botafogo/">Prof. Álvaro Rodrigues</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/botafogo/voluntarios-da-patria/">Voluntários da Pátria</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Copacabana</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/avenida-prado-junior/">Av. Prado Júnior</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/dias-da-rocha/">Rua Dias da Rocha</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/siqueira-campos/">Rua Siqueira Campos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Flamengo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/flamengo/machado-de-assis/">Rua Machado de Assis</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/flamengo/flamengo-marques-de-abrantes/">Rua Marquês de Abrantes</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/grajau/grajau/">Grajaú</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/ilha-do-governador/ilha-do-governador/">Ilha do Governador</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/ipanema/ipanema/">Ipanema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/laranjeiras/laranjeiras/">Laranjeiras</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Leblon</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/leblon/leblon-adalberto-ferreira/">Rua Adalberto Ferreira</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/leblon/leblon-dias-ferreira/">Rua Dias Ferreira</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/recreio-dos-bandeirantes/recreio-dos-bandeirantes/">Recreio dos Bandeirantes</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/tijuca/tijuca-conde-de-bonfim/">Rua Conde de Bonfim</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/tijuca/tijuca-uruguai/">Rua Uruguai</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/vila-isabel/vila-isabel/">Vila Isabel</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/outras-cidades-sao-paulo/santos/santos/">Santos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/sao-paulo/moema/moema/">Moema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/sao-paulo/paraiso/paraiso/">Paraíso</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li> </ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/loja_360/" target="_blank">TOUR 360º</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="lojas-ofertas-menu-mobile">
+<a href="#" class="bt-menu-secundario bt-menu-mobile">OFERTAS</a>
+<div class="menu-secundario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">ESCOLHA O ESTADO</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Espírito Santo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Vila Velha</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/es/vila-velha/praia-da-costa/praia-da-costa/">Praia da Costa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Vitória</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/es/vitoria/praia-do-sua/praia-do-sua/">Praia do Suá</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Niterói</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/icarai/icarai/">Icaraí</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/marques-de-parana/marques-de-parana/">Marquês de Paraná</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/regiao-oceanica/regiao-oceanica/">Região Oceânica</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/santa-rosa/santa-rosa/">Santa Rosa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/cabo-frio/cabo-frio/">Cabo Frio</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/campos/campos/">Campos</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/macae/macae/">Macaé</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/rio-das-ostras/rio-de-janeirorio-das-ostras/">Rio das Ostras</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/volta-redonda/volta-redonda/">Volta Redonda</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Barra da Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/av-das-americas/">Av. das Américas</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/barra-garden/">Barra Garden</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/pca-prof-souza-araujo/">Pça. Prof. Souza Araújo</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Botafogo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/botafogo/botafogo/">Prof. Álvaro Rodrigues</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/botafogo/voluntarios-da-patria/">Voluntários da Pátria</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Copacabana</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/avenida-prado-junior/">Av. Prado Júnior</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/dias-da-rocha/">Rua Dias da Rocha</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/siqueira-campos/">Rua Siqueira Campos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Flamengo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/flamengo/machado-de-assis/">Rua Machado de Assis</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/flamengo/flamengo-marques-de-abrantes/">Rua Marquês de Abrantes</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/grajau/grajau/">Grajaú</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/ilha-do-governador/ilha-do-governador/">Ilha do Governador</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/ipanema/ipanema/">Ipanema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/laranjeiras/laranjeiras/">Laranjeiras</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Leblon</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/leblon/leblon-adalberto-ferreira/">Rua Adalberto Ferreira</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/leblon/leblon-dias-ferreira/">Rua Dias Ferreira</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/recreio-dos-bandeirantes/recreio-dos-bandeirantes/">Recreio dos Bandeirantes</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/tijuca/tijuca-conde-de-bonfim/">Rua Conde de Bonfim</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/tijuca/tijuca-uruguai/">Rua Uruguai</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/vila-isabel/vila-isabel/">Vila Isabel</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/outras-cidades-sao-paulo/santos/santos/">Santos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/sao-paulo/moema/moema/">Moema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/sao-paulo/paraiso/paraiso/">Paraíso</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li> </ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-secundario bt-menu-mobile">SETORES E PRODUTOS</a>
+<div class="menu-secundario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">SETORES</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/">TODOS</a></li>
+<li><a href="http://www.hortifruti.com.br/setores/#carnes">Carnes</a></li><li><a href="http://www.hortifruti.com.br/setores/#congelados">Congelados</a></li><li><a href="http://www.hortifruti.com.br/setores/#espaco-gourmet">Espaço Gourmet</a></li><li><a href="http://www.hortifruti.com.br/setores/#frios-e-laticinios">Frios e laticínios</a></li><li><a href="http://www.hortifruti.com.br/setores/#frutas">Frutas</a></li><li><a href="http://www.hortifruti.com.br/setores/#lanchonete">Lanchonete</a></li><li><a href="http://www.hortifruti.com.br/setores/#legumes">Legumes</a></li><li><a href="http://www.hortifruti.com.br/setores/#mercearia">Mercearia</a></li><li><a href="http://www.hortifruti.com.br/setores/#paes">Pães</a></li><li><a href="http://www.hortifruti.com.br/setores/#pescados">Pescados</a></li><li><a href="http://www.hortifruti.com.br/setores/#processados">Processados</a></li><li><a href="http://www.hortifruti.com.br/setores/#rotisseria">Rotisseria</a></li><li><a href="http://www.hortifruti.com.br/setores/#saladas">Saladas</a></li><li><a href="http://www.hortifruti.com.br/setores/#sucos">Sucos</a></li><li><a href="http://www.hortifruti.com.br/setores/#verduras">Verduras</a></li><li><a href="http://www.hortifruti.com.br/setores/#vinhos">Vinhos &amp; Cervejas</a></li>
+</ul> </div>
+</li>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile"> PRODUTOS</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/produtos/frutas/">FRUTAS</a></li>
+<li><a href="http://www.hortifruti.com.br/produtos/legumes/">LEGUMES</a></li>
+<li><a href="http://www.hortifruti.com.br/produtos/verduras/">VERDURAS</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/receitas/" class="bt-menu-secundario bt-menu-mobile">RECEITAS</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/">TODOS</a></li>
+<li><a href="http://www.hortifruti.com.br/receitas/sabores-da-hortifruti/">Sabores da Hortifruti</a></li><li><a href="http://www.hortifruti.com.br/receitas/acompanhamentos/">Acompanhamentos</a></li><li><a href="http://www.hortifruti.com.br/receitas/doces/">Doces</a></li><li><a href="http://www.hortifruti.com.br/receitas/especiais/">Especiais</a></li><li><a href="http://www.hortifruti.com.br/receitas/massas/">Massas</a></li><li><a href="http://www.hortifruti.com.br/receitas/saladas/">Saladas</a></li><li><a href="http://www.hortifruti.com.br/receitas/salgados/">Salgados</a></li><li><a href="http://www.hortifruti.com.br/receitas/sucos/">Sucos</a></li>
+</ul> </div>
+</li>
+<li><a href="http://www.hortifruti.com.br/cartao-hortifruti/">CARTÃO HORTIFRUTI</a></li>
+<li>
+<a href="#" class="bt-menu-secundario bt-menu-mobile">CONTATO</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/contato/fale-conosco/">FALE CONOSCO</a></li>
+<li><a href="http://www.hortifruti.com.br/contato/imprensa/">IMPRENSA</a></li>
+<li><a href="#" class="bt-overlay-trabalhe" target="_blank">TRABALHE CONOSCO</a></li>
+</ul>
+</div>
+</li>
+<li id="bt-blog-mobile"><a href="http://www.hortifruti.com.br/blog/">BLOG</a></li>
+</ul>
+</div> </div>
+<div id="conteudo">
+<div class="new-top">
+<div class="center col-sm-1 col-xs-1 col-md-1 center-bg">
+<div class="topo-secao-detalhe">
+<div class="inner-center">
+<div class="breadcrumb col-xs-hide col-sm-hide">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/">
+INÍCIO
+</a>
+</li><li class="separador">&gt;</li>
+<li>
+<span>
+SETORES E PRODUTOS
+</span>
+</li><li class="separador">&gt;</li>
+<li>
+<a href="http://www.hortifruti.com.br/produtos/">
+PRODUTOS
+</a>
+</li><li class="separador">&gt;</li>
+<li>
+<span class="last">
+legumes
+</span>
+</li><li class="clear"></li> <div class="clear"></div>
+</ul>
+</div>
+<div class="title-section">
+<button class="cmn-toggle-switch cmn-toggle-switch__htx bt-menu-trigger col-sm-show col-xs-show">
+<span>toggle menu</span>
+</button>
+<ul class="wrapper-menu-interno">
+<li class="bt-menu-interno"><a href="http://www.hortifruti.com.br/produtos/frutas/">Frutas</a></li><li><span><h1>Legumes</h1></span></li><li class="bt-menu-interno"><a href="http://www.hortifruti.com.br/produtos/verduras/">Verduras</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="center col-sm-1 col-xs-1 col-md-1 center-bg">
+<div class="inner-center">
+<div class="section">
+<table class="conteudo-geral">
+<tbody><tr>
+<td id="conteudo-secao" class="resp-box col-7-10 col-sm-1 col-xs-1">
+<div id="container-secao">
+<div class="box-2">
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/abobora/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_abobora.png" alt="" class="img-all-size">
+<p>Abóbora</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/abobrinha-verde/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/04/img-25.png" alt="" class="img-all-size">
+<p>Abobrinha Verde</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aipim/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_aipim.png" alt="" class="img-all-size">
+<p>Aipim</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/alho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_alho.png" alt="" class="img-all-size">
+<p>Alho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aspargo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_aspargo.png" alt="" class="img-all-size">
+<p>Aspargo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-baroa-ou-mandioquinha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/08/PRODUTO_batata_baroa_mandioquinha.png" alt="PRODUTO batata baroa mandioquinha" class="img-all-size">
+<p>Batata Baroa ou Mandioquinha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-doce/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_doce.png" alt="PRODUTO_batata_doce" class="img-all-size">
+<p>Batata Doce</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-inglesa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_inglesa.png" alt="PRODUTO_batata_inglesa" class="img-all-size">
+<p>Batata Inglesa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-yacon/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_batata_yacon.png" alt="PRODUTO batata yacon" class="img-all-size">
+<p>Batata Yacon</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/berinjela/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_berinjela.png" alt="" class="img-all-size">
+<p>Berinjela</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/beterraba/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_beterraba.png" alt="" class="img-all-size">
+<p>Beterraba</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/brocolis/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_brocolis.png" alt="" class="img-all-size">
+<p>Brócolis</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cara/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cara.png" alt="" class="img-all-size">
+<p>Cará</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cebola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cebola.png" alt="" class="img-all-size">
+<p>Cebola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cenoura/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cenoura.png" alt="" class="img-all-size">
+<p>Cenoura</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/chuchu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_chuchu.png" alt="PRODUTO_chuchu" class="img-all-size">
+<p>Chuchu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/couve-flor/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_couve-flor.png" alt="" class="img-all-size">
+<p>Couve-Flor</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/ervilha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_ervilha.png" alt="" class="img-all-size">
+<p>Ervilha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/inhame/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_inhame.png" alt="" class="img-all-size">
+<p>Inhame</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/jilo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_jilo.png" alt="" class="img-all-size">
+<p>Jiló</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/maxixe/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_maxixe.png" alt="" class="img-all-size">
+<p>Maxixe</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/milho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_milho_verde.png" alt="" class="img-all-size">
+<p>Milho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/nabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_nabo.png" alt="" class="img-all-size">
+<p>Nabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/palmito-pupunha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_palmito_pupunha.png" alt="" class="img-all-size">
+<p>Palmito Pupunha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pepino/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pepino.png" alt="" class="img-all-size">
+<p>Pepino</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pimentao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pimentao.png" alt="" class="img-all-size">
+<p>Pimentão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/quiabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_quiabo.png" alt="" class="img-all-size">
+<p>Quiabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/rabanete/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_rabanete.png" alt="" class="img-all-size">
+<p>Rabanete</p>
+</a>
+</div>
+</div> <div class="clear"></div>
+</div>
+</div>
+</td>
+<td id="menu-secao" class="resp-box col-3-10 col-sm-hide col-xs-hide">
+<div class="menu-interno">
+<div class="submenu-interno">
+<div class="title-section">
+<span>Produtos</span>
+</div>
+<ul>
+<li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/frutas/"><span class="seta-menu-interno">&gt;</span>Frutas</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/legumes/" class="ativo"><span class="seta-menu-interno">&gt;</span>Legumes</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/verduras/"><span class="seta-menu-interno">&gt;</span>Verduras</a></li>
+</ul>
+</div>
+</div>
+</td> </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="detaque-outer">
+<div class="center">
+<div id="bottom-destaque">
+<div class="itens">
+<a class="resp-box col-3 col-first col-xs-2" href="">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2017/05/ho_0017_17n_webban_a.jpg" alt="App Cartão">
+</div>
+</a>
+<a class="resp-box col-3 col-center col-xs-2" href="http://www.hortifruti.com.br/setores/#sucos">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_b.jpg" alt="Sucos Naturais">
+</div>
+</a>
+<a class="resp-box col-3 col-right" href="http://www.hortifruti.com.br/ofertas/">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_a.jpg" alt="Ofertas">
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div> </div>
+</div>
+</div>
+<div id="footer">
+<div class="center col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td><img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo/img/logomarca-hortifruti.png"></td>
+<td><p>Hortifruti © 2017 - Todos os direitos reservados</p></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Niterói</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/icarai/icarai/">Icaraí</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/marques-de-parana/marques-de-parana/">Marquês de Paraná</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/regiao-oceanica/regiao-oceanica/">Região Oceânica</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/niteroi/santa-rosa/santa-rosa/">Santa Rosa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/cabo-frio/cabo-frio/">Cabo Frio</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/campos/campos/">Campos</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/macae/macae/">Macaé</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/rio-das-ostras/rio-de-janeirorio-das-ostras/">Rio das Ostras</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/outras-cidades/volta-redonda/volta-redonda/">Volta Redonda</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Barra da Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/av-das-americas/">Av. das Américas</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/barra-garden/">Barra Garden</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/barra-da-tijuca/pca-prof-souza-araujo/">Pça. Prof. Souza Araújo</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Botafogo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/botafogo/botafogo/">Prof. Álvaro Rodrigues</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/botafogo/voluntarios-da-patria/">Voluntários da Pátria</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Copacabana</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/avenida-prado-junior/">Av. Prado Júnior</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/dias-da-rocha/">Rua Dias da Rocha</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/copacabana/siqueira-campos/">Rua Siqueira Campos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Flamengo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/flamengo/machado-de-assis/">Rua Machado de Assis</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/flamengo/flamengo-marques-de-abrantes/">Rua Marquês de Abrantes</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/grajau/grajau/">Grajaú</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/ilha-do-governador/ilha-do-governador/">Ilha do Governador</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/ipanema/ipanema/">Ipanema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/laranjeiras/laranjeiras/">Laranjeiras</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Leblon</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/leblon/leblon-adalberto-ferreira/">Rua Adalberto Ferreira</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/leblon/leblon-dias-ferreira/">Rua Dias Ferreira</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/recreio-dos-bandeirantes/recreio-dos-bandeirantes/">Recreio dos Bandeirantes</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/tijuca/tijuca-conde-de-bonfim/">Rua Conde de Bonfim</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/tijuca/tijuca-uruguai/">Rua Uruguai</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/rj/rio-de-janeiro/vila-isabel/vila-isabel/">Vila Isabel</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/outras-cidades-sao-paulo/santos/santos/">Santos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/sao-paulo/moema/moema/">Moema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/lojas/sp/sao-paulo/paraiso/paraiso/">Paraíso</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li> </ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/loja_360/" target="_blank">TOUR 360º</a>
+</li>
+</ul>
+</div>
+</li>
+<li id="lojas-ofertas-menu-mobile">
+<a href="#" class="bt-menu-secundario bt-menu-mobile">OFERTAS</a>
+<div class="menu-secundario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">ESCOLHA O ESTADO</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Espírito Santo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Vila Velha</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/es/vila-velha/praia-da-costa/praia-da-costa/">Praia da Costa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Vitória</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/es/vitoria/praia-do-sua/praia-do-sua/">Praia do Suá</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Niterói</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/icarai/icarai/">Icaraí</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/marques-de-parana/marques-de-parana/">Marquês de Paraná</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/regiao-oceanica/regiao-oceanica/">Região Oceânica</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/niteroi/santa-rosa/santa-rosa/">Santa Rosa</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/cabo-frio/cabo-frio/">Cabo Frio</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/campos/campos/">Campos</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/macae/macae/">Macaé</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/rio-das-ostras/rio-de-janeirorio-das-ostras/">Rio das Ostras</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/outras-cidades/volta-redonda/volta-redonda/">Volta Redonda</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Rio de Janeiro</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Barra da Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/av-das-americas/">Av. das Américas</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/barra-garden/">Barra Garden</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/barra-da-tijuca/pca-prof-souza-araujo/">Pça. Prof. Souza Araújo</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Botafogo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/botafogo/botafogo/">Prof. Álvaro Rodrigues</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/botafogo/voluntarios-da-patria/">Voluntários da Pátria</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Copacabana</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/avenida-prado-junior/">Av. Prado Júnior</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/dias-da-rocha/">Rua Dias da Rocha</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/copacabana/siqueira-campos/">Rua Siqueira Campos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Flamengo</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/flamengo/machado-de-assis/">Rua Machado de Assis</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/flamengo/flamengo-marques-de-abrantes/">Rua Marquês de Abrantes</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/grajau/grajau/">Grajaú</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/ilha-do-governador/ilha-do-governador/">Ilha do Governador</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/ipanema/ipanema/">Ipanema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/laranjeiras/laranjeiras/">Laranjeiras</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Leblon</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/leblon/leblon-adalberto-ferreira/">Rua Adalberto Ferreira</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/leblon/leblon-dias-ferreira/">Rua Dias Ferreira</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/recreio-dos-bandeirantes/recreio-dos-bandeirantes/">Recreio dos Bandeirantes</a>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">Tijuca</a>
+<div class="menu-bairro-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/tijuca/tijuca-conde-de-bonfim/">Rua Conde de Bonfim</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/tijuca/tijuca-uruguai/">Rua Uruguai</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/rj/rio-de-janeiro/vila-isabel/vila-isabel/">Vila Isabel</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-estado-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-mobile">Outras cidades</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/outras-cidades-sao-paulo/santos/santos/">Santos</a>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-mobile">São Paulo</a>
+<div class="menu-cidade-mobile menu-interno-mobile">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/sao-paulo/moema/moema/">Moema</a>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/ofertas/sp/sao-paulo/paraiso/paraiso/">Paraíso</a>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li> </ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="#" class="bt-menu-secundario bt-menu-mobile">SETORES E PRODUTOS</a>
+<div class="menu-secundario menu-interno-mobile">
+<ul>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile">SETORES</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/">TODOS</a></li>
+<li><a href="http://www.hortifruti.com.br/setores/#carnes">Carnes</a></li><li><a href="http://www.hortifruti.com.br/setores/#congelados">Congelados</a></li><li><a href="http://www.hortifruti.com.br/setores/#espaco-gourmet">Espaço Gourmet</a></li><li><a href="http://www.hortifruti.com.br/setores/#frios-e-laticinios">Frios e laticínios</a></li><li><a href="http://www.hortifruti.com.br/setores/#frutas">Frutas</a></li><li><a href="http://www.hortifruti.com.br/setores/#lanchonete">Lanchonete</a></li><li><a href="http://www.hortifruti.com.br/setores/#legumes">Legumes</a></li><li><a href="http://www.hortifruti.com.br/setores/#mercearia">Mercearia</a></li><li><a href="http://www.hortifruti.com.br/setores/#paes">Pães</a></li><li><a href="http://www.hortifruti.com.br/setores/#pescados">Pescados</a></li><li><a href="http://www.hortifruti.com.br/setores/#processados">Processados</a></li><li><a href="http://www.hortifruti.com.br/setores/#rotisseria">Rotisseria</a></li><li><a href="http://www.hortifruti.com.br/setores/#saladas">Saladas</a></li><li><a href="http://www.hortifruti.com.br/setores/#sucos">Sucos</a></li><li><a href="http://www.hortifruti.com.br/setores/#verduras">Verduras</a></li><li><a href="http://www.hortifruti.com.br/setores/#vinhos">Vinhos &amp; Cervejas</a></li>
+</ul> </div>
+</li>
+<li>
+<a href="#" class="bt-menu-terciario bt-menu-mobile"> PRODUTOS</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/produtos/frutas/">FRUTAS</a></li>
+<li><a href="http://www.hortifruti.com.br/produtos/legumes/">LEGUMES</a></li>
+<li><a href="http://www.hortifruti.com.br/produtos/verduras/">VERDURAS</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+<li>
+<a href="http://www.hortifruti.com.br/receitas/" class="bt-menu-secundario bt-menu-mobile">RECEITAS</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/setores/">TODOS</a></li>
+<li><a href="http://www.hortifruti.com.br/receitas/sabores-da-hortifruti/">Sabores da Hortifruti</a></li><li><a href="http://www.hortifruti.com.br/receitas/acompanhamentos/">Acompanhamentos</a></li><li><a href="http://www.hortifruti.com.br/receitas/doces/">Doces</a></li><li><a href="http://www.hortifruti.com.br/receitas/especiais/">Especiais</a></li><li><a href="http://www.hortifruti.com.br/receitas/massas/">Massas</a></li><li><a href="http://www.hortifruti.com.br/receitas/saladas/">Saladas</a></li><li><a href="http://www.hortifruti.com.br/receitas/salgados/">Salgados</a></li><li><a href="http://www.hortifruti.com.br/receitas/sucos/">Sucos</a></li>
+</ul> </div>
+</li>
+<li><a href="http://www.hortifruti.com.br/cartao-hortifruti/">CARTÃO HORTIFRUTI</a></li>
+<li>
+<a href="#" class="bt-menu-secundario bt-menu-mobile">CONTATO</a>
+<div class="menu-terciario menu-interno-mobile">
+<ul>
+<li><a href="http://www.hortifruti.com.br/contato/fale-conosco/">FALE CONOSCO</a></li>
+<li><a href="http://www.hortifruti.com.br/contato/imprensa/">IMPRENSA</a></li>
+<li><a href="#" class="bt-overlay-trabalhe" target="_blank">TRABALHE CONOSCO</a></li>
+</ul>
+</div>
+</li>
+<li id="bt-blog-mobile"><a href="http://www.hortifruti.com.br/blog/">BLOG</a></li>
+</ul>
+</div> </div>
+<div id="conteudo">
+<div class="new-top">
+<div class="center col-sm-1 col-xs-1 col-md-1 center-bg">
+<div class="topo-secao-detalhe">
+<div class="inner-center">
+<div class="breadcrumb col-xs-hide col-sm-hide">
+<ul>
+<li>
+<a href="http://www.hortifruti.com.br/">
+INÍCIO
+</a>
+</li><li class="separador">&gt;</li>
+<li>
+<span>
+SETORES E PRODUTOS
+</span>
+</li><li class="separador">&gt;</li>
+<li>
+<a href="http://www.hortifruti.com.br/produtos/">
+PRODUTOS
+</a>
+</li><li class="separador">&gt;</li>
+<li>
+<span class="last">
+legumes
+</span>
+</li><li class="clear"></li> <div class="clear"></div>
+</ul>
+</div>
+<div class="title-section">
+<button class="cmn-toggle-switch cmn-toggle-switch__htx bt-menu-trigger col-sm-show col-xs-show">
+<span>toggle menu</span>
+</button>
+<ul class="wrapper-menu-interno">
+<li class="bt-menu-interno"><a href="http://www.hortifruti.com.br/produtos/frutas/">Frutas</a></li><li><span><h1>Legumes</h1></span></li><li class="bt-menu-interno"><a href="http://www.hortifruti.com.br/produtos/verduras/">Verduras</a></li>
+</ul> </div>
+</div>
+</div>
+</div>
+</div>
+<div class="center col-sm-1 col-xs-1 col-md-1 center-bg">
+<div class="inner-center">
+<div class="section">
+<table class="conteudo-geral">
+<tbody><tr>
+<td id="conteudo-secao" class="resp-box col-7-10 col-sm-1 col-xs-1">
+<div id="container-secao">
+<div class="box-2">
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/abobora/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_abobora.png" alt="" class="img-all-size">
+<p>Abóbora</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/abobrinha-verde/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/04/img-25.png" alt="" class="img-all-size">
+<p>Abobrinha Verde</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aipim/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_aipim.png" alt="" class="img-all-size">
+<p>Aipim</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/alho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_alho.png" alt="" class="img-all-size">
+<p>Alho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aspargo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_aspargo.png" alt="" class="img-all-size">
+<p>Aspargo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-baroa-ou-mandioquinha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/08/PRODUTO_batata_baroa_mandioquinha.png" alt="PRODUTO batata baroa mandioquinha" class="img-all-size">
+<p>Batata Baroa ou Mandioquinha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-doce/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_doce.png" alt="PRODUTO_batata_doce" class="img-all-size">
+<p>Batata Doce</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-inglesa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_inglesa.png" alt="PRODUTO_batata_inglesa" class="img-all-size">
+<p>Batata Inglesa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-yacon/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_batata_yacon.png" alt="PRODUTO batata yacon" class="img-all-size">
+<p>Batata Yacon</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/berinjela/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_berinjela.png" alt="" class="img-all-size">
+<p>Berinjela</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/beterraba/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_beterraba.png" alt="" class="img-all-size">
+<p>Beterraba</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/brocolis/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_brocolis.png" alt="" class="img-all-size">
+<p>Brócolis</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cara/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cara.png" alt="" class="img-all-size">
+<p>Cará</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cebola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cebola.png" alt="" class="img-all-size">
+<p>Cebola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cenoura/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cenoura.png" alt="" class="img-all-size">
+<p>Cenoura</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/chuchu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_chuchu.png" alt="PRODUTO_chuchu" class="img-all-size">
+<p>Chuchu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/couve-flor/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_couve-flor.png" alt="" class="img-all-size">
+<p>Couve-Flor</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/ervilha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_ervilha.png" alt="" class="img-all-size">
+<p>Ervilha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/inhame/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_inhame.png" alt="" class="img-all-size">
+<p>Inhame</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/jilo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_jilo.png" alt="" class="img-all-size">
+<p>Jiló</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/maxixe/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_maxixe.png" alt="" class="img-all-size">
+<p>Maxixe</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/milho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_milho_verde.png" alt="" class="img-all-size">
+<p>Milho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/nabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_nabo.png" alt="" class="img-all-size">
+<p>Nabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/palmito-pupunha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_palmito_pupunha.png" alt="" class="img-all-size">
+<p>Palmito Pupunha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pepino/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pepino.png" alt="" class="img-all-size">
+<p>Pepino</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pimentao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pimentao.png" alt="" class="img-all-size">
+<p>Pimentão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/quiabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_quiabo.png" alt="" class="img-all-size">
+<p>Quiabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/rabanete/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_rabanete.png" alt="" class="img-all-size">
+<p>Rabanete</p>
+</a>
+</div>
+</div> <div class="clear"></div>
+</div>
+</div>
+</td>
+<td id="menu-secao" class="resp-box col-3-10 col-sm-hide col-xs-hide">
+<div class="menu-interno">
+<div class="submenu-interno">
+<div class="title-section">
+<span>Produtos</span>
+</div>
+<ul>
+<li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/frutas/"><span class="seta-menu-interno">&gt;</span>Frutas</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/legumes/" class="ativo"><span class="seta-menu-interno">&gt;</span>Legumes</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/verduras/"><span class="seta-menu-interno">&gt;</span>Verduras</a></li>
+</ul>
+</div>
+</div>
+</td> </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="detaque-outer">
+<div class="center">
+<div id="bottom-destaque">
+<div class="itens">
+<a class="resp-box col-3 col-first col-xs-2" href="">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2017/05/ho_0017_17n_webban_a.jpg" alt="App Cartão">
+</div>
+</a>
+<a class="resp-box col-3 col-center col-xs-2" href="http://www.hortifruti.com.br/setores/#sucos">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_b.jpg" alt="Sucos Naturais">
+</div>
+</a>
+<a class="resp-box col-3 col-right" href="http://www.hortifruti.com.br/ofertas/">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_a.jpg" alt="Ofertas">
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div> </div>
+</div>
+</div>
+<div id="footer">
+<div class="center col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td><img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo/img/logomarca-hortifruti.png"></td>
+<td><p>Hortifruti © 2017 - Todos os direitos reservados</p></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+iv class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/aspargo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_aspargo.png" alt="" class="img-all-size">
+<p>Aspargo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-baroa-ou-mandioquinha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/08/PRODUTO_batata_baroa_mandioquinha.png" alt="PRODUTO batata baroa mandioquinha" class="img-all-size">
+<p>Batata Baroa ou Mandioquinha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-doce/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_doce.png" alt="PRODUTO_batata_doce" class="img-all-size">
+<p>Batata Doce</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-inglesa/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_batata_inglesa.png" alt="PRODUTO_batata_inglesa" class="img-all-size">
+<p>Batata Inglesa</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/batata-yacon/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_batata_yacon.png" alt="PRODUTO batata yacon" class="img-all-size">
+<p>Batata Yacon</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/berinjela/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_berinjela.png" alt="" class="img-all-size">
+<p>Berinjela</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/beterraba/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_beterraba.png" alt="" class="img-all-size">
+<p>Beterraba</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/brocolis/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_brocolis.png" alt="" class="img-all-size">
+<p>Brócolis</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cara/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cara.png" alt="" class="img-all-size">
+<p>Cará</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cebola/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_cebola.png" alt="" class="img-all-size">
+<p>Cebola</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/cenoura/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_cenoura.png" alt="" class="img-all-size">
+<p>Cenoura</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/chuchu/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_chuchu.png" alt="PRODUTO_chuchu" class="img-all-size">
+<p>Chuchu</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/couve-flor/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_couve-flor.png" alt="" class="img-all-size">
+<p>Couve-Flor</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/ervilha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_ervilha.png" alt="" class="img-all-size">
+<p>Ervilha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/inhame/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_inhame.png" alt="" class="img-all-size">
+<p>Inhame</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/jilo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_jilo.png" alt="" class="img-all-size">
+<p>Jiló</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/maxixe/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_maxixe.png" alt="" class="img-all-size">
+<p>Maxixe</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/milho/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_milho_verde.png" alt="" class="img-all-size">
+<p>Milho</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/nabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_nabo.png" alt="" class="img-all-size">
+<p>Nabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/palmito-pupunha/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_palmito_pupunha.png" alt="" class="img-all-size">
+<p>Palmito Pupunha</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pepino/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pepino.png" alt="" class="img-all-size">
+<p>Pepino</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/pimentao/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/05/PRODUTO_pimentao.png" alt="" class="img-all-size">
+<p>Pimentão</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/quiabo/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_quiabo.png" alt="" class="img-all-size">
+<p>Quiabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/rabanete/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_rabanete.png" alt="" class="img-all-size">
+<p>Rabanete</p>
+</a>
+</div>
+</div> <div class="clear"></div>
+</div>
+</div>
+</td>
+<td id="menu-secao" class="resp-box col-3-10 col-sm-hide col-xs-hide">
+<div class="menu-interno">
+<div class="submenu-interno">
+<div class="title-section">
+<span>Produtos</span>
+</div>
+<ul>
+<li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/frutas/"><span class="seta-menu-interno">&gt;</span>Frutas</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/legumes/" class="ativo"><span class="seta-menu-interno">&gt;</span>Legumes</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/verduras/"><span class="seta-menu-interno">&gt;</span>Verduras</a></li>
+</ul>
+</div>
+</div>
+</td> </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="detaque-outer">
+<div class="center">
+<div id="bottom-destaque">
+<div class="itens">
+<a class="resp-box col-3 col-first col-xs-2" href="">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2017/05/ho_0017_17n_webban_a.jpg" alt="App Cartão">
+</div>
+</a>
+<a class="resp-box col-3 col-center col-xs-2" href="http://www.hortifruti.com.br/setores/#sucos">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_b.jpg" alt="Sucos Naturais">
+</div>
+</a>
+<a class="resp-box col-3 col-right" href="http://www.hortifruti.com.br/ofertas/">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_a.jpg" alt="Ofertas">
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div> </div>
+</div>
+</div>
+<div id="footer">
+<div class="center col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td><img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo/img/logomarca-hortifruti.png"></td>
+<td><p>Hortifruti © 2017 - Todos os direitos reservados</p></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+mp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_quiabo.png" alt="" class="img-all-size">
+<p>Quiabo</p>
+</a>
+</div>
+</div>
+<div class="resp-box box-with-title-outside col-3 col-xs-1">
+<div>
+<a class="box-with-shadow border-radius-5 box-with-image" href="http://www.hortifruti.com.br/produtos/legumes/rabanete/">
+<img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo//inc/timthumb.php?w=229&amp;h=182&amp;zc=2&amp;a=c&amp;q=75&amp;src=http://www.hortifruti.com.br/wp-content/uploads/2014/10/PRODUTO_rabanete.png" alt="" class="img-all-size">
+<p>Rabanete</p>
+</a>
+</div>
+</div> <div class="clear"></div>
+</div>
+</div>
+</td>
+<td id="menu-secao" class="resp-box col-3-10 col-sm-hide col-xs-hide">
+<div class="menu-interno">
+<div class="submenu-interno">
+<div class="title-section">
+<span>Produtos</span>
+</div>
+<ul>
+<li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/frutas/"><span class="seta-menu-interno">&gt;</span>Frutas</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/legumes/" class="ativo"><span class="seta-menu-interno">&gt;</span>Legumes</a></li><li class="link-menu-interno"><a href="http://www.hortifruti.com.br/produtos/verduras/"><span class="seta-menu-interno">&gt;</span>Verduras</a></li>
+</ul>
+</div>
+</div>
+</td> </tr>
+</tbody></table>
+</div>
+</div>
+</div>
+<div class="detaque-outer">
+<div class="center">
+<div id="bottom-destaque">
+<div class="itens">
+<a class="resp-box col-3 col-first col-xs-2" href="">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2017/05/ho_0017_17n_webban_a.jpg" alt="App Cartão">
+</div>
+</a>
+<a class="resp-box col-3 col-center col-xs-2" href="http://www.hortifruti.com.br/setores/#sucos">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_b.jpg" alt="Sucos Naturais">
+</div>
+</a>
+<a class="resp-box col-3 col-right" href="http://www.hortifruti.com.br/ofertas/">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_a.jpg" alt="Ofertas">
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div> </div>
+</div>
+</div>
+<div id="footer">
+<div class="center col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td><img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo/img/logomarca-hortifruti.png"></td>
+<td><p>Hortifruti © 2017 - Todos os direitos reservados</p></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+<a class="resp-box col-3 col-right" href="http://www.hortifruti.com.br/ofertas/">
+<div>
+<img class="img-all-size" src="http://www.hortifruti.com.br/wp-content/uploads/2014/05/PEÇA-8_a.jpg" alt="Ofertas">
+</div>
+</a>
+</div>
+<div class="clear"></div>
+</div> </div>
+</div>
+</div>
+<div id="footer">
+<div class="center col-sm-1 col-xs-1 col-md-1">
+<div class="inner-center">
+<table>
+<tbody><tr>
+<td><img src="http://www.hortifruti.com.br/wp-content/themes/hortifruti-novo/img/logomarca-hortifruti.png"></td>
+<td><p>Hortifruti © 2017 - Todos os direitos reservados</p></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+uti-novo/img/logomarca-hortifruti.png"></td><td><p>Hortifruti © 2017 - Todos os direitos reservados</p></td>
+</tr>
+</tbody></table>
+<div class="clear"></div>
+</div>
+</div>
+</div>
+</div>
+</body>
+r"></div></div>
+</div>
+</div>
+</div>
+</body>
+</div>
+</body>
