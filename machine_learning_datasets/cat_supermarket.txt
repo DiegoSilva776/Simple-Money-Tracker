@@ -180,7 +180,7 @@ https://exame.abril.com.br/negocios/as-50-maiores-redes-de-supermercados-do-bras
 <nav class="main-menu navigation show-for-large-up">
 <ul class="links inline-list clearfix main-menu-links"><li class="first leaf" title=""><a href="/pt/veja">Veja</a></li><li title=""><a href="/pt/seja">Seja</a></li><li title=""><a href="/pt/viva">Viva</a></li><li title=""><a href="/pt/pop">Pop</a></li><li title=""><a href="/pt/explore">Explore</a></li><li title=""><a href="/pt/nas-telas">Nas Telas</a></li><li title=""><a href="/pt/saboreie">Saboreie</a></li><li><a href="/pt/mulher">Mulher</a></li><li class="leaf"><a href="/pt/videos">Videos</a></li><li class="bc-johnson"><a href="/pt/b/compartilhe-carinho">Compartilhe carinho</a></li><li class="bc-decarona"><a href="/pt/b/de-carona">De carona</a></li><li class="language-dropdown"><span>Selecione o idioma</span><ul><li><a class="vixen-site" href="https://www.vix.com/nginx/set/lang/en?sendto=/en/">EN</a></li><li><a class="vixes-site" href="https://www.vix.com/nginx/set/lang/es?sendto=/es/">ES</a></li><li><a class="vixpt-site" href="https://www.vix.com/nginx/set/lang/pt?sendto=/pt/">PT</a></li></ul></li></ul> </nav>
 <!-- Search Box -->
-<div class="search-box-region search-hide"><form action="/pt/bdm/lar/677/lista-de-compras-para-supermercado-itens-que-nao-podem-faltar-em-casa" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<div class="search-box-region search-hide"><form action="/pt/bdm/lar/677/lista-de-compras-para-supermercado-itens-que-nao-podem-faltar-em-casa" method="post" id="search-block-form" accept-charset="UTF-8"><div><div -inline">
 <h2 class="element-invisible">Formulário de busca</h2>
 <div class="form-item form-type-textfield form-item-search-block-form">
 <label class="element-invisible" for="edit-search-block-form--2">Buscar </label>
@@ -727,7 +727,7 @@ var customData = {"tag":["Carrefour","Comércio","Empresas","Empresas abertas","
 <!-- Fim do Objeto de dados --> <noscript>&lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVBN74" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
 <div id="abrAD_wallpaper" class="WallPaperAd"></div>
 <header class="header fb_digioh-margin">
-<div class="container">
+<div class= >
 <nav class="nav">
 <ul class="fb_digioh-margin">
 <li class="fullwidth">
@@ -852,7 +852,7 @@ var customData = {"tag":["Carrefour","Comércio","Empresas","Empresas abertas","
 </div>
 </header>
 <div class="sidebar-top hidden-xs hidden-sm">
-<div class="container">
+<div class= >
 <div id="abril_popular_posts_widget-12" class="widget"><div class="widget-popular-posts-container"><span class="widget-popular-posts-title content-box-title">Mais vistas</span><div class="widget-popular-posts"><div class="widget-popular-posts-list"><div class="widget-popular-posts-item col-xs-2"><a href="https://exame.abril.com.br/mundo/sobe-para-215-numero-de-mortos-em-atentado-na-somalia/" class="a-img here" rel="bookmark">
 <img src="https://abrilexame.files.wordpress.com/2017/10/somalia_atentado.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Civis em destroços após atentado com carros bombas na Somália" srcset="https://abrilexame.files.wordpress.com/2017/10/somalia_atentado.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2017/10/somalia_atentado.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2017/10/somalia_atentado.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2017/10/somalia_atentado.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="Civis em destroços após atentado com carros bombas na Somália"></a><a href="https://exame.abril.com.br/mundo/sobe-para-215-numero-de-mortos-em-atentado-na-somalia/" class="list-item-category">MUNDO</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">1</span><a href="https://exame.abril.com.br/mundo/sobe-para-215-numero-de-mortos-em-atentado-na-somalia/" class="">Sobe para 500 número de mortos em atentado na Somália</a></span></div></div><div class="widget-popular-posts-item col-xs-2"><a href="https://exame.abril.com.br/estilo-de-vida/saiba-por-que-gisele-e-tom-brady-raramente-comem-tomates/" class="a-img here" rel="bookmark">
 <img src="https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_gisele_e_tom_brady2.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Gisele Bundchen e Tom Brady" srcset="https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_gisele_e_tom_brady2.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_gisele_e_tom_brady2.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_gisele_e_tom_brady2.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_gisele_e_tom_brady2.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="size_960_16_9_gisele_e_tom_brady.jpg"></a><a href="https://exame.abril.com.br/estilo-de-vida/saiba-por-que-gisele-e-tom-brady-raramente-comem-tomates/" class="list-item-category">ESTILO DE VIDA</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">2</span><a href="https://exame.abril.com.br/estilo-de-vida/saiba-por-que-gisele-e-tom-brady-raramente-comem-tomates/" class="">Saiba por que Gisele e Tom Brady raramente comem tomates</a></span></div></div><div class="widget-popular-posts-item col-xs-2"><a href="https://exame.abril.com.br/estilo-de-vida/abusos-sexuais-de-weinstein-eram-permitidos-em-contrato/" class="a-img here" rel="bookmark">
@@ -862,7 +862,7 @@ var customData = {"tag":["Carrefour","Comércio","Empresas","Empresas abertas","
 <img src="https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_olhar-pelo-binoculo-e-se-desesperar1.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1" class="widget-popular-posts-thumb" alt="Olhar pelo binóculo e se desesperar" srcset="https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_olhar-pelo-binoculo-e-se-desesperar1.jpg?quality=70&amp;strip=info&amp;w=165&amp;h=110&amp;crop=1 165w, https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_olhar-pelo-binoculo-e-se-desesperar1.jpg?quality=70&amp;strip=info&amp;w=330&amp;h=220&amp;crop=1 330w, https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_olhar-pelo-binoculo-e-se-desesperar1.jpg?quality=70&amp;strip=info&amp;w=150&amp;h=100&amp;crop=1 150w, https://abrilexame.files.wordpress.com/2016/09/size_960_16_9_olhar-pelo-binoculo-e-se-desesperar1.jpg?quality=70&amp;strip=info&amp;w=300&amp;h=200&amp;crop=1 300w" sizes="(max-width: 165px) 100vw, 165px" title="size_960_16_9_olhar-pelo-binoculo-e-se-desesperar.jpg"></a><a href="https://exame.abril.com.br/seu-dinheiro/10-sinais-de-que-voce-nunca-sera-rico/" class="list-item-category">SEU DINHEIRO</a><div class="widget-popular-posts-info"><span class="widget-popular-posts-item-title"><span class="item-popular-order-number">6</span><a href="https://exame.abril.com.br/seu-dinheiro/10-sinais-de-que-voce-nunca-sera-rico/" class="">10 sinais de que você nunca será rico</a></span></div></div></div></div></div></div> </div>
 </div>
 <div id="superbanner-3" class="widget-superbanner absolute-superbanner"><div class="ad-top-offset"></div><div class="ad-top fb_digioh-margin"><div id="abrAD_leaderboard1"><div id="google_ads_iframe_/9287/exame/negocios_1__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/9287/exame/negocios_1" title="3rd party ad content" name="google_ads_iframe_/9287/exame/negocios_1" width="320" height="50" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" srcdoc="" style="border: 0px; vertical-align: bottom;"></iframe></div></div></div></div>
-<div class="container main-container ">
+<div main-container ">
 <div class="row">
 <div class="col-md-8 p402_premium">
 <article id="post-909678" class="article"><div class="paywall-notice fb_digioh-margin" style="position: fixed; left: 0px; bottom: 0px; width: 100%; z-index: 999;"></div>
@@ -1874,7 +1874,7 @@ margin-bottom: 50px;
 </div><!-- .assine-abril -->
 </div> </section>
 <footer class="footer" id="footer">
-<div class="container">
+<div class= >
 <div class="row">
 <div class="col-md-12">
 <div class="wrapper-referrers">
@@ -2550,3 +2550,11 @@ notificationTitle:"Urgente!",notificationMessage:"A not\u00edcia mais relevante 
 ntainer"></div>
 <iframe name="DigiohLocalStorageIframe" id="DigiohLocalStorageIframe" src="https://www.lightboxcdn.com/lclst/46700296-4e9a-44bb-aaf2-de560e4398f4/ls.html?purl=https%3A%2F%2Fexame.abril.com.br%2Fnegocios%2Fas-50-maiores-redes-de-supermercados-do-brasil%2F&amp;vid=46700296-4e9a-44bb-aaf2-de560e4398f4&amp;se=0&amp;prev=0&amp;cb=636432652379129407" width="0" height="0" style="position:absolute;visibility:hidden;left:-100px;top:-100px;width:0;height:0;margin:0;padding:0;border-width:0px;border-style:none;" tabindex="-1" frameborder="0" scrolling="no"></iframe><div id="lightbox-3c22a42a-74d8-41ae-b72d-2d204242cf2a-1508104176196" class="preloaded_lightbox fb_digioh-margin" style="z-index: 9948035; position: fixed; left: 151px; top: 273px; width: 640px; height: 413px; overflow: visible; opacity: 1;"><div title="Close" class="digioh_fb_close" style="position: absolute; width: 36px; height: 36px; cursor: pointer; z-index: 9948040; background-image: url(https://cdn.jsdelivr.net/fancybox/2.1.5/fancybox_sprite.png);display: none; top: -18px; right: -18px; "></div><iframe id="lightbox-iframe-3c22a42a-74d8-41ae-b72d-2d204242cf2a" width="100%" height="100%" frameborder="0" scrolling="no" style="display:block;position:absolute;margin:0;padding:0;border:none;width:100%;height:100%;"></iframe></div><div class="fb_digioh-overlay fb_digioh-overlay-fixed" style="width: auto; height: auto; background-image: none; background-color: rgb(0, 0, 0); display: block;"><div class="fb_digioh-wrap fb_digioh-desktop fb_digioh-type-html fb_digioh-opened" tabindex="-1" style="width: 640px; height: auto; position: absolute; top: 273px; left: 151px; overflow: visible;"><div class="fb_digioh-skin" style="padding: 0px; width: auto; height: auto;"><div class="fb_digioh-outer"><div class="fb_digioh-inner" style="overflow: hidden; width: 640px; height: 413px;"><div class="fb_digioh-content"></div></div></div><div title="Close" id="digioh_fb_close_hide" style="display:none;"></div></div></div></div></body>
 iv></body>
+feira do mês
+feira do mês
+>
+feira do mês
+feira do mês
+>
+feira do mês
+feira do mês

@@ -27,6 +27,7 @@ datasetFileNames = [
 ]
 
 for filename in datasetFileNames:
+    print("Applying basic clean up algorithm to file: " + filename)
 
     # Read the file content and store the content it in memory :(, then erase the file
     with open(os.path.join(os.getcwd(), filename), 'r+') as f:
@@ -44,8 +45,15 @@ for filename in datasetFileNames:
                 try:
 
                     if line != SECTION_OPENNING or line != SECTION_CLOSING:
-                        txt_cat_transport = line.replace('\n', ' ')
-                        txt_cat_transport = line.replace('\t', ' ')
+                        # Clean up undesired words
+                        txt_cat_transport = line.replace('\n', '')
+                        txt_cat_transport = txt_cat_transport.replace('\t', '')
+                        txt_cat_transport = txt_cat_transport.replace('\"container\"', '')
+                        txt_cat_transport = txt_cat_transport.replace('class=\"container', '')
+                        txt_cat_transport = txt_cat_transport.replace('class=\"container', '')
+                        txt_cat_transport = txt_cat_transport.replace('container-body', '')
+                        txt_cat_transport = txt_cat_transport.replace('./container', '')
+
                         words = txt_cat_transport.split()
                         cleanedLine = ' '.join(words)
                     else:

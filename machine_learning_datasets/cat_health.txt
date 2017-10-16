@@ -14,7 +14,7 @@ https://exame.abril.com.br/negocios/as-maiores-redes-de-farmacias-do-brasil-segu
 >>>---
 2 - Marcas/Produtos associados à saúde
 ---<<<
-<div class="container main-container ">
+<div main-container ">
 <div class="row">
 <div class="col-md-8 p402_premium">
 <article id="post-172829" class="article"><div class="paywall-notice" style="position: fixed; left: 0px; bottom: 0px; width: 100%; z-index: 999;"></div>
@@ -464,5 +464,8 @@ ul></div></div></div> </div>
 iv>
 </aside>
 </div></div>
+</div>
+iv>
+/div>
 </div>
 iv>

@@ -26,7 +26,7 @@ You must have JavaScript enabled in your browser to utilize the functionality of
 &lt;/div&gt;
 </noscript>
 <div class="page">
-<div class="container-header"><div class="container_24 "><div class="grid_24"><script src="https://s7.addthis.com/js/300/addthis_widget.js" type="text/javascript"></script>
+<div -header"><div _24 "><div class="grid_24"><script src="https://s7.addthis.com/js/300/addthis_widget.js" type="text/javascript"></script>
 <script type="text/javascript">
 jQuery(document).ready(function() {
 jQuery("span.scroll-top a").click(function() {
@@ -167,7 +167,7 @@ color:#323232 !important;
 position: fixed;
 }
 div.page .banner-1 { top:-40px; margin-bottom:-40px; }
-</style></div><div class="clear"></div></div></div><div class="container_24 "><div class="clear"></div></div><div class="container_24 "><div class="grid_24"><div class="breadcrumbs">
+</style></div><div class="clear"></div></div></div><div _24 "><div class="clear"></div></div><div _24 "><div class="grid_24"><div class="breadcrumbs">
 <ul>
 <li class="home">
 <a href="https://www.aventurando.com.br/" title="Início">Início</a>
@@ -641,7 +641,7 @@ janeiro 2014 </option>
 <script type="text/javascript">decorateList('wp-archive-list')</script>
 </div>
 </div>
-</div></div></div><div class="clear"></div></div><div class="container_24 "><div class="clear"></div></div><div class="container_24 container-footer"><div class="footer-inner grid_24"><div class="grid_16 alpha"><div class="footer">
+</div></div></div><div class="clear"></div></div><div _24 "><div class="clear"></div></div><div _24 container-footer"><div class="footer-inner grid_24"><div class="grid_16 alpha"><div class="footer">
 <div class="top-footer">
 <div class="inner-content">
 <div class="list">
@@ -786,7 +786,7 @@ Uma pesquisa da<em> Target Group Index</em> com 19.456 <strong>brasileiros</stro
 <p><em></em>– Lazer? O que é isso?<em></em></p>
 </div>
 <div class="espacador"></div>
-<div class="shareaholic-canvas shareaholic-ui shareaholic-resolved-canvas ng-scope" data-app-id="25454904" data-app-id-name="" data-app="share_buttons" data-title="As 10 Atividades de lazer mais praticadas pelos brasileiros" data-link="https://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/" data-summary="" id="shr_canvas2"><div ng-show="ready" ng-class="containerClasses" ng-controller="AppCtrl as appCtrl" shr-overflow-limit="3" shr-overflow-child=".shareaholic-share-button, .shareaholic-total-count" shr-overflow-last="false" shr-overflow-enabled="" shr-overflow-wiggle="5" shr-auto-size="" shr-auto-size-trigger="3" shr-auto-size-target=".shareaholic-share-button .share-button-sizing, .shareaholic-total-count" shr-auto-size-mobile="config.isMobile" shr-auto-size-min-size="44" class="ng-scope">
+<div class="shareaholic-canvas shareaholic-ui shareaholic-resolved-canvas ng-scope" data-app-id="25454904" data-app-id-name="" data-app="share_buttons" data-title="As 10 Atividades de lazer mais praticadas pelos brasileiros" data-link="https://lista10.org/diversos/as-10-atividades-de-lazer-mais-praticadas-pelos-brasileiros/" data-summary="" id="shr_canvas2"><div ng-show="ready" ng- Classes" ng-controller="AppCtrl as appCtrl" shr-overflow-limit="3" shr-overflow-child=".shareaholic-share-button, .shareaholic-total-count" shr-overflow-last="false" shr-overflow-enabled="" shr-overflow-wiggle="5" shr-auto-size="" shr-auto-size-trigger="3" shr-auto-size-target=".shareaholic-share-button .share-button-sizing, .shareaholic-total-count" shr-auto-size-mobile="config.isMobile" shr-auto-size-min-size="44" class="ng-scope">
 <div class="shareaholic-share-buttons-container shareaholic-ui no-print badge-counter" ng-style="config.verticalOffset &amp;&amp; (config.appName === 'floated_share_buttons' || config.app === 'floated_share_buttons') ? {top: config.verticalOffset} : {}" ng-class="canvasClasses">
 <div class="shareholic-show-container ng-hide" ng-class="{'right-alignment': !config.isLeftAligment}" ng-click="containerHidden = false" ng-show="config.showHideEnabled &amp;&amp; containerHidden">
 <img class="shareholic-show-hide-arrow" ng-class="{'orientation-left': config.isRightAligment}" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAABQCAMAAABoKAbvAAAAS1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD////m3hxmAAAAF3RSTlMAAwUOESQpPURmb3OMkZm0u9bb6u76/EQ4+xQAAAABYktHRBibaYUeAAABLElEQVRIx5XXRxLCMBBEUUROIsPc/6YU2BiFCd29/1V+YIM8O6YZN7ksyUBuazKQx5YM5LUnA5HTnAwI+hjg9F8A06cApUsxiF4GEL0KEHodAPQmiOnSLaD3QUBXAp+uBS5dDTy6GDPpVmDSzcCi24FBdwKdLu4Uuh8o9CDo6VHQ0cOgpQuwio4EFR0KSjoWFHQw+NMF3kjHg5FOBAOdCb50KvjQyeDABfcNd0nXFYc+L7iPNSfqi3vuuFvjw2WCL5cIBi4e5EQ9ohMXDP5cLCi4UFBykSAn6se44YZBy42CjhsEPdcPcqL+dlWuE+hcOzC4ZmBxrSAn6oDlcNXA42qBy1UCn9sHOVFH6ZDbBDG3DgBuFSDcMsj4+yLBnQKU+wtg7hjg3GGZfD1+A48urIHzHtL7AAAAAElFTkSuQmCC">
@@ -1094,3 +1094,9 @@ Recomendado por<span class="ob_amelia" title="outbrain.com"></span>
 </div>
 <div class="separador"></div>
 </div>
+100%;"></iframe></span></div>
+</div><div class="separador"></div>
+</div>
+<div class="separador"></div>
+</div>
+

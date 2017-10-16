@@ -10,7 +10,7 @@ https://pt.wikipedia.org/wiki/Categoria:Empresas_de_saneamento_do_Brasil
 >>>---
 1 - Sobre conta de água de modo geral
 ---<<<
-<body cz-shortcut-listen="true"><a name="top"></a><div class="container"><div class="top"><div id="issues"></div><table xmlns="" cellspacing="0" cellpadding="7" width="100%" border="0"><tbody><tr>
+<body cz-shortcut-listen="true"><a name="top"></a><div class= ><div class="top"><div id="issues"></div><table xmlns="" cellspacing="0" cellpadding="7" width="100%" border="0"><tbody><tr>
 <td valign="top" width="26%"><p align="center">
 <a href="http://www.scielo.br/scielo.php?lng=en"><img src="/img/en/fbpelogp.gif" border="0" alt="SciELO - Scientific Electronic Library Online"></a><br>
 </p></td>
@@ -2911,4 +2911,6 @@ Para mais detalhes, consulte as <a href="https://wikimediafoundation.org/wiki/Co
 <div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><div id="mwe-popups-svg"><svg width="0" height="0"><defs><clipPath id="mwe-popups-mask"><polygon points="0 8, 10 8, 18 0, 26 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-mask-flip"><polygon points="0 8, 274 8, 282 0, 290 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask"><polygon points="0 8, 174 8, 182 0, 190 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask-flip"><polygon points="0 0, 1000 0, 1000 242, 190 242, 182 250, 174 242, 0 242"></polygon></clipPath></defs></svg></div></body>
 alse}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":94,"wgHostname":"mw1185"});});</script>
 <div class="suggestions" style="display: none; font-size: 13px;"><div class="suggestions-results"></div><div class="suggestions-special"></div></div><div id="mwe-popups-svg"><svg width="0" height="0"><defs><clipPath id="mwe-popups-mask"><polygon points="0 8, 10 8, 18 0, 26 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-mask-flip"><polygon points="0 8, 274 8, 282 0, 290 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask"><polygon points="0 8, 174 8, 182 0, 190 8, 1000 8, 1000 1000, 0 1000"></polygon></clipPath><clipPath id="mwe-popups-landscape-mask-flip"><polygon points="0 0, 1000 0, 1000 242, 190 242, 182 250, 174 242, 0 242"></polygon></clipPath></defs></svg></div></body>
+y>
+/body>
 y>

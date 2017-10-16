@@ -428,7 +428,7 @@ Editorias </label>
 <!-- ______________________ FOOTER _______________________ -->
 <footer id="footer">
 <div class="sitemap">
-<div class="container_sitemap">
+<div _sitemap">
 <div class="editorials">
 <h3>Editorias</h3>
 <div class="ul_group">
@@ -3877,4 +3877,6 @@ http://www.mundovestibular.com.br/articles/19011/1/Cursos-mais-procurados-SISU-2
 </div><!-- End SharebarVerticalPanel -->
 <div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none; max-width: none;"></div></div><iframe name="oauth2relay752384706" id="oauth2relay752384706" src="https://accounts.google.com/o/oauth2/postmessageRelay?parent=http%3A%2F%2Fwww.mundovestibular.com.br&amp;jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.pt_BR.Jxsin-j2xYA.O%2Fm%3D__features__%2Fam%3DAQ%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNR0dWvmlvFHARDyeIJ2t03DoWoqA#rpctoken=1785394936&amp;forcesecure=1" tabindex="-1" aria-hidden="true" style="width: 1px; height: 1px; position: absolute; top: -100px;"></iframe><iframe id="rufous-sandbox" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" style="position: absolute; visibility: hidden; display: none; width: 0px; height: 0px; padding: 0px; border: none;" title="Twitter analytics iframe"></iframe><table cellspacing="0" cellpadding="0" class="gstl_50 gssb_c" style="width: 183px; display: none; top: 205px; left: 622px; position: absolute;"><tbody><tr><td class="gssb_f"></td><td class="gssb_e" style="width: 100%;"></td></tr></tbody></table><script src="/hqx/min/?b=javascript&amp;f=formUtil_articles.js,vizury.js,sticky.sidebar.js"></script></body>
 ></td></tr></tbody></table><script src="/hqx/min/?b=javascript&amp;f=formUtil_articles.js,vizury.js,sticky.sidebar.js"></script></body>
+>
+cript></body>
 >
