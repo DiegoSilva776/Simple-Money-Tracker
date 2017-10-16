@@ -388,12 +388,15 @@ margin-bottom: 50px;
 </span>
 <span class="ob-unit ob-rec-text" data-type="Title" title="Fábrica chinesa de bitcoin emite US$ 318.000 diariamente">Fábrica chinesa de bitcoin emite US$ 318.000 diariamente</span>
 </a>
-</li><li class="ob-dynamic-rec-container ob-recIdx-1 ob-o" data-pos="1"><a class="ob-dynamic-rec-link" onclick="" href="http://exame.abril.com.br/negocios/uber-o-dia-a-dia-de-uma-empresa-sob-pressao/" onmousedown="this.href='https://traffic.outbrain.com/network/redir?p=3Lr7-xINNIRHPxoBVeKzHD-DNVCU-4LPj7aKKat_nijcm_cn8MR171ID3GxQ09Qsufe3eke9NVzskbVrLZZUH2aY6WKMD8_2Q2y7KsfPsO5TwuFuNcDP8Hxz3Ze2MV2RchI739DYyM0BAobKulKyyY46FBoZAhxF6HM8DJ1o1vGlenuypm_Dc3uk2HWcSjdYvrUE9WsfFk8yvv5GRb5QaOaFLS7_ttLn2Zlqbziv56o5wJ-2m_zWSLTZUo1D0bBVYVFIZakDa5Lj8g_i_Py8ZsiVZKJ-_200EsaxaYn-sgnwBLnNhRIoEGLUYA0UUgnc0tHqUgf23Oj26LDVZOCIVRUvjPkTQbL17Yg_cEfZ5C7lGYo08ydgD02AwlrafrNYxKS9VevOIQE7hfXxLwpWAA_kl-Axbdlfie8Z2TsEaRdew8_nIZtgab8RvusQHnrarllrsdI5xo9cBmQkBGOBgWq_v4C8cH28yzfnIEk-vMWzdHbs6fk-_A_-LzM1-QEMk-sDNTB6wUsSR-zVVpdF7x_4c-4WXuRexEzKT9vAfAjnVOPt3DtxWsZJ0BIyyK-z6aeqsNEFySOrYrKOf1GSMtaLdXFnIthk_F6AQYDhWXMAYDIoZ-iiGF6t2bSwsoBkjMPsukuWll0JIV_kYazPzWiCMAMZQTAmgCURZ8M1KB5otmrcegGGcZlvxajP4cIIYa1pao_sRbeniVxrBBGl4A&amp;c=c419c41b&amp;v=3'; " target="_self" rel="">
+</li><li class="ob-dynamic-rec-container ob-recIdx-1 ob-o" data-pos="1"><a class="ob-dynamic-rec-link" onclick="" href="http://exame.abril.com.br/negocios/
+-o-dia-a-dia-de-uma-empresa-sob-pressao/" onmousedown="this.href='https://traffic.outbrain.com/network/redir?p=3Lr7-xINNIRHPxoBVeKzHD-DNVCU-4LPj7aKKat_nijcm_cn8MR171ID3GxQ09Qsufe3eke9NVzskbVrLZZUH2aY6WKMD8_2Q2y7KsfPsO5TwuFuNcDP8Hxz3Ze2MV2RchI739DYyM0BAobKulKyyY46FBoZAhxF6HM8DJ1o1vGlenuypm_Dc3uk2HWcSjdYvrUE9WsfFk8yvv5GRb5QaOaFLS7_ttLn2Zlqbziv56o5wJ-2m_zWSLTZUo1D0bBVYVFIZakDa5Lj8g_i_Py8ZsiVZKJ-_200EsaxaYn-sgnwBLnNhRIoEGLUYA0UUgnc0tHqUgf23Oj26LDVZOCIVRUvjPkTQbL17Yg_cEfZ5C7lGYo08ydgD02AwlrafrNYxKS9VevOIQE7hfXxLwpWAA_kl-Axbdlfie8Z2TsEaRdew8_nIZtgab8RvusQHnrarllrsdI5xo9cBmQkBGOBgWq_v4C8cH28yzfnIEk-vMWzdHbs6fk-_A_-LzM1-QEMk-sDNTB6wUsSR-zVVpdF7x_4c-4WXuRexEzKT9vAfAjnVOPt3DtxWsZJ0BIyyK-z6aeqsNEFySOrYrKOf1GSMtaLdXFnIthk_F6AQYDhWXMAYDIoZ-iiGF6t2bSwsoBkjMPsukuWll0JIV_kYazPzWiCMAMZQTAmgCURZ8M1KB5otmrcegGGcZlvxajP4cIIYa1pao_sRbeniVxrBBGl4A&amp;c=c419c41b&amp;v=3'; " target="_self" rel="">
 <span class="ob-unit ob-rec-image-container" data-type="Image">
 <div class="ob-image-ratio"></div>
-<img class="ob-rec-image ob-show" src="https://images.outbrain.com/v1/ZkFCQkZVUHh1cVI5eTNwRmozQS9lZz09/eyJpdSI6ImUxYzFhZTdkNmZiNTQyYzRhNTljYzY3ZGQzZTg5ZDNiNjgyZDViYmEwOTliYjE2ZTczZGYxM2E2NTIwMTJhNTciLCJ3IjoxNjUsImgiOjExMCwiZCI6MS4wLCJjcyI6MCwiZiI6MH0%3D.webp" onload="this.className+=' ob-show'" alt="Após bonança, Uber vive momento inesperado no Brasil" title="Após bonança, Uber vive momento inesperado no Brasil" onerror="OBR.extern.imageError(this)">
+<img class="ob-rec-image ob-show" src="https://images.outbrain.com/v1/ZkFCQkZVUHh1cVI5eTNwRmozQS9lZz09/eyJpdSI6ImUxYzFhZTdkNmZiNTQyYzRhNTljYzY3ZGQzZTg5ZDNiNjgyZDViYmEwOTliYjE2ZTczZGYxM2E2NTIwMTJhNTciLCJ3IjoxNjUsImgiOjExMCwiZCI6MS4wLCJjcyI6MCwiZiI6MH0%3D.webp" onload="this.className+=' ob-show'" alt="Após bonança,
+vive momento inesperado no Brasil" title="Após bonança, vive momento inesperado no Brasil" onerror="OBR.extern.imageError(this)">
 </span>
-<span class="ob-unit ob-rec-text" data-type="Title" title="Após bonança, Uber vive momento inesperado no Brasil">Após bonança, Uber vive momento inesperado no Brasil</span>
+<span class="ob-unit ob-rec-text" data-type="Title" title="Após bonança, vive momento inesperado no Brasil">Após bonança,
+vive momento inesperado no Brasil</span>
 </a>
 </li> </ul>
 </div>
@@ -468,4 +471,6 @@ iv>
 iv>
 /div>
 </div>
+iv>
+>
 iv>

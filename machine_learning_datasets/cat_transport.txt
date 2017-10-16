@@ -11,6 +11,8 @@ http://www.motoo.com.br/marcas/
 4 - Carros
 https://pt.wikipedia.org/wiki/Lista_de_autom%C3%B3veis_do_Brasil
 https://www.webmotors.com.br/
+5 - apps
+https://www.pegadesconto.com.br/aplicativos-para-transporte-confira-os-6-melhores/
 >>>---
 1 - Transportes de modo geral
 ---<<<
@@ -4006,6 +4008,9 @@ document.body.className = c;
 <li class="menu-item menu-item-type-taxonomy"><a href="/modelos/carroceria/tecnobus/">Tecnobus</a></li>
 <li class="menu-item menu-item-type-taxonomy"><a href="/modelos/carroceria/volare/">Volare</a></li>
 </ul>
+Uber Uber Uber Uber
+99Pop 99Pop 99Pop
+EasyTaxi
 </li>
 bicicleta
 bicicleta
@@ -8138,3 +8143,39 @@ keyValuePairs.forEach(function(a){a=a.split("\x3d");"click_id"==a[0]&&(document.
 <script type="text/javascript" id="">window.criteo_q=window.criteo_q||[];window.criteo_q.push({event:"setAccount",account:[14477,40495]},{event:"setHashedEmail",email:google_tag_manager["GTM-HR4D"].macro('gtm2')},{event:"setSiteType",type:"d"},{event:"viewHome"});</script><div id="criteo-tags-div" style="display: none;"><iframe height="0" width="0" src="//dis.us.criteo.com/dis/dis.aspx?p=14477&amp;cb=22294702993&amp;ref=https%3A%2F%2Fwww.google.com.br%2F&amp;sc_r=1920x1080&amp;sc_d=24" style="display: none;"></iframe></div><script type="text/javascript" id="">if("undefined"!==typeof google_tag_manager["GTM-HR4D"].macro('gtm5')){var pos=google_tag_manager["GTM-HR4D"].macro('gtm6').search("organic");0<pos?dataLayer.push({event:"source.organic"}):dataLayer.push({event:"source.other"})};</script></body>
 ro('gtm5')){var pos=google_tag_manager["GTM-HR4D"].macro('gtm6').search("organic");0<pos?dataLayer.push({event:"source.organic"}):dataLayer.push({event:"source.other"})};</script></body>
 Fusca
+>>>---
+5 - Apps
+---<<<
+Aplicativos para transporte: confira os 6 melhores!
+Conheça os melhores aplicativos para transporte por táxi ou de carona como Uber, Meleva, 99Taxis, Easy Taxi, Cabify e outros app.
+Especialmente por conta da popularização dos smartphones e até pela crise econômica que o Brasil enfrentou nos últimos tempos, as pessoas estão em busca de alternativas mais econômicas e eficientes para sua locomoção. E é nesse contexto que os aplicativos para transporte estão ficando cada vez mais populares.
+Práticos e modernos, eles são a escolha perfeita para quem quer se aproveitar da tecnologia para encurtar distâncias e dar uma folga para o bolso. Confira o conteúdo que preparamos a seguir e veja uma lista com algumas das melhores opções de aplicativos para transporte do mercado:
+1. Easy Taxi
+O Easy Taxi é um dos aplicativos de transporte mais populares entre os brasileiros e vem ganhando ainda mais espaço, especialmente nos grandes centros urbanos. Por conta da concorrência de apps de carona ou de carros particulares, suas funcionalidades ficaram ainda mais interessantes para os clientes.
+Com uma interface simples e intuitiva, o usuário pode chamar um motorista e ficar checando a sua localização por meio de um mapa na tela. O programa também permite fazer o pagamento somente após o embarque e oferece a opção de utilizar cartões de débito ou crédito.
+Disponível para: Android e iOS.
+2. BlaBlaCar
+Já o BlaBlaCar é um aplicativo de transporte destinado para quem quer arranjar uma carona. A premissa do programa é que essa iniciativa reduz congestionamentos, diminui a poluição e gera economia nas despesas.
+Exemplo de viagem com o BlaBlaCar app.
+No registro, o usuário deve indicar se é pedestre ou motorista. Dessa forma, ele passa a visualizar as rotas programadas ou então a montar um roteiro e disponibilizá-lo para outras pessoas. Há também um sistema para classificar as experiências.
+Disponível para: Android e IOS.
+3. 99Taxis
+O 99Taxis é outro aplicativo bastante popular em nosso país. Simples e com uma interface amigável, ele exige apenas um cadastro rápido para que os usuários já possam contar com seus benefícios.
+Tela do Aplicativo 99Taxis
+Entre os diferenciais do programa está a grande quantidade de dados disponíveis sobre o motorista, como número da placa, modelo do carro e telefone. Tal qual os outros apps, ele também disponibiliza um mapa para saber a localização do taxista e o tempo de chegada.
+Disponível para: Android e iOS.
+4. Uber
+É praticamente impossível falar de aplicativos de transporte sem citar a Uber. Presente em dezenas e dezenas de países, ele revolucionou o conceito desses programas e já faz parte da realidade de muitos brasileiros, especialmente nos grandes centros urbanos.
+Tela de exemplo de viagem com a Uber.
+Ele oferece opções como o Uber Black, com veículos mais luxuosos, e o Uber Pool, que permite compartilhar as corridas com outros passageiros. O pagamento é feito por cartão de crédito, mas algumas cidades já contam com a alternativa de usar dinheiro.
+Disponível para: Android e iOS.
+5. Vá de Táxi
+O Vá de Taxi é simples, objetivo e com pouca burocracia. O aplicativo brasileiro é bem adaptado às nossas necessidades e atende bem ao seu público. O funcionamento é similar aos concorrentes, com um mapa que mostra o nome do profissional, placa do carro e telefone de contato.
+A interface simples agrada bastante e possibilita visualização do mapa com a localização do motorista, troca de mensagens e comentários sobre a experiência. O pagamento é feito por dinheiro ou cartão de crédito, à escolha do usuário.
+Disponível para: Android e iOS.
+6. MeLeva
+O MeLeva é um aplicativo para transporte que visa unir pessoas que farão o mesmo trajeto para uma carona. Sua premissa é que, em cidades com problemas de mobilidade urbana, esse tipo de atitude torne o convívio mais racional e sustentável.
+O funcionamento é bem simples: você coloca o lugar de partida e o destino, com o dia e a hora desejados e pronto! Você encontra outras pessoas que farão o mesmo percurso, sem gastar nada por isso.
+Disponível para: Android e iOS.
+Esses são alguns dos principais aplicativos para transporte disponíveis no mercado! Gostou dessa lista? Então confira também: como viajar de graça usando o código promocional no Uber!
+igo promocional no Uber!
