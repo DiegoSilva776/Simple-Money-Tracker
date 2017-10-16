@@ -191,6 +191,7 @@ class Expense(models.Model):
         import numpy as np
         twenty_test = dict()
         twenty_test['target'] = twenty_train['target']
+        twenty_test['target_names'] = twenty_train['target_names']
         docs_test = [
             'mamadeira',
             'bolo de rolo', 
@@ -207,16 +208,22 @@ class Expense(models.Model):
             'internet',
             'telefone',
             'passeio',
-            'feira do mês', 
-            'VEM'
+            'cerveja',
+            'ônibus'
         ]
 
+        # Run the Classifier with the test set
         docs_new = docs_test
         X_new_counts = count_vect.transform(docs_new)
         X_new_tfidf = tfidf_transformer.transform(X_new_counts)
-
         predicted = clf.predict(X_new_tfidf)
+
+        # Print the performance results
         print(np.mean(predicted == twenty_test['target']))
+
+        from sklearn import metrics
+        print(metrics.classification_report(twenty_test['target'], predicted, target_names=twenty_test['target_names']))
+        metrics.confusion_matrix(twenty_test['target'], predicted)
 
         # Make predictions for the expense category, based on the trained classifier
         print('\n11 - Making predictions for the expense category, based on the trained classifier ...')
